@@ -1,0 +1,47 @@
+site_name: VALRO Documentations
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    -navigation.instant
+    -navigation.instant.progress
+    -navigation.instant.preview
+    -navigation.tracking
+    -navigation.tabs
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+   - glightbox
+
+extra_css:
+  - stylesheets/extra.css
