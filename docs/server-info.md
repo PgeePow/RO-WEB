@@ -15,7 +15,7 @@
 
 + Equipment - 3x
 + Normal Card - x4
-+ MVP/Mini Boss Drop - x1 ![Image title](https://file5s.ratemyserver.net/mobs/1904.gif){ align=left }
++ MVP/Mini Boss Drop - x1
 + MVP/Mini Boss Card - x3
 
 ##**Server Information**

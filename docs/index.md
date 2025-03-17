@@ -66,31 +66,31 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 -   **Daily Quest**
    
     
-    Kill a monster, collect specific item to earn EXP rewards ingame. Item requirement is tradeable has value
+    Kill a monster, collect specific item to earn EXP rewards ingame. Item requirement is tradeable has value<br>
     [Learn More](daily-quest.md)
 
 -   **Hunting Mission**
    
     
-    Take on monster-slaying quests and earn valuable rewards
+    Take on monster-slaying quests and earn valuable rewards<br><br>
     [Learn More](hunting-mission.md)
 
 -   **Coins System**
    
     
-    Monsters have a 5% chance to drop Special Coins, which can also be earned through quests and events.
+    Monsters have a 5% chance to drop Special Coins, which can also be earned through quests and events.<br>
     [Learn More](coin-system.md)
 
 -   **Headgear Quest**
    
     
-    Players complete quests to earn unique headgears with special titles..
+    Players complete quests to earn unique headgears with special titles..<br>
     [Learn More](headgear-quest.md)
 
 -   **Warper Quest**
    
     
-    Warper NPC which provide service to teleport to dungeon..
+    Warper NPC which provide service to teleport to dungeon..<br>
     [Learn More](warper-quest.md)
 
 </div>
