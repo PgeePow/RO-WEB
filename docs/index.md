@@ -66,16 +66,25 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
    
     
     Kill a monster, collect specific item to earn EXP rewards ingame. Item requirement is tradeable has value
+    [Learn More](daily-quest.md)
 
 -   **Hunting Mission**
    
     
     Take on monster-slaying quests and earn valuable rewards
+    [Learn More](hunting-mission.md)
 
 -   **Coins System**
    
     
     Monsters have a 5% chance to drop Special Coins, which can also be earned through quests and events.
+    [Learn More](coin-system.md)
+
+-   **Headgear Quest**
+   
+    
+    Players complete quests to earn unique headgears with special titles..
+    [Learn More](headgear-quest.md)
 
 </div>
 
