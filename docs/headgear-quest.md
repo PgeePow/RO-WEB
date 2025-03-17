@@ -35,5 +35,3 @@ Here’s a quick note on **Headgear Quests** in our server:
 - Script NPC with **quest tracking & rewards**.  
 - Add **headgear sprites & item database** updates.  
 - Ensure **balance** (no overpowered headgear).  
-
-Would you like a sample NPC script? 🚀
