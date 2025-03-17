@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
 !!! note 
@@ -103,4 +104,5 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 - ❓ [FAQ](faq.md)
 
 ## 📢 **Join Our Community**
-[![Join our Discord](https://img.shields.io/discord/123456789?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/6qQUbAeHrx)
+![Discord](https://img.shields.io/discord/1350028562924830730?logo=discord&label=Join%20Our%20Discord&link=https%3A%2F%2Fdiscord.gg%2F6qQUbAeHrx)
+
