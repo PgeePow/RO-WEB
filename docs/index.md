@@ -5,7 +5,7 @@ hide:
 ---
 
 !!! note 
-    The wiki is till under contruction, all new details will be added in fuuture
+    The page is till under development, all new details will be added in future
 <br>
 
 # Welcome to <span style="color:#6D28D9;">**VALKARIA**</span>, Adventurers!
@@ -16,10 +16,12 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 ![Banner](assets/banner.png){ loading=lazy }
 
+----------------------------------------------
+
 ## Everything you would expect
 <div class="grid cards" markdown>
 
--     <p class="custom-feature"> :material-bike-fast:{.icon} **Stable & Lag-Free Server** </p>
+-    <p class="custom-feature"> :material-bike-fast:{.icon} **Stable & Lag-Free Server**</p>
     
     Enjoy smooth gameplay with minimal downtime.  
     
@@ -34,6 +36,14 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 -   <p class="custom-feature"> :simple-internetcomputer:{.icon} **Active Development & Support**</p>
 
     Our dedicated team constantly updates and maintains the server.  
+
+-   <p class="custom-feature"> :material-cash-off:{.icon} **Non P2W Server**</p>
+
+    Cash shop is focused on Customes only and any headgear in cash shop can be obtainable via quest.
+
+-   <p class="custom-feature"> :fontawesome-solid-people-group:{.icon} **Competitive Gameplay**</p>
+
+    Join a friendly and active community with thrilling PvP, WoE, and cooperative events that keep the game exciting for everyone!
 
 </div>
 
