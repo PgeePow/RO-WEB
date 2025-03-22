@@ -5,18 +5,18 @@
 
 **Basic Rates**
 
-+ 7.5x/7.5x/4x
++ 7.5x/7.5x/5x
 
 **Weekends Rates**
 
-+ 10x/10x/4x
++ 10x/10x/5x
 
 **Fixed Rates**
 
-+ Equipment - 3x
-+ Normal Card - x4
-+ MVP/Mini Boss Drop - x1
-+ MVP/Mini Boss Card - x3
++ Equipment - 5x
++ Normal Card - 4x
++ Mini Boss Card - x3
++ MVP Card - x2
 
 ##**Server Information**
 
@@ -29,7 +29,7 @@
 + ASPD : 190
 + Instant Cast : 150 Dex
 + Multi Client : NO
-+ Party Share Range : TBC
++ Party Share Range : Within Screen
 + Minimum Skill Delay : TBC
 + Minimum Usable Item Delay : TBC
 + International Server
