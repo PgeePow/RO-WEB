@@ -8,11 +8,11 @@ hide:
     The page is till under development, all new details will be added in future
 <br>
 
-# Welcome to <span style="color:#6D28D9;">**VALKARIA**</span>, Adventurers!
+# Welcome to **VALKARIA**, Adventurers!
 
 We are thrilled to have you join **ValRO**, a  server dedicated to delivering an exciting, fair, and engaging gaming experience. Whether you're a veteran or a new player, our server provides a balanced gameplay environment, customized features, and a supportive community to ensure you have the best time possible.
 
-[Register Now](#){ .md-button .md-button--primary }
+<!-- [Register Now](#){ .md-button .md-button--primary } -->
 
 ![Banner](assets/banner.png){ loading=lazy }
 
@@ -103,6 +103,11 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     Warper NPC which provide service to teleport to dungeon..<br>
     [Learn More](warper-quest.md)
 
+-   **Random Option**
+   
+    
+    Equipment drop has extra random stats base on equipment level<br>
+    [Learn More](random-option.md)
 </div>
 
 ## 🔥 **Quick Links**
