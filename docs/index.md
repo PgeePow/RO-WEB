@@ -110,13 +110,39 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Learn More](random-option.md)
 </div>
 
-## 🔥 **Quick Links**
-- 📖 [Getting Started](getting-started.md)
-- ℹ️ [Server Info](server-info.md)
-- ⚔️ [Server Features](server-features.md)
-- 📜 [Rules & Policies](rules.md)
-- 🎁 [Donations & VIP](donations.md)
-- ❓ [FAQ](faq.md)
+## Extra Features
+
+<div class="grid cards" markdown>
+   
+-   
+    
+    Hourly Reward<br>
+    Attendance System<br>
+    MVP Checker<br>
+    Adjusted Sale Item<br>
+    Healer<br>
+
+- 
+
+    Vendor System<br>
+    Costume Converter<br>
+    Automatic Event<br>
+    Endless Cellar<br>
+    Battleground<br>
+
+- 🔥 **Quick Links**
+  
+    📖 [Getting Started](getting-started.md)<br>
+    ℹ️ [Server Info](server-info.md)<br>
+    ⚔️ [Server Features](server-features.md)<br>
+    📜 [Rules & Policies](rules.md)<br>
+    🎁 [Donations & VIP](donations.md)<br>
+    ❓ [FAQ](faq.md)<br>
+
+</div>
+
+
+
 
 ## 📢 **Join Our Community**
 ![Discord](https://img.shields.io/discord/1350028562924830730?logo=discord&label=Join%20Our%20Discord&link=https%3A%2F%2Fdiscord.gg%2F6qQUbAeHrx)
