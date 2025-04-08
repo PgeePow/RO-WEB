@@ -124,8 +124,8 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 - 
 
-    Vendor System<br>
-    Costume Converter<br>
+    [Vendor System](vendor.md) <br>
+    [Costume Converter](costume-converter.md)<br>
     Automatic Event<br>
     Endless Cellar<br>
     Battleground<br>
