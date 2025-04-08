@@ -134,7 +134,6 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
   
     📖 [Getting Started](getting-started.md)<br>
     ℹ️ [Server Info](server-info.md)<br>
-    ⚔️ [Server Features](server-features.md)<br>
     📜 [Rules & Policies](rules.md)<br>
     🎁 [Donations & VIP](donations.md)<br>
     ❓ [FAQ](faq.md)<br>

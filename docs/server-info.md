@@ -39,12 +39,39 @@
 ##**Server Features**
 
 + No Custom Items
-+ PvP Mode on Most Locations After 80 lvl
++ No Job Changer
++ No Overpowered item in Shop (Only Cosmetics)
 + Daily Rewards System
 + Lots of Classic Quests
-+ Treasure Hunter Guild
-+ Super Items Quests
++ Random Options on Equipment Drops
++ Instances
++ Adjusted item price (sell)
 
-##**Technical & Hardware Information**
+# 📜 Available Commands
 
+Below is a list of available in-game commands on **ValkariaRO** and what they do:
+
+| Command            | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| `@commands`        | Displays a list of all available commands.                                  |
+| `@mi` or `@mobinfo`| Shows detailed information about a monster (HP, drops, etc.).               |
+| `@ii` or `@iteminfo`| Shows detailed information about an item.                                  |
+| `@whodrops`        | Lists monsters that drop a specified item.                                  |
+| `@changedress`     | Instantly refreshes your outfit sprite for visual updates.                  |
+| `@autotrade`       | Enables vending or buying while offline.                                    |
+| `@rates`           | Displays the server's current EXP, drop, and job rate settings.             |
+| `@uptime`          | Shows how long the server has been online without restarting.               |
+| `@exp`             | Displays how much EXP you need to reach the next base and job level.        |
+| `@servertime`      | Displays the current server time.                                            |
+| `@hominfo`         | Displays information about your Homunculus (level, stats, intimacy, etc.).  |
+| `@autoloot`        | Automatically loots all dropped items from monsters.                        |
+| `@alootid`         | Sets specific item IDs to auto-loot.                                        |
+| `@autoloottype`    | Sets auto-loot behavior by item type (e.g. equipment, consumables).         |
+| `@request`         | Sends a support request to GMs or staff online.                             |
+| `@noks`            | Prevents kill-stealing by locking monsters you hit first.                   |
+| `@whereis`         | Shows maps where a specific monster can be found.                           |
+| `@showexp`         | Displays the amount of EXP you gained after killing a monster.              |
+| `@searchstore` or `@ss` | Searches for a specific item being sold in player vending shops. Check [Vendor](vendor.md) for more info.      |
+
+> 💡 Tip: Use these commands in-game by typing them in the chat window.
 
