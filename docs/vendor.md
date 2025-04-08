@@ -42,8 +42,13 @@ Using the **Search Store** function, you can purchase items directly from a vend
 
 1. Type `@searchstores` or `@ss`.
 2. A search window will appear. Enter the name of the item you want to find.
-3. Browse results from all online vendors.
-4. Click **Buy** to purchase the item instantly — no need to visit the vendor’s location. But you need to be in the same map as the vendor
+3. Untick *Include Similar Items?* for better search results.
+4. Use full name for search eg: Red Potions, White Potions or use @ii to find correct item name
+
+![Searchstores Picture](assets/npc/seachstoreswindow.png)
+
+1. Browse results from all online vendors.
+2. Click **Buy** to purchase the item instantly — no need to visit the vendor’s exact location. But you need to be in the same map as the vendor
 
 > ⚡ This function streamlines your shopping experience and saves you valuable time.
 
@@ -65,6 +70,8 @@ If your character doesn’t belong to the Merchant class:
 - Go to **Morroc Pub**
 - Locate the **Black Marketeer**  
   → Use command: `/navi morocc 45/108`
+
+![Black Marketeer](assets/npc/blackmarketeer.png)
 
 The Black Marketeer allows any class to open a buying store with the same rules and requirements as Merchants.
 
