@@ -1,7 +1,7 @@
 
-#Detailed Server Information
+# Detailed Server Information
 
-##**Server Config**
+## **Server Config**
 
 **Basic Rates**
 
@@ -18,7 +18,7 @@
 + Mini Boss Card - x3
 + MVP Card - x2
 
-##**Server Information**
+## **Server Information**
 
 + Server Name : ValkariaRO
 + Server Mode : Classic Pre-Renewal
@@ -36,7 +36,7 @@
 + Server Language : English
 + Server Time : CET +8
 
-##**Server Features**
+## **Server Features**
 
 + No Custom Items
 + No Job Changer
@@ -46,6 +46,7 @@
 + Random Options on Equipment Drops
 + Instances
 + Adjusted item price (sell)
+
 
 # 📜 Available Commands
 
@@ -57,7 +58,6 @@ Below is a list of available in-game commands on **ValkariaRO** and what they do
 | `@mi` or `@mobinfo`| Shows detailed information about a monster (HP, drops, etc.).               |
 | `@ii` or `@iteminfo`| Shows detailed information about an item.                                  |
 | `@whodrops`        | Lists monsters that drop a specified item.                                  |
-| `@changedress`     | Instantly refreshes your outfit sprite for visual updates.                  |
 | `@autotrade`       | Enables vending or buying while offline.                                    |
 | `@rates`           | Displays the server's current EXP, drop, and job rate settings.             |
 | `@uptime`          | Shows how long the server has been online without restarting.               |
