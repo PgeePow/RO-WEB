@@ -12,7 +12,7 @@ Your ValkariaRO adventure just got even more exciting! Our server features a uni
 
 - Only **equipment dropped by monsters** can have random options.
 - Random options are grouped based on equipment type: **Melee**, **Ranged**, **Magic**, and **Armor**.
-- Each eligible item may receive **1 to 3 options**, depending on its category.
+- Each eligible item will receive **3 options**, from all category.
 - These options are automatically rolled when the item drops.
 - All options are considered **Level 1 Tier** for now — more may come in future expansions!
 
@@ -215,7 +215,7 @@ Tailored for spellcasters and magic users.
 
 ## 🛡️ Armor Options
 
-Armor items can roll **up to 2 random options**, focusing on survivability and resistances.
+Armor items will roll **up 2 random options**, focusing on survivability and resistances.
 
 | Slot 1                | Slot 2                           |
 |------------------------|----------------------------------|
@@ -238,11 +238,10 @@ Armor items can roll **up to 2 random options**, focusing on survivability and r
 
 ## 🧪 Planned Features (Coming Soon)
 
-- Option rerolling system via NPC.
-- Higher level random options (Level 2+).
-- Special dungeon-only option pools.
+- Random options maintained after enchant
+- Random options maintained after card socket
 
 ---
 
-> 💬 If you have suggestions or want to report any bugs, join our [Discord server](https://yourdiscordlink.com) and tag the GM team!
+> 💬 If you have suggestions or want to report any bugs, join our [Discord server](https://discord.gg/5sdvj8sPYg) and tag the GM team!
 
