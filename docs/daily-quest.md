@@ -35,40 +35,41 @@ Repeatable quests in ValkariaRO provide consistent experience gains and valuable
 
 ### 🏆 Top 5 Most Efficient
 
-1. **Sharp Leaf Turn-In** (Lilla)  
 
-   - 📍 Location: `/navi um_fild01 35/281`  
-   - 🎯 Level: 60-85  
-   - 💰 Items: 50 Sharp Leaves  
-   - ✨ Reward: 524,970 Base EXP  
+1. **Sharp Leaf Turn-In** (Lilla)
+
+    - 📍 Location: `/navi um_fild01 35/281`  
+    - 🎯 Level: 60-85  
+    - 💰 Items: 50 Sharp Leaves  
+    - ✨ Reward: 524,970 Base EXP  
 
 2. **Bacillus Collection** (Local Villager) 
  
-   - 📍 Location: `/navi ein_fild01 43/249`  
-   - 🎯 Level: 60-74  
-   - 💰 Items: 50 Bacillus  
-   - ✨ Reward: 500,532 Base EXP  
+    - 📍 Location: `/navi ein_fild01 43/249`  
+    - 🎯 Level: 60-74  
+    - 💰 Items: 50 Bacillus  
+    - ✨ Reward: 500,532 Base EXP  
 
 3. **Anolian Skin Delivery** (Cuir)
   
-   - 📍 Location: `/navi cmd_fild01 362/256`  
-   - 🎯 Level: 45-80  
-   - 💰 Items: 20 Anolian Skins  
-   - ✨ Reward: 137,900 Base EXP  
+    - 📍 Location: `/navi cmd_fild01 362/256`  
+    - 🎯 Level: 45-80  
+    - 💰 Items: 20 Anolian Skins  
+    - ✨ Reward: 137,900 Base EXP  
 
 4. **Dokebi Horns** (Li)  
 
-   - 📍 Location: `/navi pay_fild10 108/357`  
-   - 🎯 Level: 35-70  
-   - 💰 Items: 50 Dokebi Horns  
-   - ✨ Reward: 84,000 Base EXP  
+    - 📍 Location: `/navi pay_fild10 108/357`  
+    - 🎯 Level: 35-70  
+    - 💰 Items: 50 Dokebi Horns  
+    - ✨ Reward: 84,000 Base EXP  
 
 5. **Frill Collection** (Lemly)  
 
-   - 📍 Location: `/navi moc_fild17 66/273`  
-   - 🎯 Level: 30-65  
-   - 💰 Items: 25 Frills  
-   - ✨ Reward: 60,000 Base EXP  
+    - 📍 Location: `/navi moc_fild17 66/273`  
+    - 🎯 Level: 30-65  
+    - 💰 Items: 25 Frills  
+    - ✨ Reward: 60,000 Base EXP  
 
 ---
 
@@ -78,38 +79,38 @@ Repeatable quests in ValkariaRO provide consistent experience gains and valuable
 
 1. **Ice Titan Slayer** (Henry)
 
-   - 📍 Location: `/navi ice_dun03 140/26`  
-   - 🎯 Level: 70-95  
-   - 🎯 Target: 50 Ice Titans  
-   - ✨ Reward: 910,000 Base EXP  
+    - 📍 Location: `/navi ice_dun03 140/26`  
+    - 🎯 Level: 70-95  
+    - 🎯 Target: 50 Ice Titans  
+    - ✨ Reward: 910,000 Base EXP  
 
 2. **Succubus Elimination** (Monica)  
 
-   - 📍 Location: `/navi geffen 112/63`  
-   - 🎯 Level: 70-98  
-   - 🎯 Target: 50 Succubus  
-   - ✨ Reward: 1,325,000 Base EXP  
+    - 📍 Location: `/navi geffen 112/63`  
+    - 🎯 Level: 70-98  
+    - 🎯 Target: 50 Succubus  
+    - ✨ Reward: 1,325,000 Base EXP  
 
 3. **Salamander Hunt** (Emmerich) 
  
-   - 📍 Location: `/navi thor_v03 57/245`  
-   - 🎯 Level: 75-98  
-   - 🎯 Target: 50 Salamanders  
-   - ✨ Reward: 2,150,000 Base EXP  
+    - 📍 Location: `/navi thor_v03 57/245`  
+    - 🎯 Level: 75-98  
+    - 🎯 Target: 50 Salamanders  
+    - ✨ Reward: 2,150,000 Base EXP  
 
 4. **Draco Challenge** (Kirby)  
 
-   - 📍 Location: `/navi nyd_dun01 146/154`  
-   - 🎯 Level: 75-98  
-   - 🎯 Target: 50 Draco  
-   - ✨ Reward: 925,000 Base EXP  
+    - 📍 Location: `/navi nyd_dun01 146/154`  
+    - 🎯 Level: 75-98  
+    - 🎯 Target: 50 Draco  
+    - ✨ Reward: 925,000 Base EXP  
 
 5. **Dryad Hunt** (Lilla)  
 
-   - 📍 Location: `/navi um_fild01 35/281`  
-   - 🎯 Level: 60-85  
-   - 🎯 Target: 50 Dryads  
-   - ✨ Reward: 234,855 Base EXP  
+    - 📍 Location: `/navi um_fild01 35/281`  
+    - 🎯 Level: 60-85  
+    - 🎯 Target: 50 Dryads  
+    - ✨ Reward: 234,855 Base EXP  
 
 ---
 
