@@ -54,7 +54,6 @@ In our server, we have modified the **NPC sell prices** (the price you get when 
 |![BURNING HEART](assets/item/7097.png) BURNING HEART|462z|300z|
 |![LIVE COAL](assets/item/7098.png) LIVE COAL|319z|250z|
 |![SCORPION CLAW](assets/item/7125.png) SCORPION CLAW|353z|250z|
-|![](assets/item/.png) |z|z|
 |![RED GEM STONE](assets/item/716.png) RED GEM STONE|300z|200z|
 |![FLAME HEART](assets/item/994.png) FLAME HEART|1500z|750z|
 |![GREAT NATURE](assets/item/997.png) GREAT NATURE|1500z|750z|

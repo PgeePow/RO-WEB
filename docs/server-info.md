@@ -5,24 +5,24 @@
 
 **Basic Rates**
 
-+ 7.5x/7.5x/5x
++ 7x/7x/6x
 
 **Weekends Rates**
 
-+ 10x/10x/5x
++ 10x/10x/6x
 
 **Fixed Rates**
 
-+ Equipment - 5x
-+ Normal Card - 4x
-+ Mini Boss Card - x3
++ Equipment - 6x
++ Normal Card - 5x
++ Mini Boss Card - x2
 + MVP Card - x2
 
 ## **Server Information**
 
 + Server Name : ValkariaRO
 + Server Mode : Classic Pre-Renewal
-+ Episode 12-14.2 Progressive
++ Episode 12 Progressive
 + Emulator : rAthena
 + Max Base & Job Level : 99/70
 + Max Stats : 99
@@ -38,7 +38,6 @@
 
 ## **Server Features**
 
-+ No Custom Items
 + No Job Changer
 + No Overpowered item in Shop (Only Cosmetics)
 + Daily Rewards System
