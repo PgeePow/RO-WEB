@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+  - navigation
+---
+
 # 🔄 Repeatable Quests Guide
 
 ## 🌟 Overview
