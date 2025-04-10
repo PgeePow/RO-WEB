@@ -40,13 +40,28 @@ Your ValkariaRO adventure just got even more exciting! Our server features a uni
 
 Same structure as melee, but with a few additions specific to ranged playstyle.
 
-| Slot 1              | Slot 2                   | Slot 3                             |
-|---------------------|--------------------------|------------------------------------|
-| ATK +5~10           | Decrease Cast Time 1~5%  | Damage to Neutral Race 1~5%       |
-| STR/INT/AGI/etc. +1 | Max HP +100~150          | Damage to Undead Race 1~5%        |
-| CRIT Rate +2~5%     | HIT +5~7                 | Damage to Animal Race 1~5%        |
-| SP Cost -3~6%       | Ranged Damage +1~4%      | Damage to Insect/Angel/Demon/etc. |
-| ASPD +1~3%          |                          | Elemental Damage +1~5%            |
+| SLOT 1                    | SLOT 2                      | SLOT 3                               |
+|---------------------------|-----------------------------|---------------------------------------|
+| Atk 5~10                  | DEC SPELL CAST 1~5          | RACE DMG TO NEUTRAL 1~5%              |
+| STR 1                    | INC MAXHP 100~150           | RACE DMG TO UNDEAD 1~5%               |
+| INT 1                    | INT MAXSP 25~50             | RACE DMG TO ANIMAL 1~5%               |
+| AGI 1                    | HIT 5~7                     | RACE DMG TO PLANT 1~5%                |
+| LUK 1                    | INC CRIT DMG 1~5%           | RACE DMG TO INSECT 1~5%               |
+| VIT 1                    | DMG TO BOSS 1~5%            | RACE DMG TO FISH 1~5%                 |
+| DEX 1                    | DMG TO SMALL 1~4%           | RACE DMG TO ANGEL 1~5%                |
+| CRIT RATE 2~5%           | DMG TO MED 1~4%             | RACE DMG TO DRAGON 1~5%               |
+| REDUCE SP CONSUMPTION 3~6% | DMG TO LARGE 1~4%          | RACE DMG TO DEMON 1~5%                |
+| ASPD 1~3%                | RANGE ATK DMG 1~4%          | RACE DMG TO HUMAN 1~5%                |
+|                           |                             | DMG TO NEUTRAL ELEMENT 1~5%           |
+|                           |                             | DMG TO WATER ELEMENT 1~5%             |
+|                           |                             | DMG TO EARTH ELEMENT 1~5%             |
+|                           |                             | DMG TO FIRE ELEMENT 1~5%              |
+|                           |                             | DMG TO WIND ELEMENT 1~5%              |
+|                           |                             | DMG TO POISON ELEMENT 1~5%            |
+|                           |                             | DMG TO HOLY ELEMENT 1~5%              |
+|                           |                             | DMG TO SHADOW ELEMENT 1~5%            |
+|                           |                             | DMG TO GHOST ELEMENT 1~5%             |
+|                           |                             | DMG TO UNDEAD ELEMENT 1~5%            |
 
 ---
 
@@ -54,13 +69,30 @@ Same structure as melee, but with a few additions specific to ranged playstyle.
 
 Tailored for spellcasters and magic users.
 
-| Slot 1              | Slot 2                        | Slot 3                               |
-|---------------------|-------------------------------|--------------------------------------|
-| MATK +5~10          | Max HP% +1~3%                 | Ignore MDEF: Neutral Race 5~10%      |
-| STR/INT/AGI/etc. +1 | Max SP% +1~3%                 | Ignore MDEF: Undead/Animal/etc.      |
-|                     | ASPD +1~5%                    | Ignore MDEF: All Elemental Types     |
-|                     | After Cast Delay -1~5%        | Magic Damage to Boss +1~5%           |
-|                     | SP Cost -4~6%                 |                                      |
+
+| SLOT 1               | SLOT 2                          | SLOT 3                              |
+|----------------------|----------------------------------|--------------------------------------|
+| MAtk 5~10            | DEC SPELL CAST 1~5              | RACE IGNR MDEF NEUTRAL 5~10%         |
+| STR 1~1              | INC MAXHP PERCENTAGE 1~3%       | RACE IGNR MDEF UNDEAD 5~10%          |
+| INT 1~1              | INC MAXSP PERCENTAGE 1~3%       | RACE IGNR MDEF ANIMAL 5~10%          |
+| AGI 1~1              | ASPD 1~5%                        | RACE IGNR MDEF PLANT 5~10%           |
+| LUK 1~1              | MDMG TO BOSS 1~5%               | RACE IGNR MDEF INSECT 5~10%          |
+| VIT 1~1              | DEC AFTER CAST DELAY 1~5%       | RACE IGNR MDEF FISH 5~10%            |
+| DEX 1~1              | REDUCE SP CONSUMPTION 4~6%      | RACE IGNR MDEF ANGEL 5~10%           |
+| INC MAXHP 100~150    |                                  | RACE IGNR MDEF DRAGON 5~10%          |
+| INT MAXSP 25~50      |                                  | RACE IGNR MDEF DEMON 5~10%           |
+|                      |                                  | RACE IGNR MDEF HUMAN 5~10%           |
+|                      |                                  | IGNORE MDEF NEUTRAL ELEMENT 5~10%    |
+|                      |                                  | IGNORE MDEF WATER ELEMENT 5~10%      |
+|                      |                                  | IGNORE MDEF EARTH ELEMENT 5~10%      |
+|                      |                                  | IGNORE MDEF FIRE ELEMENT 5~10%       |
+|                      |                                  | IGNORE MDEF WIND ELEMENT 5~10%       |
+|                      |                                  | IGNORE MDEF POISON ELEMENT 5~10%     |
+|                      |                                  | IGNORE MDEF HOLY ELEMENT 5~10%       |
+|                      |                                  | IGNORE MDEF SHADOW ELEMENT 5~10%     |
+|                      |                                  | IGNORE MDEF GHOST ELEMENT 5~10%      |
+|                      |                                  | IGNORE MDEF UNDEAD ELEMENT 5~10%     |
+
 
 
 ---

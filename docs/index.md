@@ -73,7 +73,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 <div class="grid cards" markdown>
 
--   **Daily Quest**
+-   **Repeatable Quest**
    
     
     Kill a monster, collect specific item to earn EXP rewards ingame. Item requirement is tradeable has value<br>
