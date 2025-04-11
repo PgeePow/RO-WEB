@@ -132,6 +132,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Roadmap](roadmap.md)
 
 - 🔥 **Quick Links**
+
     📥 [Client Download](download.md)<br>
     📖 [Getting Started](getting-started.md)<br>
     ℹ️ [Server Info](server-info.md)<br>
