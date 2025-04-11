@@ -118,9 +118,9 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     
     Hourly Reward<br>
     Attendance System<br>
-    MVP Checker<br>
+    [MVP Checker](mvp-checker.md)<br>
     [Adjusted Item Price](adjusted-price.md)<br>
-    Healer<br>
+    [Healer](healer.md)<br>
 
 - 
 
@@ -129,6 +129,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     Automatic Event<br>
     Endless Cellar<br>
     Battleground<br>
+    [Roadmap](roadmap.md)
 
 - 🔥 **Quick Links**
   

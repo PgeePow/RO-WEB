@@ -30,5 +30,6 @@ jobs:
           mkdocs-material \
           mkdocs-awesome-pages-plugin \
           mkdocs-glightbox \
+          neoteroi-mkdocs \
 
       - run: mkdocs gh-deploy --force
