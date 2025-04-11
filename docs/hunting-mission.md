@@ -8,7 +8,7 @@ The **Monster Hunting System** is a rewarding gameplay feature where players can
 
 #### **Quest NPC Location**:
 - **City Name**: Prontera (Main Office)
-- **Coordinates**: /navi prt_in 39/113
+- **Coordinates**: `/navi prt_in 39/113`
 - **NPC Name**: Hunting Mission
 
 ![Hunting Mission NPC](assets/npc/Hunting_Mission.png)

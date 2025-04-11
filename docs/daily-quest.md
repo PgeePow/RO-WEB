@@ -4,212 +4,203 @@ hide:
   - navigation
 ---
 
-# 🔄 Repeatable Quests Guide
+# Repeatable Quests Guide
 
-## 🌟 Overview
+## 🌟 Strategic Overview
 
-Repeatable quests in ValkariaRO provide consistent experience gains and valuable resources for players of all levels. These quests fall into two main categories:
+### Two Quest Types for Optimal Leveling
+1. **📦 Item Turn-Ins** (Best for passive/solo play)
+    - Collect drops while doing other activities
+    - Great for building wealth (sell excess materials)
+    - Lower EXP but more flexible timing
 
-- **📦 Item Collection Quests**: Turn in specific quantities of monster drops
-- **⚔️ Monster Hunting Quests**: Eliminate set numbers of particular monsters
+2. **⚔️ Monster Hunts** (Best for active/party play) 
+    - Faster EXP but requires focused grinding
+    - Party-friendly with shared kill counts
+    - Scalable difficulty (50/100/150 targets)
 
-### Key Benefits
-✅ **Steady EXP Source** - Reliable alternative to pure grinding  
-✅ **Economy Boost** - Collected items have trade value  
-✅ **Level Range Flexibility** - Options available for all level brackets  
-✅ **Party Friendly** - Many quests support shared progression  
+### 📈 Progression Path
+| Level Range | Recommended Focus          | Top Quest Example          |
+|-------------|----------------------------|----------------------------|
+| 1-30        | Basic item turn-ins        | Fluff/Chrysalis collection |
+| 30-60       | Mixed approach             | Frilldora hunting + Dokebi horns |
+| 60-85       | High-value hunts           | Dryad/Sharp Leaf combos    |
+| 85+         | Elite monster hunts        | Medusa/Lava Golem farming  |
 
-!!! tip "Pro Tip"
-    Combine these quests with daily missions and guild activities for maximum efficiency! The sweet spot is levels 40-75 where quest density is highest.
+## 🏆 Top 5 Most Efficient Quests
+
+### Item Turn-Ins (Per Time Invested)
+1. **Anolian Skin Delivery** (45-80)  
+    - Only requires 20 items  
+    - High EXP per item ratio (4,309 Base)  
+
+2. **Sharp Leaf Collection** (60-85)  
+    - Balanced EXP and availability  
+    - Dryads spawn near turn-in NPC  
+
+3. **Bacillus Turn-In** (60-74)  
+    - Best mid-level EXP/minute  
+    - Demon Pungus are easy to AoE  
+
+4. **Frill Collection** (30-65)  
+    - Fast respawn monsters  
+    - Good for melee classes  
+
+5. **Huge Leaf Delivery** (36-65)  
+    - Excellent job EXP source  
+    - Leaf Cats drop frequently  
+
+### Monster Hunts (EXP/Hour)
+1. **Medusa Slayer** (75-95)  
+    - Highest base EXP reward  
+    - Beach Dungeon has good spawn density  
+
+2. **Lava Golem Elimination** (75-95)  
+    - Great for fire-resistant builds  
+    - Magma Dungeon has clustered spawns  
+
+3. **Dryad Hunt** (60-85)  
+     - Best pre-transcend hunt  
+     - Umbala fields are easy to navigate  
+
+4. **Alligator Slayer** (45-80)  
+    - Top mid-range choice  
+    - Good for spear/lance users  
+
+5. **Frilldora Extermination** (30-65)  
+    - Best early-game hunt  
+    - Fast respawn rate  
+
+## 💡 Advanced Strategies
+
+### The Rotation Method (Max Efficiency)
+1. **Start a 150-kill monster hunt**
+2. While killing, collect items for turn-ins:
+    - Dryads → Sharp Leaves
+    - Alligators → Anolian Skins
+    - Leaf Cats → Huge Leaves
+3. Complete item turn-ins during respawn waits
+4. Repeat cycle
+
+### Party Optimization
+ - **Ideal Composition**:  
+   1 Tank | 1 Healer | 3 DPS  
+   (All within 20 levels for EXP share)  
+ - **Positioning**: Stay within 1 screen distance  
+ - **Loot Rules**: Need Before Greed for quest items  
+
+### Market Exploitation
+- **Buy Low**: Stock up on turn-in items during:
+   - Server maintenance days
+   - Early mornings (3-6 AM server time)  
+- **Sell High**: Sell excess during:
+   - Weekend evenings
+   - After WoE sessions
+
+### Time Management
+| Session Length | Recommended Activity               |
+|----------------|------------------------------------|
+| <30 min        | Item collection while traveling    |
+| 30-60 min      | 50-kill monster hunts              | 
+| 1-2 hours      | 150-kill hunts with item farming   |
+| 2+ hours       | Full rotation method with party    |
+
+## ⚠️ Common Pitfalls
+1. **Overcommitting** to 150-kill hunts without proper gear  
+2. **Ignoring job EXP** - Some quests favor job over base EXP  
+3. **Wasted travel time** - Cluster quests in same zones  
+4. **Poor inventory management** - Running out of space mid-quest  
+
+## ❓ FAQ
+
+**Q: Which gives better EXP - turn-ins or hunts?**  
+A: Hunts are generally faster, but smart players combine both. Example: Hunt Dryads while collecting Sharp Leaves.
+
+**Q: Can I do these quests multiple times per day?**  
+A: Yes! They're infinitely repeatable, but market prices may fluctuate if many players farm the same items.
+
+**Q: Best class for farming these?**  
+A: Hunters (for kiting) and Wizards (for AoE) excel at most, but any class can participate effectively.
 
 ---
 
-## 📊 Quest Comparison Table
+## 📦 Item Turn-In Quests
 
-### By Level Range
-
-| Level Range | Best Item Quest | Best Hunting Quest | Avg. EXP/Hour |
-|-------------|-----------------|--------------------|--------------|
-| 1-30        | Fluff/Chrysalis | Fabre/Pupa         | 15k          |
-| 30-60       | Frill           | Frilldora          | 120k         |
-| 60-85       | Sharp Leaf      | Dryad              | 450k         |
-| 85+         | -               | Ice Titan          | 1.8m         |
-
----
-
-## 📦 Item Collection Quests
-
-### 🏆 Top 5 Most Efficient
+### 📊 Quest Table
 
 
-1. **Sharp Leaf Turn-In** (Lilla)
 
-    - 📍 Location: `/navi um_fild01 35/281`  
-    - 🎯 Level: 60-85  
-    - 💰 Items: 50 Sharp Leaves  
-    - ✨ Reward: 524,970 Base EXP  
 
-2. **Bacillus Collection** (Local Villager) 
- 
-    - 📍 Location: `/navi ein_fild01 43/249`  
-    - 🎯 Level: 60-74  
-    - 💰 Items: 50 Bacillus  
-    - ✨ Reward: 500,532 Base EXP  
+| NPC              | Location              | Min Level | Max Level | Items Required | Base EXP | Job EXP | EXP/Item (Base) | EXP/Item (Job) |
+|------------------|-----------------------|-----------|-----------|----------------|----------|---------|-----------------|----------------|
+|Langry           |`/navi gef_fild07 321/193 `|2         |20    |25Fluff       | 481      | 38      | 19.24           | 1.52           |
+|Halgus           |`/navi gef_fild04 191/54 `|2         |20    |25Chrysalis   | 481      | 38      | 19.24           | 1.52           |
+|Laertes          |`/navi prt_fild04 356/148 `|15        |45    |25Butterfly Powder | 3,688  | 1,406   | 147.52          | 56.24          |
+|Yullo            |`/navi mjolnir_01 296/29 `|24        |60    |25Porcupine Quill | 13,031 | 7,840   | 521.24          | 313.6          |
+|Private Jeremy   |`/navi moc_fild11 57/138 `|25        |60    |25Stone Heart | 17,500   | 11,250  | 700             | 450            |
+|Shone            |`/navi moc_fild17 208/346 `|25        |60    |25Earthworm Peeling | 19,719 | 14,060 | 788.76          | 562.4          |
+|Lemly            |`/navi moc_fild17 66/273 `|30        |65    |25Frill       | 37,500   | 28,750  | 1,500           | 1,150          |
+|Li               |`/navi pay_fild10 108/357 `|35        |70    |50Dokebi Horns | 52,500  | 45,000  | 1,050           | 900            |
+|Lella            |`/navi ayo_fild01 44/241 `|36        |65    |50Huge Leaf   | 32,175   | 39,390  | 643.5           | 787.8          |
+|Cuir             |`/navi cmd_fild01 362/256 `|45        |80    |20Anolian Skin | 86,188  | 54,125  | 4,309.4         | 2,706.25       |
+|Local Villager   |`/navi ein_fild01 43/249 `|60        |74    |50Bacillus    | 312,833  | 180,565 | 6,256.66        | 3,611.3        |
+|Lilla            |`/navi um_fild01 35/281  `|60        |85    |50Sharp Leaf  | 293,569  | 158,631 | 5,871.38        | 3,172.62       |
+|Vegetable Farmer |`/navi ein_fild06 82/171 `|70        |85    |50Antelope Horn | 323,111 | 193,944 | 6,462.22        | 3,878.88       |
 
-3. **Anolian Skin Delivery** (Cuir)
-  
-    - 📍 Location: `/navi cmd_fild01 362/256`  
-    - 🎯 Level: 45-80  
-    - 💰 Items: 20 Anolian Skins  
-    - ✨ Reward: 137,900 Base EXP  
 
-4. **Dokebi Horns** (Li)  
-
-    - 📍 Location: `/navi pay_fild10 108/357`  
-    - 🎯 Level: 35-70  
-    - 💰 Items: 50 Dokebi Horns  
-    - ✨ Reward: 84,000 Base EXP  
-
-5. **Frill Collection** (Lemly)  
-
-    - 📍 Location: `/navi moc_fild17 66/273`  
-    - 🎯 Level: 30-65  
-    - 💰 Items: 25 Frills  
-    - ✨ Reward: 60,000 Base EXP  
 
 ---
 
 ## ⚔️ Monster Hunting Quests
 
-### 🏅 Top 5 Most Rewarding
+### ❗ Important Notes
+- Rewards shown are for **50 kills** (double for 100, triple for 150)
+- Max gain: 1 Base/Job Level per 50 kills (2 for 100, 3 for 150)
+- 🚫 Homunculus/Mercenary kills don't count
+- 💡 Can complete after transcending regardless of level req
 
-1. **Ice Titan Slayer** (Henry)
+### 📊 Quest Table
 
-    - 📍 Location: `/navi ice_dun03 140/26`  
-    - 🎯 Level: 70-95  
-    - 🎯 Target: 50 Ice Titans  
-    - ✨ Reward: 910,000 Base EXP  
 
-2. **Succubus Elimination** (Monica)  
 
-    - 📍 Location: `/navi geffen 112/63`  
-    - 🎯 Level: 70-98  
-    - 🎯 Target: 50 Succubus  
-    - ✨ Reward: 1,325,000 Base EXP  
+| NPC              | Location              | Min Level | Max Level | Monster       | Base EXP (50) | Job EXP (50) | EXP/Monster (Base) | EXP/Monster (Job) |
+|------------------|-----------------------|-----------|-----------|---------------|---------------|--------------|--------------------|-------------------|
+|Langry           |`/navi gef_fild07321/193 `|2   |20    |Fabre         |770           |60           |15                 |1         |
+|Halgus           |`/navi gef_fild04191/54 `|2   |20    |Pupa          |770           |60           |15                 |1         |
+|Gregor           |`/navi moc_fild0274/329 `|10  |30    |Peco Peco     |8,000         |4,000        |160                |80        |
+|Laertes          |`/navi prt_fild04356/148 `|15  |45    |Creamy        |5,900         |2,250        |118                |45        |
+|Nutters          |`/navi mjolnir_01293/20 `|18  |60    |Coco          |7,200         |7,810        |144                |156       |
+|Yullo            |`/navi mjolnir_01296/29 `|24  |60    |Caramel       |20,850        |12,544       |417                |251       |
+|Private Jeremy   |`/navi moc_fild1157/138 `|25  |60    |Golem         |28,000        |18,000       |560                |360       |
+|Shone            |`/navi moc_fild17208/346 `|25  |60    |Hode          |31,550        |22,500       |631                |450       |
+|Lemly            |`/navi moc_fild1766/273 `|30  |65    |Frilldora     |60,000        |46,000       |1,200              |900       |
+|Li               |`/navi pay_fild10108/357 `|35  |70    |Dokebi        |42,000        |36,000       |840                |720       |
+|Lella            |`/navi ayo_fild0144/241 `|36  |65    |Leaf Cat      |25,740        |31,512       |515                |630       |
+|Cuir             |`/navi cmd_fild01362/256 `|45  |80    |Alligator     |172,375       |108,250      |3,448              |2165     |
+|Local Villager   |`/navi ein_fild0143/249 `|60  |74    |Demon Pungus  |250,266       |144,452      |5,005              |2889     |
+|Lilla            |`/navi um_fild01 35/281  `|60  |85    |Dryad         |234,855       |126,905      |4,697              |2538     |
+|Vegetable Farmer |`/navi ein_fild0682/171 `|70  |85    |Goat          |258,489       |155,155      |5,170              |3103     |
+|Miner            |`/navi beach_dun 269/71  `|75  |95    |Medusa        |515,700       |352,275      |10,314             |7046     |
+|Jotun Tribesman  |`/navi mag_dun01 127/71  `|75  |95    |Lava Golem    |484,800       |290,700      |9,696              |5814     |
+|Coal Miner       |`/navi mag_dun02 46/40  `|75  |95    |Deleter       |387,734       |232,733      |7,755              |4655     |
 
-3. **Salamander Hunt** (Emmerich) 
- 
-    - 📍 Location: `/navi thor_v03 57/245`  
-    - 🎯 Level: 75-98  
-    - 🎯 Target: 50 Salamanders  
-    - ✨ Reward: 2,150,000 Base EXP  
-
-4. **Draco Challenge** (Kirby)  
-
-    - 📍 Location: `/navi nyd_dun01 146/154`  
-    - 🎯 Level: 75-98  
-    - 🎯 Target: 50 Draco  
-    - ✨ Reward: 925,000 Base EXP  
-
-5. **Dryad Hunt** (Lilla)  
-
-    - 📍 Location: `/navi um_fild01 35/281`  
-    - 🎯 Level: 60-85  
-    - 🎯 Target: 50 Dryads  
-    - ✨ Reward: 234,855 Base EXP  
 
 ---
 
-## 💡 Advanced Strategies
+## 💡 Pro Tips
 
-### 🔄 Rotation Method
-1. Identify 3-4 quests in your level range
-2. Complete them sequentially
-3. While waiting for respawns, farm items for turn-ins
-4. Repeat cycle for continuous EXP flow
+1. **Efficient Leveling**:
+   - Combine hunting quests with item turn-ins from different NPCs
+   - Party up for faster monster kill completion
 
-### 🛒 Market Opportunities
-- Buy low/sell high on quest items during:
-  - Peak hours (7-10 PM server time)
-  - Weekends when more players are active
-- Stock up on items during off-peak times
+2. **Inventory Management**:
+   - Keep stackable quest items for future turn-ins
+   - Use storage alts to hold excess materials
 
-### ⏱️ Time Management
-| Quest Type       | Avg. Completion Time | Recommended Session Length |
-|------------------|----------------------|----------------------------|
-| Item Turn-In     | 15-30 minutes        | 1-2 hour blocks            |
-| Monster Hunting  | 30-60 minutes        | 2 hour focused sessions    |
+3. **Timing**:
+   - 150-kill options give best EXP/time ratio
+   - Farm during off-peak hours for better spawns
 
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Can I do both item and hunting quests simultaneously?**  
-A: No, you must complete or abandon one type before starting the other from the same NPC.
-
-**Q: Do these quests give items besides EXP?**  
-A: Typically no, but the collected items often have market value.
-
-**Q: What's the best quest for level 50-60?**  
-A: Focus on Frilldora hunting (60k EXP) and Anolian Skin turn-ins (137k EXP).
-
-**Q: How do I optimize party play?**  
-A: Have members spread out in the same map to maximize kill counts while sharing EXP.
-
-**Q: Is there a full list of the repeatable quest?**
-A: Yes, please refer table below.
-
-## Item Turn-In Quests
-
-| NPC              | Location                    | Min Level | Max Level | Items                  | Base EXP Reward | Job EXP Reward | Base EXP Per Item | Job EXP Per Item |
-|------------------|-----------------------------|-----------|-----------|------------------------|------------------|----------------|-------------------|------------------|
-| Langry           | `/navi gef_fild07 321/193`  | 2         | 20        | 25 Fluff               | 770              | 60             | 30                | 2                |
-| Halgus           | `/navi gef_fild04 191/54`   | 2         | 20        | 25 Chrysalis           | 770              | 60             | 30                | 2                |
-| Gregor           | `/navi moc_fild02 74/329`   | 10        | 30        | 25 Bill of Birds       | 8,000            | 4,000          | 320               | 160              |
-| Laertes          | `/navi prt_fild04 356/148`  | 15        | 45        | 25 Powder of Butterfly | 5,900            | 2,250          | 236               | 90               |
-| Nutters          | `/navi mjolnir_01 293/20`   | 18        | 60        | 25 Acorn               | 7,200            | 7,810          | 288               | 312              |
-| Yullo            | `/navi mjolnir_01 296/29`   | 24        | 60        | 25 Porcupine Quill     | 20,850           | 12,544         | 834               | 510              |
-| Private Jeremy   | `/navi moc_fild11 57/138`   | 25        | 60        | 25 Stone Heart         | 28,000           | 18,000         | 1,120             | 720              |
-| Shone            | `/navi moc_fild17 208/346`  | 25        | 60        | 25 Earthworm Peeling   | 39,438           | 28,120         | 1,577             | 1,124            |
-| Lemly            | `/navi moc_fild17 66/273`   | 30        | 65        | 25 Frill               | 60,000           | 46,000         | 2,400             | 1,840            |
-| Li               | `/navi pay_fild10 108/357`  | 35        | 70        | 50 Dokebi Horns        | 84,000           | 72,000         | 1,680             | 1,440            |
-| Lella            | `/navi ayo_fild01 44/241`   | 36        | 65        | 50 Huge Leaf           | 51,480           | 63,024         | 1,029             | 1,260            |
-| Cuir             | `/navi cmd_fild01 362/256`  | 45        | 80        | 20 Anolian Skin        | 137,900          | 86,600         | 6,895             | 4,330            |
-| Local Villager   | `/navi ein_fild01 43/249`   | 60        | 74        | 50 Bacillus            | 500,532          | 288,904        | 10,010            | 5,778            |
-| Lilla            | `/navi um_fild01 35/281`    | 60        | 85        | 50 Sharp Leaf          | 524,970          | 283,670        | 10,499            | 5,673            |
-| Vegetable Farmer | `/navi ein_fild06 82/171`   | 70        | 85        | 50 Antelope Horn       | 516,978          | 310,310        | 10,339            | 6,206            |
-
-## Monster Hunting
-
-
-| NPC              | Location                     | Min Level | Max Level | Monster        | Base EXP (50) | Job EXP (50) | Base EXP Per Monster | Job EXP Per Monster |
-|------------------|------------------------------|-----------|-----------|----------------|----------------|----------------|------------------------|-----------------------|
-| Langry           | `/navi gef_fild07 321/193`   | 2         | 20        | Fabre          | 770            | 60             | 15                     | 1                     |
-| Halgus           | `/navi gef_fild04 191/54`    | 2         | 20        | Pupa           | 770            | 60             | 15                     | 1                     |
-| Gregor           | `/navi moc_fild02 74/329`    | 10        | 30        | Peco Peco      | 8,000          | 4,000          | 160                    | 80                    |
-| Laertes          | `/navi prt_fild04 356/148`   | 15        | 45        | Creamy         | 5,900          | 2,250          | 118                    | 45                    |
-| Nutters          | `/navi mjolnir_01 293/20`    | 18        | 60        | Coco           | 7,200          | 7,810          | 144                    | 156                   |
-| Yullo            | `/navi mjolnir_01 296/29`    | 24        | 60        | Caramel        | 20,850         | 12,544         | 417                    | 251                   |
-| Private Jeremy   | `/navi moc_fild11 57/138`    | 25        | 60        | Golem          | 28,000         | 18,000         | 560                    | 360                   |
-| Shone            | `/navi moc_fild17 208/346`   | 25        | 60        | Hode           | 31,550         | 22,500         | 631                    | 450                   |
-| Lemly            | `/navi moc_fild17 66/273`    | 30        | 65        | Frilldora      | 60,000         | 46,000         | 1,200                  | 900                   |
-| Li               | `/navi pay_fild10 108/357`   | 35        | 70        | Dokebi         | 42,000         | 36,000         | 840                    | 720                   |
-| Lella            | `/navi ayo_fild01 44/241`    | 36        | 65        | Leaf Cat       | 25,740         | 31,512         | 515                    | 630                   |
-| Cuir             | `/navi cmd_fild01 362/256`   | 45        | 80        | Alligator      | 172,375        | 108,250        | 3,448                  | 2,165                 |
-| Gandolf          | `/navi lhz_dun01 146/287`    | 45        | 80        | Remover*       | 275,000        | 170,000        | 5,500                  | 3,400                 |
-| Local Villager   | `/navi ein_fild01 43/249`    | 60        | 74        | Demon Pungus   | 250,266        | 144,452        | 5,005                  | 2,889                 |
-| Lilla            | `/navi um_fild01 35/281`     | 60        | 85        | Dryad          | 234,855        | 126,905        | 4,697                  | 2,538                 |
-| Shea             | `/navi tur_dun03 125/195`    | 60        | 85        | Assaulter*     | 425,000        | 275,000        | 8,500                  | 5,500                 |
-| Vegetable Farmer | `/navi ein_fild06 82/171`    | 70        | 95        | Goat           | 258,489        | 155,155        | 5,170                  | 3,103                 |
-| Henry            | `/navi ice_dun03 140/26`     | 70        | 95        | Ice Titan*     | 910,000        | 650,000        | 18,200                 | 13,000                |
-| Monica           | `/navi geffen 112/63`        | 70        | 98        | Succubus*      | 1,325,000      | 950,000        | 26,500                 | 19,000                |
-| Miner            | `/navi beach_dun 269/71`     | 75        | 97        | Medusa         | 515,700        | 352,275        | 10,314                 | 7,046                 |
-| Jotun Tribesman  | `/navi mag_dun01 127/71`     | 75        | 97        | Lava Golem     | 484,800        | 290,700        | 9,696                  | 5,814                 |
-| Coal Miner       | `/navi mag_dun02 46/40`      | 75        | 97        | Deleter        | 387,734        | 232,733        | 7,755                  | 4,655                 |
-| Ptero            | `/navi abyss_03 117/31`      | 75        | 97        | Gold Acidus*   | 1,285,000      | 815,000        | 25,700                 | 16,300                |
-| Kirby            | `/navi nyd_dun01 146/154`    | 75        | 98        | Draco*         | 925,000        | 700,000        | 18,500                 | 14,000                |
-| Emmerich         | `/navi thor_v03 57/245`      | 75        | 98        | Salamander*    | 2,150,000      | 1,550,000      | 43,000                 | 31,000                |
-
----
-
-_* Denotes high difficulty monsters. Prepare accordingly._
+4. **Market Opportunities**:
+   - Sell excess quest items during peak leveling times
+   - Buy materials when prices are low
