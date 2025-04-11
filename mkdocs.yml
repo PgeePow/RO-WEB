@@ -47,3 +47,5 @@ plugins:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
+  - stylesheets/neoteroi-timeline.css
+  - stylesheets/neoteroi-mkdocs.min.css

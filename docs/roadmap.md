@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+  - navigation
+---
+
 # 📅 Roadmap
 
 Welcome to the **ValkariaRO Roadmap** — your guide to what’s coming, what’s live, and what exciting features are just around the corner!
@@ -16,53 +22,8 @@ We hope this roadmap helps you plan your journey, form your goals, and grow alon
 
 ## 🗓️ Timeline
 
-::timeline::
+[timeline center alternate class="nt-timeline"(./docs/timeline/roadmap.yaml)]
 
-- title: April 2025
-  icon: ./assets/item/512.png  # Apple
-  content: |
-    - CBT  
-    - Server Launch  
-    - Level Rush  
-    - CBT Rewards  
-    - April Scroll Egg
-
-- title: May 2025
-  icon: ./assets/item/12016.png  # Old Blue Box
-  content: |
-    - Introducing Gacha by Zeny  
-    - May Scroll Egg  
-    - Moscovia Released  
-    - PvP Quest Relic Items
-
-- title: June 2025
-  icon: ./assets/item/607.png  # Yggdrasil Berry
-  content: |
-    - PvP Ranking System  
-    - June Scroll Egg  
-    - Top 1 MVP Slayer Reward (May 25)
-
-- title: July 2025
-  icon: ./assets/item/5124.png  # Firecracker
-  content: |
-    - Ash Vacuum Released  
-    - Hari Raya Haji Event  
-    - July Scroll Egg  
-    - Top 1 MVP Slayer Reward (June 25)
-
-- title: August 2025
-  icon: ./assets/item/4883.png  # Emperium
-  content: |
-    - Preparing for WoE  
-    - Hari Malaysia & Merdeka Event  
-    - August Scroll Egg  
-    - Top 1 MVP Slayer Reward (July 25)  
-    - **Late August: VALKARIA WAR OF EMPERIUM!**
-
-
-
-::/timeline::
-
-Stay tuned to our [Discord server](https://discord.gg/valkaria) and [RateMyServer page](https://ratemyserver.net/index.php?page=detailedlistserver&serid=22935&itv=6&url_sname=ValkariaRO) for live news, sneak peeks, and community discussions!
+Stay tuned to our [Discord server](https://discord.gg/5sdvj8sPYg) and [RateMyServer page](https://ratemyserver.net/index.php?page=detailedlistserver&serid=22935&itv=6&url_sname=ValkariaRO) for live news, sneak peeks, and community discussions!
 
 Have feedback or ideas? We’d love to hear from you — together, we shape ValkariaRO. 💬
