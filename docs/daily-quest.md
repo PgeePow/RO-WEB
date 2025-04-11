@@ -190,17 +190,17 @@ A: Hunters (for kiting) and Wizards (for AoE) excel at most, but any class can p
 ## 💡 Pro Tips
 
 1. **Efficient Leveling**:
-   - Combine hunting quests with item turn-ins from different NPCs
-   - Party up for faster monster kill completion
+    - Combine hunting quests with item turn-ins from different NPCs
+    - Party up for faster monster kill completion
 
 2. **Inventory Management**:
-   - Keep stackable quest items for future turn-ins
-   - Use storage alts to hold excess materials
+    - Keep stackable quest items for future turn-ins
+    - Use storage alts to hold excess materials
 
 3. **Timing**:
-   - 150-kill options give best EXP/time ratio
-   - Farm during off-peak hours for better spawns
+    - 150-kill options give best EXP/time ratio
+    - Farm during off-peak hours for better spawns
 
 4. **Market Opportunities**:
-   - Sell excess quest items during peak leveling times
-   - Buy materials when prices are low
+    - Sell excess quest items during peak leveling times
+    - Buy materials when prices are low
