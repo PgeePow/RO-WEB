@@ -37,7 +37,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
     Our dedicated team constantly updates and maintains the server.  
 
--   <p class="custom-feature"> :material-cash-off:{.icon} **Non P2W Server**</p>
+-   <p class="custom-feature"> :material-cash-off:{.icon} **Fair Play Server**</p>
 
     Cash shop is focused on Customes only and any headgear in cash shop can be obtainable via quest.
 
@@ -49,23 +49,20 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
-    === "Feb 2024"
+    === "Apr 2024"
 
         ``` markdown 
-        - Example of update log here
-        - Example of update log here
-        - Example of update log here
-        - Example of update log here
+        - Healer Buff
+        - Shop Price
+        - Card Remover
+        - Daily Freebies Adjustment
         ```
-            [View Full Changelog](change-log.md)
+            [View Full Apr Changelog](changelog/apr-change-log.md)
 
     === "Mar 2024"
 
         ``` markdown 
-        - Example of update log here
-        - Example of update log here
-        - Example of update log here
-        - Example of update log here
+        - Server Development
         ```
             [View Full Changelog](change-log.md)
 
