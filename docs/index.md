@@ -49,7 +49,17 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
-    === "Apr 2024"
+    === "Apr 2024 v1.1"
+
+        ``` markdown 
+        - Quest
+        - NPC
+        - Item
+        - CBT
+        ```
+            [View Full Apr Changelog](changelog/apr-change-log2.md)
+
+    === "Apr 2024 v1.0"
 
         ``` markdown 
         - Healer Buff
