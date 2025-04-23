@@ -20,8 +20,8 @@
 | **MVP Bonus EXP** | Increased to **130 %** |
 | **NPC Quest EXP/Job** | Rewards bumped to **150 %** |
 | **Party Share Range** | Widened to **±17 levels** (was 15) |
-| **Mimic Card** | Item‑drop rate **×2** |
-| **Myst Case Card** | Item‑drop rate **×0.5** |
+| **Mimic Card** | Item‑drop rate **2%** |
+| **Myst Case Card** | Item‑drop rate **0.35%** |
 | **Deviruchi Hat Mats** | `600 Little Evil Horn` + `25 Talon of Griffon (was 40)` |
 | **Gemstones** | Price reduced to **400 z** |
 
