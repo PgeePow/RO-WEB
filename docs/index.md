@@ -5,7 +5,7 @@ hide:
 ---
 
 !!! note 
-    The page is till under development, all new details will be added in future
+    Official Launch on 26th April 10AM +8 GMT!! Register your account and download our client
 <br>
 
 # Welcome to **VALKARIA**, Adventurers!

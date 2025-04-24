@@ -6,17 +6,15 @@ Need a quick top-up after a rough fight? Or maybe you're just getting ready for 
 
 ## ❤️ What the Healer Does
 
-Our **Healer NPC** provides fast and free healing for all adventurers, plus a powerful set of buffs to keep you going strong.
+With **10k zeny** Our **Healer NPC** provides fast and free healing for all adventurers, plus a powerful set of buffs to keep you going strong.
 
 ### 💬 Service Includes:
 
 - 🩹 **Full HP & SP recovery**
 - 💨 **Agi (Increase Agility)**
 - 🙏 **Bless (Blessing)**
-- 🔆 **Magnificat**
-- 🛡️ **Angelus**
 
-These buffs are **automatically applied** when you heal, and they **last for 2 full hours** — perfect for leveling, farming, or MVP hunting.
+These buffs are **automatically applied** when you heal, and they **last for 10 Minutes** — perfect for leveling, farming, or MVP hunting.
 
 ---
 
@@ -30,8 +28,8 @@ Need directions? Check with other players or use `/where` in-game!
 
 ## ⚠️ Note
 
-- Buff duration is **2 hours (real-time)** even if you log out.
-- If you need a re-buff before the 2 hours is up, just stop by again!
+- Buff duration is **10 Minutes (real-time)** even if you log out.
+- If you need a re-buff before the 10 minutes is up, just stop by again!
 
 ---
 

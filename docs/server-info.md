@@ -5,15 +5,17 @@
 
 **Basic Rates**
 
-+ 7x/7x/6x
++ 10x/10x/6x
 
 **Weekends Rates**
 
-+ 10x/10x/6x
++ 11x/11x/6x
 
 **Fixed Rates**
 
-+ Equipment - 6x
++ Normal Equipment - 6x
++ Boss Equipment - 2x
++ Mvp Equipment - 1x
 + Normal Card - 5x
 + Mini Boss Card - x2
 + MVP Card - x2
