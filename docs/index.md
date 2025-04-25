@@ -123,7 +123,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
    
 -   
     
-    Hourly Reward<br>
+    [Card Trader](card-trader.md)<br>
     Attendance System<br>
     [MVP Checker](mvp-checker.md)<br>
     [Adjusted Item Price](adjusted-price.md)<br>

@@ -15,6 +15,7 @@ The **Monster Hunting System** is a rewarding gameplay feature where players can
 
 Below are the quick notes on the restriction.
 
+- Mission available to player level 80 and higher.
 - Mission conditions may be reset as many times as desired, with each reset costing 150,000 zeny.
 - Only one mission can be completed every 12 hours.
 - Missions can only be taken on one character per account.
