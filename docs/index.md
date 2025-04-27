@@ -49,6 +49,26 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
+    === "Apr 2024 v1.3"
+
+        ``` markdown 
+        - Healer Readjustment
+        - Blue Potion in Tool Dealer
+        - Training Ground Rework
+        - Equipment Fixes
+        ```
+            [View Full Apr Changelog](changelog/apr-change-log4.md)
+
+    === "Apr 2024 v1.2"
+
+        ``` markdown 
+        - Healer Readjustment
+        - Blue Potion in Tool Dealer
+        - Training Ground Rework
+        - Equipment Fixes
+        ```
+            [View Full Apr Changelog](changelog/apr-change-log3.md)            
+
     === "Apr 2024 v1.1"
 
         ``` markdown 
