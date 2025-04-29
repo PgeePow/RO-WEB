@@ -70,6 +70,12 @@ The **Warper System** in our server is designed to encourage exploration and adv
 | ayo_dun02 | /navi ayo_dun02 150/90|
 | ein_dun02 | /navi ein_dun02 288/288|
 | iz_dun03 | /navi iz_dun03 202/47|
+| ice_dun02 | /navi ice_dun02 144/280|
+| gl_step | /navi gl_step 117/119 |
+| gl_knt02| /navi gl_knt02 258/31 |
+| gl_cas02 | /navi gl_cas02 99/180 |
+| gl_church | /navi gl_church 301/293 |
+| thor_v02 | /navi thor_v02 142/224 |
 | c_tower3 | /navi c_tower3 129/106|
 | mjo_dun02 | /navi mjo_dun02 41/41|
 | prt_sewb2 | /navi prt_sewb2 184/27|

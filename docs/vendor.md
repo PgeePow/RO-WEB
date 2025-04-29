@@ -23,7 +23,7 @@ Using the **Search Store** function, you can purchase items directly from a vend
 | `@autotrade` or `@at`     | Keeps your shop open while you're offline.                                 |
 | `@searchstores` or `@ss`  | Opens the search window for all active shops on the server.                 |
 
-> 💡 Vendors must be placed in **Alberta** only. Shops outside this map may be removed by GMs.
+> 💡 Vendors can be placed in **Prontera** our current main town. Vendor location will be moved to other town in future.
 
 ---
 
