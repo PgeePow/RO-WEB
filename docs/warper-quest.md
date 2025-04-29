@@ -12,7 +12,7 @@ The **Warper System** in our server is designed to encourage exploration and adv
 
 1. **Discovering a Warp Point**  
    - To unlock a location, players must physically visit the warp point in a town or dungeon.  
-   - Once interacted with, the location becomes available in the warper menu.
+   - Once interacted with, the location becomes available in the warper menu. <br>
    ![Warper Quest](assets/npc/warper_quest.png)
 
 2. **Using the Warper NPC**  
