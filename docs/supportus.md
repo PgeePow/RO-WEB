@@ -37,6 +37,12 @@ Once your payment is completed:
 
 ---
 
+## Other Donation Method
+
+If you encountered any issue upon donating via Paypal. You may use Sociobuzz for donation. Please read the full guide below.
+
+👉 [Sociobuzz Donation](donate/sbuzz.md)
+
 ## ⭐ Other Ways to Support Us
 
 Donating isn't the only way to help the ValkariaRO community grow! If you're enjoying your time here, consider showing your love by:
