@@ -20,7 +20,7 @@ Go to our official SocioBuzz page:
 
 <div align="center">
     <a href="https://sociabuzz.com/valkariaro/donate" style="text-decoration: none;">
-        <button style="background-color: #007bff; color: white; border: none; border-radius: 20px; padding: 10px 20px; font-size: 16px; cursor: pointer;">
+        <button style="background-color: #007bff; color: white; border: none; border-radius: 20px; padding: 10px 20px; font-size: 16px; cursor: pointer;" target="_blank">
             Donate Now
         </button>
     </a>
@@ -105,7 +105,7 @@ Your donations help keep the server running and support future updates. We appre
 
 <div align="center">
     <a href="https://sociabuzz.com/valkariaro/donate" style="text-decoration: none;">
-        <button style="background-color: #007bff; color: white; border: none; border-radius: 20px; padding: 10px 20px; font-size: 16px; cursor: pointer;">
+        <button style="background-color: #007bff; color: white; border: none; border-radius: 20px; padding: 10px 20px; font-size: 16px; cursor: pointer;" target="_blank">
             Donate Now
         </button>
     </a>
