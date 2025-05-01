@@ -59,8 +59,9 @@ enter your **in-game account username**.
 Once your donation is confirmed:
 
 🧍‍♂️ **Go to the Donation Manager NPC in-game**
-![alt text](image-4.png)
-- Use the following command:
+Located in Prontera Main Office<br>
+![alt text](image-4.png)<br>
+- Use the following command to find the NPC:
 /navi prt_in 36/115
 
 - Talk to the **Donation Manager NPC** to claim your CP.
