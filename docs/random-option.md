@@ -245,6 +245,90 @@ Tailored for spellcasters and magic users.
 
 ---
 
+### MELEE LEVEL 4
+
+| SLOT 1                      | SLOT 2                      | SLOT 3                         |
+|----------------------------|-----------------------------|--------------------------------|
+| Atk 35~60                  | DEC SPELL CAST 5~10%        | RACE DMG TO NEUTRAL 15~25%     |
+| STR 2~3                    | INC MAXHP 350~400           | RACE DMG TO UNDEAD 15~25%      |
+| INT 2~3                    | INC MAXSP 70~100            | RACE DMG TO ANIMAL 15~25%      |
+| AGI 2~3                    | HIT 10~20                   | RACE DMG TO PLANT 15~25%       |
+| LUK 2~3                    | INC CRIT DMG 10~20%         | RACE DMG TO INSECT 15~25%      |
+| VIT 2~3                    | DMG TO BOSS 10~20%          | RACE DMG TO FISH 15~25%        |
+| DEX 2~3                    | DMG TO SMALL 10~20%         | RACE DMG TO ANGEL 15~25%       |
+| CRIT RATE 6~12%            | DMG TO MED 10~20%           | RACE DMG TO DRAGON 15~25%      |
+| REDUCE SP CONSUMPTION 10~12%| DMG TO LARGE 10~20%        | RACE DMG TO DEMON 15~25%       |
+| ASPD 7~11%                 |                             | RACE DMG TO HUMAN 15~25%       |
+|                            |                             | DMG TO NEUTRAL ELEMENT 15~25%  |
+|                            |                             | DMG TO WATER ELEMENT 15~25%    |
+|                            |                             | DMG TO EARTH ELEMENT 15~25%    |
+|                            |                             | DMG TO FIRE ELEMENT 15~25%     |
+|                            |                             | DMG TO WIND ELEMENT 15~25%     |
+|                            |                             | DMG TO POISON ELEMENT 15~25%   |
+|                            |                             | DMG TO HOLY ELEMENT 15~25%     |
+|                            |                             | DMG TO SHADOW ELEMENT 15~25%   |
+|                            |                             | DMG TO GHOST ELEMENT 15~25%    |
+|                            |                             | DMG TO UNDEAD ELEMENT 15~25%   |
+
+
+---
+
+## RANGE LEVEL 4
+
+| SLOT 1                       | SLOT 2                      | SLOT 3                          |
+|-----------------------------|-----------------------------|---------------------------------|
+| Atk 35~60                   | DEC SPELL CAST 5~10%        | RACE DMG TO NEUTRAL 15~25%      |
+| STR 2~3                     | INC MAXHP 350~400           | RACE DMG TO UNDEAD 15~25%       |
+| INT 2~3                     | INC MAXSP 70~100            | RACE DMG TO ANIMAL 15~25%       |
+| AGI 2~3                     | HIT 10~20                   | RACE DMG TO PLANT 15~25%        |
+| LUK 2~3                     | INC CRIT DMG 10~20%         | RACE DMG TO INSECT 15~25%       |
+| VIT 2~3                     | DMG TO BOSS 10~20%          | RACE DMG TO FISH 15~25%         |
+| DEX 2~3                     | DMG TO SMALL 10~20%         | RACE DMG TO ANGEL 15~25%        |
+| CRIT RATE 6~12%             | DMG TO MED 10~20%           | RACE DMG TO DRAGON 15~25%       |
+| REDUCE SP CONSUMPTION 10~12%| DMG TO LARGE 10~20%         | RACE DMG TO DEMON 15~25%        |
+| ASPD 8~10%                  | RANGE ATK DMG 10~15%        | RACE DMG TO HUMAN 15~25%        |
+|                             |                             | DMG TO NEUTRAL ELEMENT 15~25%   |
+|                             |                             | DMG TO WATER ELEMENT 15~25%     |
+|                             |                             | DMG TO EARTH ELEMENT 15~25%     |
+|                             |                             | DMG TO FIRE ELEMENT 15~25%      |
+|                             |                             | DMG TO WIND ELEMENT 15~25%      |
+|                             |                             | DMG TO POISON ELEMENT 15~25%    |
+|                             |                             | DMG TO HOLY ELEMENT 15~25%      |
+|                             |                             | DMG TO SHADOW ELEMENT 15~25%    |
+|                             |                             | DMG TO GHOST ELEMENT 15~25%     |
+|                             |                             | DMG TO UNDEAD ELEMENT 15~25%    |
+
+
+---
+
+## MAGIC LEVEL 4
+
+| SLOT 1                      | SLOT 2                          | SLOT 3                             |
+|----------------------------|----------------------------------|------------------------------------|
+| MAtk 25~50                 | DEC SPELL CAST 5~10             | RACE IGNR MDEF NEUTRAL 20~30%      |
+| STR 2~3                    | INC MAXHP PERCENTAGE 4~8%       | RACE IGNR MDEF UNDEAD 20~30%       |
+| INT 2~3                    | INC MAXSP PERCENTAGE 4~8%       | RACE IGNR MDEF ANIMAL 20~30%       |
+| AGI 2~3                    | ASPD 5~10%                      | RACE IGNR MDEF PLANT 20~30%        |
+| LUK 2~3                    | MDMG TO BOSS 5~10%              | RACE IGNR MDEF INSECT 20~30%       |
+| VIT 2~3                    | DEC AFTER CAST DELAY 5~10%      | RACE IGNR MDEF FISH 20~30%         |
+| DEX 2~3                    | REDUCE SP CONSUMPTION 10~15%    | RACE IGNR MDEF ANGEL 20~30%        |
+| INC MAXHP 250~500          |                                  | RACE IGNR MDEF DRAGON 20~30%       |
+| INT MAXSP 75~150           |                                  | RACE IGNR MDEF DEMON 20~30%        |
+|                            |                                  | RACE IGNR MDEF HUMAN 20~30%        |
+|                            |                                  | IGNORE MDEF NEUTRAL ELEMENT 20~30% |
+|                            |                                  | IGNORE MDEF WATER ELEMENT 20~30%   |
+|                            |                                  | IGNORE MDEF EARTH ELEMENT 20~30%   |
+|                            |                                  | IGNORE MDEF FIRE ELEMENT 20~30%    |
+|                            |                                  | IGNORE MDEF WIND ELEMENT 20~30%    |
+|                            |                                  | IGNORE MDEF POISON ELEMENT 20~30%  |
+|                            |                                  | IGNORE MDEF HOLY ELEMENT 20~30%    |
+|                            |                                  | IGNORE MDEF SHADOW ELEMENT 20~30%  |
+|                            |                                  | IGNORE MDEF GHOST ELEMENT 20~30%   |
+|                            |                                  | IGNORE MDEF UNDEAD ELEMENT 20~30%  |
+
+
+---
+
 ## 🛡️ Armor Options
 
 Armor items will roll **up 2 random options**, focusing on survivability and resistances.
