@@ -44,7 +44,13 @@ Players can exchange their **Poring Coins** for various rewards at the **Poring 
 | ![20416](assets/item/20416.png) 1st Grade Balloon<br> | ![ 185 Coins ](assets/item/7539.png) x185 Coins |
 | ![31404](assets/item/31404.png) Poring Traffic Light<br> | ![ 200 Coins ](assets/item/7539.png) x200 Coins |
 | ![31090](assets/item/31090.png) Angeling Wanna Fly<br> | ![ 230 Coins ](assets/item/7539.png) x230 Coins |
-
+| ![2765](assets/item/2765.gif) Novice Figure<br> | ![ 50 Coins ](assets/item/7539.png) x50 Coins |
+| ![2766](assets/item/2766.gif) Swordman Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2767](assets/item/2767.gif) Acolyte Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2768](assets/item/2768.gif) Mage Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2769](assets/item/2769.gif) Archer Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2770](assets/item/2770.gif) Thief Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2772](assets/item/2771.gif) Merchant Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
 
 > *More items may be added in the future as the system evolves.*
 
