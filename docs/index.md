@@ -115,7 +115,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 -   **Coins System**
    
     
-    Special Coins which earned through various in-game content and events.<br>
+    Special Coins which earned through various in-game content and events. Can be use for quest headgear or in-game shop exchange.<br>
     [Learn More](coin-system.md)
 
 -   **Headgear Quest**
