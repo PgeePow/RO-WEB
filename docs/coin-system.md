@@ -18,24 +18,23 @@ Players can exchange their **Poring Coins** for various rewards at the **Poring 
 #### **Available Items for Exchange**:
 | Item Name              | Required Poring Coins |
 |------------------------|----------------------|
-| ![12265](assets/item/12265.png) Life Insurance<br> | ![ 3 Coins ](assets/item/7539.png) x3 Coins |
-| ![12215](assets/item/12215.png) Blessing 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![12216](assets/item/12216.png) Increase Agility 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![12208](assets/item/12208.png) Battle Manual<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![14592](assets/item/14592.png) Job Manual 50<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![14535](assets/item/14535.png) Medium Life Potion<br> | ![ 10 Coins ](assets/item/7539.png) x10 Coins |
-| ![14537](assets/item/14537.png) Regeneration Potion<br> | ![ 10 Coins ](assets/item/7539.png) x10 Coins |
-| ![12211](assets/item/12211.png) Kafra Card<br> | ![ 15 Coins ](assets/item/7539.png) x15 Coins |
-| ![7776](assets/item/7776.png) Max Weight Up Scroll<br> | ![ 70 Coins ](assets/item/7539.png) x70 Coins |
-| ![12210](assets/item/12210.png) Bubble Gum<br> | ![ 600 Coins ](assets/item/7539.png) x600 Coins |
+| ![12265](assets/item/12265.png) Life Insurance<br> | ![ 3 Coins ](assets/item/7539.png) x10 Coins |
+| ![12215](assets/item/12215.png) Blessing 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x2 Coins |
+| ![12216](assets/item/12216.png) Increase Agility 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x2 Coins |
+| ![12208](assets/item/12208.png) Battle Manual<br> | ![ 5 Coins ](assets/item/7539.png) x20 Coins |
+| ![14592](assets/item/14592.png) Job Battle Manual<br> | ![ 5 Coins ](assets/item/7539.png) x20 Coins |
+| ![14535](assets/item/14535.png) Medium Life Potion<br> | ![ 10 Coins ](assets/item/7539.png) x15 Coins |
+| ![14537](assets/item/14537.png) Regeneration Potion<br> | ![ 10 Coins ](assets/item/7539.png) x15 Coins |
+| ![12211](assets/item/12211.png) Kafra Card<br> | ![ 15 Coins ](assets/item/7539.png) x50 Coins |
+| ![7776](assets/item/7776.png) Max Weight Up Scroll<br> | ![ 70 Coins ](assets/item/7539.png) x100 Coins |
 | ![14601](assets/item/14601.png) Tyr's Blessing<br> | ![ 55 Coins ](assets/item/7539.png) x55 Coins |
-| ![12438](assets/item/12438.png) Giant Fly Wing (F)<br> | ![ 55 Coins ](assets/item/7539.png) x55 Coins |
-| ![12909](assets/item/12909.png) Kafra Card Box<br> | ![ 65 Coins ](assets/item/7539.png) x65 Coins |
-| ![12913](assets/item/12913.png) Blessing 10 Scroll Box<br> | ![ 50 Coins ](assets/item/7539.png) x50 Coins |
-| ![13698](assets/item/13698.png) Increase Agility 10 Box<br> | ![ 50 Coins ](assets/item/7539.png) x50 Coins |
-| ![13710](assets/item/13710.png) Max Weight Up Box<br> | ![ 700 Coins ](assets/item/7539.png) x700 Coins |
-| ![13714](assets/item/13714.png) Medium Life Potion Box<br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
-| ![14113](assets/item/14113.png) Regeneration Box (F) x10<br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![12438](assets/item/12438.png) Giant Fly Wing (F)<br> | ![ 55 Coins ](assets/item/7539.png) x25 Coins |
+| ![12909](assets/item/12909.png) Kafra Card Box<br> | ![ 65 Coins ](assets/item/7539.png) x500 Coins |
+| ![12913](assets/item/12913.png) Blessing 10 Scroll Box<br> | ![ 50 Coins ](assets/item/7539.png) x20 Coins |
+| ![13698](assets/item/13698.png) Increase Agility 10 Box<br> | ![ 50 Coins ](assets/item/7539.png) x20 Coins |
+| ![13710](assets/item/13710.png) Max Weight Up Box<br> | ![ 700 Coins ](assets/item/7539.png) x950 Coins |
+| ![13714](assets/item/13714.png) Medium Life Potion Box<br> | ![ 100 Coins ](assets/item/7539.png) x150 Coins |
+| ![14113](assets/item/14113.png) Regeneration Box (F) x10<br> | ![ 100 Coins ](assets/item/7539.png) x150 Coins |
 | ![20295](assets/item/20295.png) Poring Sunglasses (J)<br> | ![ 150 Coins ](assets/item/7539.png) x150 Coins |
 | ![19672](assets/item/19672.png) Poring Letter<br> | ![ 150 Coins ](assets/item/7539.png) x150 Coins |
 | ![19631](assets/item/19631.png) Boss Hat<br> | ![ 165 Coins ](assets/item/7539.png) x165 Coins |
