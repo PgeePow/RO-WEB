@@ -1,31 +1,9 @@
 # Poring Coin System
 
 ## Summary
-The **Poring Coin System** is a special reward system designed to enhance gameplay by offering valuable exchangeable items. Players can obtain **Poring Coins** by hunting specific monsters or completing in-game activities. These coins can be exchanged at designated NPCs for exclusive rewards.
+The **Poring Coin System** is a special reward system designed to enhance gameplay by offering valuable exchangeable items. Players can obtain **Poring Coins** by joining or completing in-game activities. These coins can be exchanged at designated NPCs for exclusive rewards.
 
 ## Content
-
-### Drop Rate
-Different monsters have varying drop rates for **Poring Coins**. Below is a breakdown of the drop rates:
-
-- **All monster Drop Rate**: 5% Chance
-
-**Decreased Drop Rate for below Mob**
-
-- ![Orc Zombie](assets/mob/1153.gif)
-- ![Thief Bug](assets/mob/1051.gif) (Thiefbug, Thiefbug Male, Thiefbug Female)
-  
-**Drop Disable for below Mob**
-
-- ![Hydra](assets/mob/1068.gif)
-- ![Thief Bug Egg](assets/mob/1048.gif)
-- ![Peco Peco Egg](assets/mob/1047.gif)
-- ![Plants](assets/mob/1079.gif) (Green, Red, Shining, White, Blue, Yellow)
-- ![Red Mushroom](assets/mob/1085.gif)
-- ![Black Mushroom](assets/mob/1084.gif)
-
-
-> *Note: The drop rates may be subject to change based on future updates.*
 
 ### NPC Exchange
 Players can exchange their **Poring Coins** for various rewards at the **Poring Merchant NPC**.
