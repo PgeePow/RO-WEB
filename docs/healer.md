@@ -29,7 +29,7 @@ Need directions? Check with other players or use `/where` in-game!
 ## ⚠️ Note
 
 - Buff duration is **31 Minutes (real-time)** even if you log out.
-- If you need a re-buff before the 10 minutes is up, just stop by again!
+- If you need a re-buff before the 31 minutes is up, just stop by again!
 
 ---
 
