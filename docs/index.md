@@ -115,7 +115,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 -   **Coins System**
    
     
-    Monsters have a 5% chance to drop Special Coins, which can also be earned through quests and events.<br>
+    Special Coins which earned through various in-game content and events.<br>
     [Learn More](coin-system.md)
 
 -   **Headgear Quest**
