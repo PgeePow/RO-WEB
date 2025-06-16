@@ -6,7 +6,7 @@ Need a quick top-up after a rough fight? Or maybe you're just getting ready for 
 
 ## ❤️ What the Healer Does
 
-With **10k zeny** Our **Healer NPC** provides fast and free healing for all adventurers, plus a powerful set of buffs to keep you going strong.
+With **2.7k zeny** Our **Healer NPC** provides fast and free healing for all adventurers, plus a powerful set of buffs to keep you going strong.
 
 ### 💬 Service Includes:
 
@@ -14,7 +14,7 @@ With **10k zeny** Our **Healer NPC** provides fast and free healing for all adve
 - 💨 **Agi (Increase Agility)**
 - 🙏 **Bless (Blessing)**
 
-These buffs are **automatically applied** when you heal, and they **last for 10 Minutes** — perfect for leveling, farming, or MVP hunting.
+These buffs are **automatically applied** when you heal, and they **last for 31 Minutes** — perfect for leveling, farming, or MVP hunting.
 
 ---
 
