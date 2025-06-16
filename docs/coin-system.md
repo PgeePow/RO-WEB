@@ -27,6 +27,7 @@ Players can exchange their **Poring Coins** for various rewards at the **Poring 
 | ![14537](assets/item/14537.png) Regeneration Potion<br> | ![ 10 Coins ](assets/item/7539.png) x15 Coins |
 | ![12211](assets/item/12211.png) Kafra Card<br> | ![ 15 Coins ](assets/item/7539.png) x50 Coins |
 | ![7776](assets/item/7776.png) Max Weight Up Scroll<br> | ![ 70 Coins ](assets/item/7539.png) x100 Coins |
+| ![12214](assets/item/12214.png) Convex Mirror<br> | ![ 200 Coins ](assets/item/7539.png) x200 Coins |
 | ![14601](assets/item/14601.png) Tyr's Blessing<br> | ![ 55 Coins ](assets/item/7539.png) x55 Coins |
 | ![12438](assets/item/12438.png) Giant Fly Wing (F)<br> | ![ 55 Coins ](assets/item/7539.png) x25 Coins |
 | ![12909](assets/item/12909.png) Kafra Card Box<br> | ![ 65 Coins ](assets/item/7539.png) x500 Coins |
