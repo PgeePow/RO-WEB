@@ -75,7 +75,7 @@ The **Warper System** in our server is designed to encourage exploration and adv
 | gl_knt02| /navi gl_knt02 258/31 |
 | gl_cas02 | /navi gl_cas02 99/180 |
 | gl_church | /navi gl_church 301/293 |
-| thor_v02 | /navi thor_v01 200/41 |
+| thor_v01 | /navi thor_v01 200/41 |
 | c_tower3 | /navi c_tower3 129/106|
 | mjo_dun02 | /navi mjo_dun02 41/41|
 | prt_sewb2 | /navi prt_sewb2 184/27|
