@@ -49,7 +49,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
-    === "Apr 2024 v1.3"
+    === "Apr 2025 v1.3"
 
         ``` markdown 
         - Healer Readjustment
@@ -59,7 +59,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         ```
             [View Full Apr Changelog](changelog/apr-change-log4.md)
 
-    === "Apr 2024 v1.2"
+    === "Apr 2025 v1.2"
 
         ``` markdown 
         - Healer Readjustment
@@ -69,7 +69,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         ```
             [View Full Apr Changelog](changelog/apr-change-log3.md)            
 
-    === "Apr 2024 v1.1"
+    === "Apr 2025 v1.1"
 
         ``` markdown 
         - Quest
@@ -79,7 +79,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         ```
             [View Full Apr Changelog](changelog/apr-change-log2.md)
 
-    === "Apr 2024 v1.0"
+    === "Apr 2025 v1.0"
 
         ``` markdown 
         - Healer Buff
@@ -89,7 +89,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         ```
             [View Full Apr Changelog](changelog/apr-change-log.md)
 
-    === "Mar 2024"
+    === "Mar 2025"
 
         ``` markdown 
         - Server Development
