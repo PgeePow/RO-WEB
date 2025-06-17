@@ -1,31 +1,9 @@
 # Poring Coin System
 
 ## Summary
-The **Poring Coin System** is a special reward system designed to enhance gameplay by offering valuable exchangeable items. Players can obtain **Poring Coins** by hunting specific monsters or completing in-game activities. These coins can be exchanged at designated NPCs for exclusive rewards.
+The **Poring Coin System** is a special reward system designed to enhance gameplay by offering valuable exchangeable items. Players can obtain **Poring Coins** by joining or completing in-game activities. These coins can be exchanged at designated NPCs for exclusive rewards.
 
 ## Content
-
-### Drop Rate
-Different monsters have varying drop rates for **Poring Coins**. Below is a breakdown of the drop rates:
-
-- **All monster Drop Rate**: 5% Chance
-
-**Decreased Drop Rate for below Mob**
-
-- ![Orc Zombie](assets/mob/1153.gif)
-- ![Thief Bug](assets/mob/1051.gif) (Thiefbug, Thiefbug Male, Thiefbug Female)
-  
-**Drop Disable for below Mob**
-
-- ![Hydra](assets/mob/1068.gif)
-- ![Thief Bug Egg](assets/mob/1048.gif)
-- ![Peco Peco Egg](assets/mob/1047.gif)
-- ![Plants](assets/mob/1079.gif) (Green, Red, Shining, White, Blue, Yellow)
-- ![Red Mushroom](assets/mob/1085.gif)
-- ![Black Mushroom](assets/mob/1084.gif)
-
-
-> *Note: The drop rates may be subject to change based on future updates.*
 
 ### NPC Exchange
 Players can exchange their **Poring Coins** for various rewards at the **Poring Merchant NPC**.
@@ -40,24 +18,24 @@ Players can exchange their **Poring Coins** for various rewards at the **Poring 
 #### **Available Items for Exchange**:
 | Item Name              | Required Poring Coins |
 |------------------------|----------------------|
-| ![12265](assets/item/12265.png) Life Insurance<br> | ![ 3 Coins ](assets/item/7539.png) x3 Coins |
-| ![12215](assets/item/12215.png) Blessing 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![12216](assets/item/12216.png) Increase Agility 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![12208](assets/item/12208.png) Battle Manual<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![14592](assets/item/14592.png) Job Manual 50<br> | ![ 5 Coins ](assets/item/7539.png) x5 Coins |
-| ![14535](assets/item/14535.png) Medium Life Potion<br> | ![ 10 Coins ](assets/item/7539.png) x10 Coins |
-| ![14537](assets/item/14537.png) Regeneration Potion<br> | ![ 10 Coins ](assets/item/7539.png) x10 Coins |
-| ![12211](assets/item/12211.png) Kafra Card<br> | ![ 15 Coins ](assets/item/7539.png) x15 Coins |
-| ![7776](assets/item/7776.png) Max Weight Up Scroll<br> | ![ 70 Coins ](assets/item/7539.png) x70 Coins |
-| ![12210](assets/item/12210.png) Bubble Gum<br> | ![ 600 Coins ](assets/item/7539.png) x600 Coins |
+| ![12265](assets/item/12265.png) Life Insurance<br> | ![ 3 Coins ](assets/item/7539.png) x10 Coins |
+| ![12215](assets/item/12215.png) Blessing 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x2 Coins |
+| ![12216](assets/item/12216.png) Increase Agility 10 Scroll<br> | ![ 5 Coins ](assets/item/7539.png) x2 Coins |
+| ![12208](assets/item/12208.png) Battle Manual<br> | ![ 5 Coins ](assets/item/7539.png) x20 Coins |
+| ![14592](assets/item/14592.png) Job Battle Manual<br> | ![ 5 Coins ](assets/item/7539.png) x20 Coins |
+| ![14535](assets/item/14535.png) Medium Life Potion<br> | ![ 10 Coins ](assets/item/7539.png) x15 Coins |
+| ![14537](assets/item/14537.png) Regeneration Potion<br> | ![ 10 Coins ](assets/item/7539.png) x15 Coins |
+| ![12211](assets/item/12211.png) Kafra Card<br> | ![ 15 Coins ](assets/item/7539.png) x50 Coins |
+| ![7776](assets/item/7776.png) Max Weight Up Scroll<br> | ![ 70 Coins ](assets/item/7539.png) x100 Coins |
+| ![12214](assets/item/12214.png) Convex Mirror<br> | ![ 200 Coins ](assets/item/7539.png) x200 Coins |
 | ![14601](assets/item/14601.png) Tyr's Blessing<br> | ![ 55 Coins ](assets/item/7539.png) x55 Coins |
-| ![12438](assets/item/12438.png) Giant Fly Wing (F)<br> | ![ 55 Coins ](assets/item/7539.png) x55 Coins |
-| ![12909](assets/item/12909.png) Kafra Card Box<br> | ![ 65 Coins ](assets/item/7539.png) x65 Coins |
-| ![12913](assets/item/12913.png) Blessing 10 Scroll Box<br> | ![ 50 Coins ](assets/item/7539.png) x50 Coins |
-| ![13698](assets/item/13698.png) Increase Agility 10 Box<br> | ![ 50 Coins ](assets/item/7539.png) x50 Coins |
-| ![13710](assets/item/13710.png) Max Weight Up Box<br> | ![ 700 Coins ](assets/item/7539.png) x700 Coins |
-| ![13714](assets/item/13714.png) Medium Life Potion Box<br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
-| ![14113](assets/item/14113.png) Regeneration Box (F) x10<br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![12438](assets/item/12438.png) Giant Fly Wing (F)<br> | ![ 55 Coins ](assets/item/7539.png) x25 Coins |
+| ![12909](assets/item/12909.png) Kafra Card Box<br> | ![ 65 Coins ](assets/item/7539.png) x500 Coins |
+| ![12913](assets/item/12913.png) Blessing 10 Scroll Box<br> | ![ 50 Coins ](assets/item/7539.png) x20 Coins |
+| ![13698](assets/item/13698.png) Increase Agility 10 Box<br> | ![ 50 Coins ](assets/item/7539.png) x20 Coins |
+| ![13710](assets/item/13710.png) Max Weight Up Box<br> | ![ 700 Coins ](assets/item/7539.png) x950 Coins |
+| ![13714](assets/item/13714.png) Medium Life Potion Box<br> | ![ 100 Coins ](assets/item/7539.png) x150 Coins |
+| ![14113](assets/item/14113.png) Regeneration Box (F) x10<br> | ![ 100 Coins ](assets/item/7539.png) x150 Coins |
 | ![20295](assets/item/20295.png) Poring Sunglasses (J)<br> | ![ 150 Coins ](assets/item/7539.png) x150 Coins |
 | ![19672](assets/item/19672.png) Poring Letter<br> | ![ 150 Coins ](assets/item/7539.png) x150 Coins |
 | ![19631](assets/item/19631.png) Boss Hat<br> | ![ 165 Coins ](assets/item/7539.png) x165 Coins |
@@ -66,7 +44,13 @@ Players can exchange their **Poring Coins** for various rewards at the **Poring 
 | ![20416](assets/item/20416.png) 1st Grade Balloon<br> | ![ 185 Coins ](assets/item/7539.png) x185 Coins |
 | ![31404](assets/item/31404.png) Poring Traffic Light<br> | ![ 200 Coins ](assets/item/7539.png) x200 Coins |
 | ![31090](assets/item/31090.png) Angeling Wanna Fly<br> | ![ 230 Coins ](assets/item/7539.png) x230 Coins |
-
+| ![2765](assets/item/2765.gif) Novice Figure<br> | ![ 50 Coins ](assets/item/7539.png) x50 Coins |
+| ![2766](assets/item/2766.gif) Swordman Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2767](assets/item/2767.gif) Acolyte Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2768](assets/item/2768.gif) Mage Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2769](assets/item/2769.gif) Archer Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2770](assets/item/2770.gif) Thief Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
+| ![2772](assets/item/2771.gif) Merchant Figure <br> | ![ 100 Coins ](assets/item/7539.png) x100 Coins |
 
 > *More items may be added in the future as the system evolves.*
 
