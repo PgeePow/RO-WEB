@@ -66,7 +66,7 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 | Floor 29 | ![1164](assets/mob/1164.gif) Requiem 25x <br>![1178](assets/mob/1178.gif) Zerom 25x <br>![1290](assets/mob/1290.gif) Skeleton General 10x |
 | Floor 30 | ![1586](assets/mob/1586.gif) Leaf cat 25x <br>![1261](assets/mob/1261.gif) Wild Rose 25x |
 | Floor 31 | ![1114](assets/mob/1114.gif) Dustiness 10x <br>![1304](assets/mob/1304.gif) Giant Spider 10x <br>![1619](assets/mob/1619.gif) Porcellio 10x <br>![1616](assets/mob/1616.gif) Pitman 10x |
-| Floor 32 | ![1614](assets/mob/1614.gif) Mineral 10x <br>![1617](assets/mob/1617.gif) Waste Stove 10x <br>![1620](assets/mob/1620.gif) Noxious 10x <br>![1621](assets/mob/1621.gif) Venomous 10x <br>![1622](assets/mob/1622.gif) Teddy Bear 10x <br>![1623](assets/mob/.1623gif) RSX-006 1x |
+| Floor 32 | ![1614](assets/mob/1614.gif) Mineral 10x <br>![1617](assets/mob/1617.gif) Waste Stove 10x <br>![1620](assets/mob/1620.gif) Noxious 10x <br>![1621](assets/mob/1621.gif) Venomous 10x <br>![1622](assets/mob/1622.gif) Teddy Bear 10x <br>![1623](assets/mob/1623gif) RSX-006 1x |
 | Floor 33 | ![1102](assets/mob/1102.gif) Bathory 15x <br>![1170](assets/mob/1170.gif) Sohee 15x <br>![1390](assets/mob/1390.gif) Violy 15x |
 | Floor 34 | ![1321](assets/mob/1321.gif) Dragon Tail 15x <br>![1368](assets/mob/1368.gif) Geographer 15x <br>![1391](assets/mob/1391.gif) Galapago 15x <br>![1406](assets/mob/1406.gif) Kapha 15x |
 | Floor 35 | ![1409](assets/mob/1409.gif) Rice cake boy 15x <br>![1520](assets/mob/1520.gif) Boiled Rice 15x <br>![1415](assets/mob/1415.gif) Baby Leopard 15x |
@@ -92,11 +92,11 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 | Floor 55 | ![1789](assets/mob/1789.gif) Iceicle 75x |
 | Floor 56 | ![1778](assets/mob/1778.gif) Gazeti 30x <br>![1779](assets/mob/1779.gif) Ktullanux 1x |
 | Floor 57 | ![1664](assets/mob/1664.gif) Photon Cannon 10x <br>![1665](assets/mob/1665.gif) Photon Cannon 10x <br>![1666](assets/mob/1666.gif) Photon Cannon 10x <br>![1667](assets/mob/1667.gif) Photon Cannon 10x <br>![1685](assets/mob/1685.gif) Vesper 1x |
-| Floor 58 | ![1120](assets/mob/1120.gif) Ghostring 3x <br>![1096](assets/mob/1097.gif) Angeling 3x <br>![1582](assets/mob/1582.gif) Deviling 3x <br>![1388](assets/mob/1388.gif) Arc Angeling 3x <br>![1090](assets/mob/1090.gif) Mastering 3x |
+| Floor 58 | ![1120](assets/mob/1120.gif) Ghostring 3x <br>![1096](assets/mob/1096.gif) Angeling 3x <br>![1582](assets/mob/1582.gif) Deviling 3x <br>![1388](assets/mob/1388.gif) Arc Angeling 3x <br>![1090](assets/mob/1090.gif) Mastering 3x |
 | Floor 59 | ![1704](assets/mob/1704.gif) Thanatos Odium 12x <br>![1705](assets/mob/1705.gif) Thanatos Despero 12x <br>![1706](assets/mob/1706.gif) Thanatos Maero 12x <br>![1707](assets/mob/1707.gif) Thanatos Dolor 12x |
 | Floor 60 | ![1708](assets/mob/1708.gif) Thanatos Phantom 1x|
 | Floor 61 | ![1995](assets/mob/1995.gif) Pinguicula 40x <br>![2015](assets/mob/2015.gif) Dark Pinguicula 40x |
-| Floor 62 | ![1998](assets/mob/1998.gif) Nepenthes 60x <br>![1994](assets/mob/1994.gif) Luciola Vespa 30x |
+| Floor 62 | ![1988](assets/mob/1988.gif) Nepenthes 60x <br>![1994](assets/mob/1994.gif) Luciola Vespa 30x |
 | Floor 63 | ![1993](assets/mob/1993.gif) Naga 50x <br>![1992](assets/mob/1992.gif) Cornus 20x |
 | Floor 64 | ![1989](assets/mob/1989.gif) Hillslion 15x <br>![1991](assets/mob/1991.gif) Tendrillion 2x |
 | Floor 65 | ![1999](assets/mob/1999.gif) Centipede Larva 50x <br>![1987](assets/mob/1987.gif) Centipede 25x |
