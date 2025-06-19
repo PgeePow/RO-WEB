@@ -66,7 +66,7 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 | Floor 29 | ![1164](assets/mob/1164.gif) Requiem 25x <br>![1178](assets/mob/1178.gif) Zerom 25x <br>![1290](assets/mob/1290.gif) Skeleton General 10x |
 | Floor 30 | ![1586](assets/mob/1586.gif) Leaf cat 25x <br>![1261](assets/mob/1261.gif) Wild Rose 25x |
 | Floor 31 | ![1114](assets/mob/1114.gif) Dustiness 10x <br>![1304](assets/mob/1304.gif) Giant Spider 10x <br>![1619](assets/mob/1619.gif) Porcellio 10x <br>![1616](assets/mob/1616.gif) Pitman 10x |
-| Floor 32 | ![1614](assets/mob/1614.gif) Mineral 10x <br>![1617](assets/mob/1617.gif) Waste Stove 10x <br>![1620](assets/mob/1620.gif) Noxious 10x <br>![1621](assets/mob/1621.gif) Venomous 10x <br>![1622](assets/mob/1622.gif) Teddy Bear 10x <br>![1623](assets/mob/1623gif) RSX-006 1x |
+| Floor 32 | ![1614](assets/mob/1614.gif) Mineral 10x <br>![1617](assets/mob/1617.gif) Waste Stove 10x <br>![1620](assets/mob/1620.gif) Noxious 10x <br>![1621](assets/mob/1621.gif) Venomous 10x <br>![1622](assets/mob/1622.gif) Teddy Bear 10x <br>![1623](assets/mob/1623.gif) RSX-0806 1x |
 | Floor 33 | ![1102](assets/mob/1102.gif) Bathory 15x <br>![1170](assets/mob/1170.gif) Sohee 15x <br>![1390](assets/mob/1390.gif) Violy 15x |
 | Floor 34 | ![1321](assets/mob/1321.gif) Dragon Tail 15x <br>![1368](assets/mob/1368.gif) Geographer 15x <br>![1391](assets/mob/1391.gif) Galapago 15x <br>![1406](assets/mob/1406.gif) Kapha 15x |
 | Floor 35 | ![1409](assets/mob/1409.gif) Rice cake boy 15x <br>![1520](assets/mob/1520.gif) Boiled Rice 15x <br>![1415](assets/mob/1415.gif) Baby Leopard 15x |
