@@ -29,7 +29,7 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 
 ### **How to start Instance**
  
--  To start the instance, you need to talk to Captain Janssen in Prontera (/navi Alberta 215/76 ). 
+-  To start the instance, you need to talk to Captain Janssen in Prontera ( /navi Alberta 215/76 ). 
 -  Talk to him a few times. The journey to Misty Island costs 10,000 Zeny. 
 -  On the island, talk to the Cellar Protection Stone and select Enter Endless Cellar
 
