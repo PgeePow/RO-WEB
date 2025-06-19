@@ -13,25 +13,25 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 
 ### **Instance Mechanics:**
 
-    -  All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
-    -  Any member who attempts to join an in progress party will automatically be kicked out of the instance.
-    -  Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon. 
-    -  If all members exit, the instance will be deleted and cooldown commences.
-    -  Create a party and run Solo or with a party, dungeon instance creation starts at lowest level.
-    -  Experience and loot and obtained per kill and will be issued depending on party share options.
-    -  Bubble Gum and EXP manuals do not effect drop rate and/or exp rates.
-    -  Level 85+ to enter
-    -  Monsters remaining per floor will be announced starting with 5 remaining
+-  All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
+-  Any member who attempts to join an in progress party will automatically be kicked out of the instance.
+-  Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon. 
+-  If all members exit, the instance will be deleted and cooldown commences.
+-  Create a party and run Solo or with a party, dungeon instance creation starts at lowest level.
+-  Experience and loot and obtained per kill and will be issued depending on party share options.
+-  Bubble Gum and EXP manuals do not effect drop rate and/or exp rates.
+-  Level 85+ to enter
+-  Monsters remaining per floor will be announced starting with 5 remaining
 
 ### **Schedule**
   
-    -  Endless Cellar weekly cooldown (6 days, 16 hours) 
+-  Endless Cellar weekly cooldown (6 days, 16 hours) 
 
 ### **How to start Instance**
  
-    -  To start the instance, you need to talk to Captain Janssen in Prontera (/navi Alberta 215/76 ). 
-    -  Talk to him a few times. The journey to Misty Island costs 10,000 Zeny. 
-    -  On the island, talk to the Cellar Protection Stone and select Enter Endless Cellar
+-  To start the instance, you need to talk to Captain Janssen in Prontera (/navi Alberta 215/76 ). 
+-  Talk to him a few times. The journey to Misty Island costs 10,000 Zeny. 
+-  On the island, talk to the Cellar Protection Stone and select Enter Endless Cellar
 
 ### **Monster list:**
 
