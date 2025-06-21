@@ -18,7 +18,7 @@ Here’s a quick note on **Headgear Quests** in our server:
 
 
 2. **Quest Types:**   
-    -  Gathering – Collect items items (e.g., 1000 Jellopies for "Jelly King").  
+    -  Gathering – Collect items (e.g., 1000 Jellopies for "Jelly King").  
     -  Instance Completion – Finish dungeons or boss fights. (Coming Soon)  
 
 3. **Rewards:**  
