@@ -79,7 +79,6 @@ The **Warper System** in our server is designed to encourage exploration and adv
 | c_tower3 | /navi c_tower3 129/106|
 | mjo_dun02 | /navi mjo_dun02 41/41|
 | prt_sewb2 | /navi prt_sewb2 184/27|
-| gefenia03 | /navi gefenia03 137/34|
 | gef_dun02 | /navi gef_dun02 218/61|
 | glast_01 | /navi glast_01 371/308|
 | gon_dun01 | /navi gon_dun01 167/273|
