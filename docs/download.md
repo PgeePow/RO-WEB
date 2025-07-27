@@ -12,7 +12,7 @@ This package includes:
 - 🔧 Fully patched and ready to play
 - 🖱️ Just extract and run the patcher (Valkaria Patcher.exe) as **Administrator** before playing
 
-[⬇️ Download Full Installer](https://drive.google.com/file/d/1NFa5ODhgWbZwPwCBBlwANboAVe-v3rL-/view?usp=sharing){ .md-button .md-button--primary }
+[⬇️ Download Full Installer](https://drive.google.com/file/d/1l2fVR7vTHiloVAsaqBNMOzveZFLif8sw/view?usp=sharing){ .md-button .md-button--primary }
 
 ---
 
