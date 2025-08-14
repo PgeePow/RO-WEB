@@ -7,7 +7,7 @@ Support the server and receive Coin Points (CP) that you can use in-game!
 ## 💰 Donation Rate
 
 - **RM10 = 100 CP**
-- **Minimum donation: RM10 (10 CP)**
+- **Minimum donation: RM30 (300 CP)**
 
 ---
 
