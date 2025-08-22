@@ -145,7 +145,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     
     [Card Trader](card-trader.md)<br>
     Attendance System<br>
-    [Valkaria MVP Features](mvp-checker.md)<br>
+    [Valkaria MVP Features](mvp-features.md)<br>
     [Adjusted Item Price](adjusted-price.md)<br>
     [Healer](healer.md)<br>
 
