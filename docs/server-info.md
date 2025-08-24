@@ -66,8 +66,11 @@ Below is a list of available in-game commands on **ValkariaRO** and what they do
 | `@servertime`      | Displays the current server time.                                            |
 | `@hominfo`         | Displays information about your Homunculus (level, stats, intimacy, etc.).  |
 | `@autoloot`        | Automatically loots all dropped items from monsters.                        |
+| `@nolootid`   | Sets specific item not to be looted if @autoloot is active |
 | `@alootid`         | Sets specific item IDs to auto-loot.                                        |
+| `@alootid2` | Advance option for @alootid |
 | `@autoloottype`    | Sets auto-loot behavior by item type (e.g. equipment, consumables).         |
+| `@ltp` | Show last teleport location in minimap |
 | `@request`         | Sends a support request to GMs or staff online.                             |
 | `@noks`            | Prevents kill-stealing by locking monsters you hit first.                   |
 | `@whereis`         | Shows maps where a specific monster can be found.                           |

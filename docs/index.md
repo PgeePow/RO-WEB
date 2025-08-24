@@ -144,18 +144,19 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 -   
     
     [Card Trader](card-trader.md)<br>
-    Attendance System<br>
     [Valkaria MVP Features](mvp-features.md)<br>
     [Adjusted Item Price](adjusted-price.md)<br>
     [Healer](healer.md)<br>
+    Automatic Event<br>
+    Attendance System<br>
 
 - 
 
     [Vendor System](vendor.md) <br>
+    [Marketplace System](marketplace.md) <br>
     [Costume Converter](costume-converter.md)<br>
-    Automatic Event<br>
     [Endless Cellar](endless-cellar.md)<br>
-    Battleground<br>
+    Battleground (Coming Soon)<br>
     [Roadmap](roadmap.md)
 
 - 🔥 **Quick Links**
