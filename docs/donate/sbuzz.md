@@ -9,6 +9,7 @@ Support the server and receive Coin Points (CP) that you can use in-game!
 - **RM10 = 100 CP**
 - **Minimum donation: RM30 (300 CP)**
 
+!!! warning You need to alert admin team by creating a ticket in discord if you plan to make a payment using other than MYR (outside Malaysia).  
 ---
 
 ## 📝 Step-by-Step Donation Guide
