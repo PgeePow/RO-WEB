@@ -43,3 +43,39 @@
     - August Scroll Egg: Merdeka-themed scroll filled with national pride.  
     - MVP Slayer Reward (July): Final champion before war erupts.  
     - **Late August: VALKARIA WAR OF EMPERIUM!** The ultimate guild clash begins — conquer or be conquered!
+
+- title: Realms Awaken  
+  icon: ./assets/item/1201.png  # World Map  
+  sub_title: September 2025  
+  content: |
+    - **Release of the New World:** Brave adventurers, a mysterious land opens its gates—new monsters, treasures, and stories await!  
+    - Chile National Day & Paraguay Boquerón Victory: Celebrate valor and independence with themed in-game festivities.  
+    - MVP Ranker Reward Changes: Fresh prizes for the mightiest hunters—strive for the top!  
+    - Malaysia Day: A patriotic celebration with unity-themed rewards.  
+    - Admin Cha’s Birthday Month: Special surprises and birthday treats spread across the realm.  
+
+- title: Shadows of October  
+  icon: ./assets/item/537.png  # Pumpkin  
+  sub_title: October 2025  
+  content: |
+    - **Halloween Month:** Spooky spirits and chilling quests haunt Valkaria all month long!  
+    - Global Heritage Celebrations: Join the festivities of Tag der Deutschen Einheit, Fiesta Nacional de España, Día de la Raza, and Mahatma Gandhi Jayanti with cultural events.  
+    - Admin PGEE’s Birthday Month: Special birthday blessings and giveaways for the community.  
+
+- title: Battle Calls  
+  icon: ./assets/item/671.png  # Battlefield Flag  
+  sub_title: November 2025  
+  content: |
+    - **Battlegrounds Released:** Epic PvP battles arrive at the end of October—assemble your squad and prove your might!  
+    - Global Commemorations: Honor Panama’s Shout in Villa de los Santos, Remembrance Day, Argentina’s National Sovereignty Day, All Souls Day, and Sheikh Karim’ul Makhdum Day through meaningful events.  
+    - War drums echo—be ready for glory or defeat!  
+
+- title: Wrath of Winter  
+  icon: ./assets/item/531.png  # Snowflake  
+  sub_title: December 2025  
+  content: |
+    - **World Boss Invasion (New Year’s Eve):** 1 to 10 colossal bosses will raid the cities of Valkaria—band together or watch kingdoms burn!  
+    - Christmas Eve: Joyful surprises and festive hunts await under the holiday lights.  
+    - Thanatos’ Birthday Month: Dark omens and exclusive Thanatos-themed events.  
+    - Anniversary of the Statute of Westminster & Battle of Ayacucho Day: Marking history with rewards and remembrance.  
+    - The year closes with chaos, unity, and celebration—prepare for what’s next!  
