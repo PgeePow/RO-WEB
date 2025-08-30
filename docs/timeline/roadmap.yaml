@@ -3,7 +3,7 @@
   sub_title: April 2025
   content: |
     - Closed Beta Test (CBT): Join the first wave of players and help us test the core gameplay.  
-    - Server Launch: The gates of ValkariaRO are open — begin your legacy!  
+    - Server Launch: The gates of ValkariaRO are open , begin your legacy!  
     - Level Rush: Compete to hit max level fastest and win rewards.  
     - CBT Rewards: Special gifts await those who test and provide feedback.  
     - April Scroll Egg: A fresh cosmetic scroll filled with spring-themed goodies!
@@ -12,10 +12,10 @@
   icon: ./assets/item/12016.png  # Old Blue Box
   sub_title: May 2025
   content: |
-    - Gacha by Zeny: No real cash needed — use in-game Zeny for cosmetic spins!  
+    - Gacha by Zeny: No real cash needed , use in-game Zeny for cosmetic spins!  
     - May Scroll Egg: Packed with limited-time outfits and visual effects.  
     - Moscovia Released: Discover new lands, quests, and the scenic dungeon.  
-    - PvP Quest Relic Items: Earn relic gear from new PvP quests — fight with flair!
+    - PvP Quest Relic Items: Earn relic gear from new PvP quests , fight with flair!
 
 - title: Rise of the Warriors
   icon: ./assets/item/5826.png  # Yggdrasil Berry
@@ -42,15 +42,15 @@
     - Hari Malaysia & Merdeka Event: Celebrate unity with patriotic events and prizes!  
     - August Scroll Egg: Merdeka-themed scroll filled with national pride.  
     - MVP Slayer Reward (July): Final champion before war erupts.  
-    - **Late August: VALKARIA WAR OF EMPERIUM!** The ultimate guild clash begins — conquer or be conquered!
+    - **Late August: VALKARIA WAR OF EMPERIUM!** The ultimate guild clash begins, conquer or be conquered!
 
 - title: Realms Awaken  
   icon: ./assets/item/1201.png  # World Map  
   sub_title: September 2025  
   content: |
-    - **Release of the New World:** Brave adventurers, a mysterious land opens its gates—new monsters, treasures, and stories await!  
+    - **Release of the New World:** Brave adventurers, a mysterious land opens its gates,new monsters, treasures, and stories await!  
     - Chile National Day & Paraguay Boquerón Victory: Celebrate valor and independence with themed in-game festivities.  
-    - MVP Ranker Reward Changes: Fresh prizes for the mightiest hunters—strive for the top!  
+    - MVP Ranker Reward Changes: Fresh prizes for the mightiest hunters,strive for the top!  
     - Malaysia Day: A patriotic celebration with unity-themed rewards.  
     - Admin Cha’s Birthday Month: Special surprises and birthday treats spread across the realm.  
 
@@ -66,16 +66,16 @@
   icon: ./assets/item/671.png  # Battlefield Flag  
   sub_title: November 2025  
   content: |
-    - **Battlegrounds Released:** Epic PvP battles arrive at the end of October—assemble your squad and prove your might!  
+    - **Battlegrounds Released:** Epic PvP battles arrive at the end of October,assemble your squad and prove your might!  
     - Global Commemorations: Honor Panama’s Shout in Villa de los Santos, Remembrance Day, Argentina’s National Sovereignty Day, All Souls Day, and Sheikh Karim’ul Makhdum Day through meaningful events.  
-    - War drums echo—be ready for glory or defeat!  
+    - War drums echo,be ready for glory or defeat!  
 
 - title: Wrath of Winter  
   icon: ./assets/item/531.png  # Snowflake  
   sub_title: December 2025  
   content: |
-    - **World Boss Invasion (New Year’s Eve):** 1 to 10 colossal bosses will raid the cities of Valkaria—band together or watch kingdoms burn!  
+    - **World Boss Invasion (New Year’s Eve):** 1 to 10 colossal bosses will raid the cities of Valkaria,band together or watch kingdoms burn!  
     - Christmas Eve: Joyful surprises and festive hunts await under the holiday lights.  
     - Thanatos’ Birthday Month: Dark omens and exclusive Thanatos-themed events.  
     - Anniversary of the Statute of Westminster & Battle of Ayacucho Day: Marking history with rewards and remembrance.  
-    - The year closes with chaos, unity, and celebration—prepare for what’s next!  
+    - The year closes with chaos, unity, and celebration,prepare for what’s next!  
