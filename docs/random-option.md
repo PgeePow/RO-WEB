@@ -333,15 +333,27 @@ Tailored for spellcasters and magic users.
 
 Armor items will roll **up 2 random options**, focusing on survivability and resistances.
 
-| Slot 1                | Slot 2                           |
-|------------------------|----------------------------------|
-| ATK +10~15             | Neutral Monster Resist 5~10%     |
-| MATK +10~15            | Undead Monster Resist 5~10%      |
-| Max HP +150~300        | Brute / Plant / Insect Resist    |
-| Max SP +20~35          | Fish / Demon / Dragon Resist     |
-| HP Regen +5~10%        | Demi-Human / Angel Resist        |
-| SP Regen +5~10%        | Elemental Resist (Water~Undead)  |
-| STR/AGI/DEX/VIT/LUK +2~4 |                              |
+| **Slot 1**             | **Slot 2**                     |
+|-------------------------|--------------------------------|
+| ATK +10 ~ 15            | Neutral Monster Resist +5 ~ 10% |
+| MATK +10 ~ 15           | Undead Monster Resist +5 ~ 10%  |
+| Max HP +150 ~ 300       | Brute Monster Resist +5 ~ 10%   |
+| Max SP +20 ~ 35         | Plant Monster Resist +5 ~ 10%   |
+| HP Regen +5 ~ 10%       | Insect Monster Resist +5 ~ 10%  |
+| SP Regen +5 ~ 6%        | Fish Monster Resist +5 ~ 10%    |
+| STR +2 ~ 4              | Demon Monster Resist +5 ~ 10%   |
+| AGI +2 ~ 4              | Human Monster Resist +2 ~ 5%    |
+| VIT +2 ~ 4              | Angel Monster Resist +5 ~ 10%   |
+| DEX +2 ~ 4              | Dragon Monster Resist +5 ~ 10%  |
+| LUK +2 ~ 4              | Water Element Resist +5 ~ 10%   |
+| INT +2 ~ 4              | Earth Element Resist +5 ~ 10%   |
+|                         | Fire Element Resist +5 ~ 10%    |
+|                         | Wind Element Resist +5 ~ 10%    |
+|                         | Poison Element Resist +5 ~ 10%  |
+|                         | Holy Element Resist +5 ~ 10%    |
+|                         | Shadow Element Resist +5 ~ 10%  |
+|                         | Ghost Element Resist +3 ~ 10%   |
+|                         | Undead Element Resist +5 ~ 10%  |
 
 ## 🎯 Notes
 
