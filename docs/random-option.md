@@ -14,6 +14,7 @@ Your ValkariaRO adventure just got even more exciting! Our server features a uni
 - Random options are grouped based on equipment type: **Melee**, **Ranged**, **Magic**, and **Armor**.
 - Each eligible item will receive **3 options**, from all category.
 - These options are automatically rolled when the item drops.
+- Random options maintained after card socket
 - All options are considered **Level 1 Tier** for now — more may come in future expansions!
 
 ---
@@ -342,7 +343,7 @@ Armor items will roll **up 2 random options**, focusing on survivability and res
 | HP Regen +5 ~ 10%       | Insect Monster Resist +5 ~ 10%  |
 | SP Regen +5 ~ 6%        | Fish Monster Resist +5 ~ 10%    |
 | STR +2 ~ 4              | Demon Monster Resist +5 ~ 10%   |
-| AGI +2 ~ 4              | Human Monster Resist +2 ~ 5%    |
+| AGI +2 ~ 4              | Demi-Human Resist +2 ~ 5%    |
 | VIT +2 ~ 4              | Angel Monster Resist +5 ~ 10%   |
 | DEX +2 ~ 4              | Dragon Monster Resist +5 ~ 10%  |
 | LUK +2 ~ 4              | Water Element Resist +5 ~ 10%   |
@@ -367,7 +368,6 @@ Armor items will roll **up 2 random options**, focusing on survivability and res
 ## 🧪 Planned Features (Coming Soon)
 
 - Random options maintained after enchant
-- Random options maintained after card socket
 
 ---
 
