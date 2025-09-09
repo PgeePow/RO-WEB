@@ -147,7 +147,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Valkaria MVP Features](mvp-features.md)<br>
     [Adjusted Item Price](adjusted-price.md)<br>
     [Healer](healer.md)<br>
-    Automatic Event<br>
+    [Mystery Market](mysterymarket.md)<br>
     Attendance System<br>
 
 - 
