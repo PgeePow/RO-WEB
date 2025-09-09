@@ -26,13 +26,13 @@ This page showcases how each costume/equipment looks when worn by different char
 
 | Item                | Super Novice | Paladin | High Wizard | Whitesmith | Stalker | Merchant | Thief |
 |---------------------|--------|-----------|------|--------|---------|----------|-------|
-| 🟡 Golden Crown     |  | ![Test](../assets/video/Paladin-1.gif) | ![](images/eggscroll/golden_crown_mage.png) | ![](images/eggscroll/golden_crown_archer.png) | ![](images/eggscroll/golden_crown_acolyte.png) | ![](images/eggscroll/golden_crown_merchant.png) | ![](images/eggscroll/golden_crown_thief.png)
+| 🟡 Valhalla    |  | ![Test](../assets/video/Paladin-1.gif) | ![](images/eggscroll/golden_crown_mage.png) | ![](images/eggscroll/golden_crown_archer.png) | ![](images/eggscroll/golden_crown_acolyte.png) | ![](images/eggscroll/golden_crown_merchant.png) | ![](images/eggscroll/golden_crown_thief.png)
 
 ## 🎁 Costume in this scroll
 
 | Item | Item 1 | Item 2 | Item 3 | Item 4 | Item 5 |
 |------|------|------|------|------|------|
-|🟡 Golden Crown| Pic 1 | Pic 2 | Pic 3 | Pic 4 | Pic 5 |
+|🟡 Valhalla| Pic 1 | Pic 2 | Pic 3 | Pic 4 | Pic 5 |
 
 
 
