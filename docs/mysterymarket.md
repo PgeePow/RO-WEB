@@ -1,6 +1,6 @@
 # 🛍️ Mystery Market Guide
 
-Welcome to the **Mystery Market** – a special shop that refreshes daily with **unique offers** for every player!  
+Welcome to the **Mystery Market** a special shop that refreshes daily with **unique offers** for every player!  
 This system brings variety, excitement, and a chance to preview costumes and equipment before you buy them.
 
 
@@ -16,7 +16,7 @@ This system brings variety, excitement, and a chance to preview costumes and equ
 
 2. **Items Available**  
     - Only **Costumes** and **Equipment** appear.  
-    - No consumables or one-time-use items.  
+    - No consumables or one time use items.  
     - Each item comes with a set **Cash Points price**.
 
 3. **Preview Before Purchase**  
