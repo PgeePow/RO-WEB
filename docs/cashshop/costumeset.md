@@ -5,7 +5,7 @@ This page showcases how each costume/equipment looks when worn by different char
 
 ---
 
-# 🥚 Golden Crown Scroll &
+# 🥚 Golden Crown Scroll
 
 ## 🎁 Character Previews
 
@@ -20,7 +20,7 @@ This page showcases how each costume/equipment looks when worn by different char
 |🟡 Golden Crown| Pic 1 | Pic 2 | Pic 3 | Pic 4 | Pic 5 |
 
 ---
-# 🥚 Valhalla Scroll &
+# 🥚 Valhalla Scroll
 
 ## 🎁 Character Previews
 
