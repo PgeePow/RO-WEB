@@ -15,7 +15,7 @@ This system brings variety, excitement, and a chance to preview costumes and equ
     - These offers are unique per player, so what you see may be different from your friends.
 
 2. **Items Available**  
-    - Only **Costumes** and **Equipment** appear.  
+    - Only **Costumes** will appear.  
     - No consumables or one time use items.  
     - Each item comes with a set **Cash Points price**.
 
@@ -26,7 +26,7 @@ This system brings variety, excitement, and a chance to preview costumes and equ
 
 4. **Purchasing Items**  
     - Spend your **Cash Points** to claim items.  
-    - You can only buy **1 of each item per day**.  
+    - Unlimited Purchase
     - Once purchased, the item goes directly into your inventory.
 
 5. **Daily Reset**  
