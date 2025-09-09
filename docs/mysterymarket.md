@@ -11,28 +11,28 @@ This system brings variety, excitement, and a chance to preview costumes and equ
 ## ✨ How It Works
 
 1. **Daily Refresh**  
-   - Every day, the Mystery Market generates **4 random items** just for you.  
-   - These offers are unique per player, so what you see may be different from your friends.
+    - Every day, the Mystery Market generates **4 random items** just for you.  
+    - These offers are unique per player, so what you see may be different from your friends.
 
 2. **Items Available**  
-   - Only **Costumes** and **Equipment** appear.  
-   - No consumables or one-time-use items.  
-   - Each item comes with a set **Cash Points price**.
+    - Only **Costumes** and **Equipment** appear.  
+    - No consumables or one-time-use items.  
+    - Each item comes with a set **Cash Points price**.
 
 3. **Preview Before Purchase**  
-   - Want to see how a costume or garment looks before buying?  
-   - Use the built-in **Preview option** to try it on your character.  
-   - Your appearance will return to normal after closing the preview.
+     - Want to see how a costume or garment looks before buying?  
+     - Use the built-in **Preview option** to try it on your character.  
+     - Your appearance will return to normal after closing the preview.
 
 4. **Purchasing Items**  
-   - Spend your **Cash Points** to claim items.  
-   - You can only buy **1 of each item per day**.  
-   - Once purchased, the item goes directly into your inventory.
+    - Spend your **Cash Points** to claim items.  
+    - You can only buy **1 of each item per day**.  
+    - Once purchased, the item goes directly into your inventory.
 
 5. **Daily Reset**  
-   - The shop refreshes **once per day** (server time).  
-   - Tomorrow, new items will appear!  
-   - A server-wide announcement lets everyone know when the reset happens.
+    - The shop refreshes **once per day** (server time).  
+    - Tomorrow, new items will appear!  
+    - A server-wide announcement lets everyone know when the reset happens.
 
 ---
 
