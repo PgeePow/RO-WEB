@@ -7,7 +7,7 @@
 - **Healer NPC:** Free Untill **Level 77**.  
 - **New Egg Released** with various costumes.
 - **Warper Update** The Last Warp option has been moved to the top of the list for quicker access.
-- **Guild Storage** Guild Storage has been added. Accessible via the Warper NPC.
+- **Guild Storage** Guild Storage has been added.
 
 ### Egg Costume List
 | Item ID  | Costume Name                          | Rarity     |
