@@ -22,7 +22,7 @@
     The new egg is not a gacha egg. Purchase 1 Egg you will get all the item listed.
 
 - **Random Box Costume Converter** added.  
-- **Swanhild Castle Flag** now available.  
+- **Swanhild Castle Flag** now available prontera city.  
 - **Cluckers NPC** relocated.
 
 ---
@@ -37,7 +37,7 @@
 | Mane                   | 999    | 300   |
 | Executioner's Mitten   | 10     | 2     |
 | Pyroxene               | 10     | 2     |
-| Duration               | 30 days| 14 days|
+| Duration               | 30 days| 15 days|
 
 - **Capture Rope** is now also available in the **Random Box Costume Exchanger**.
 
@@ -46,7 +46,7 @@
 ## New Vending Commands (@ss update)
 Two new commands have been added to enhance the **store UI search function**:  
 
-These commands only can be use in prontera
+These commands only can be use in **prontera**
 
 - Search by useful criteria: `item id`, `refine`, `card id`, `option id`, `option values`.  
 - Search by part of an item name (can return multiple results and show all stores containing those items).  
