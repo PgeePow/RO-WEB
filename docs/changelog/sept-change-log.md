@@ -46,6 +46,8 @@
 ## New Vending Commands (@ss update)
 Two new commands have been added to enhance the **store UI search function**:  
 
+These commands only can be use in prontera
+
 - Search by useful criteria: `item id`, `refine`, `card id`, `option id`, `option values`.  
 - Search by part of an item name (can return multiple results and show all stores containing those items).  
 
