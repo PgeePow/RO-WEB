@@ -3,8 +3,7 @@
 ## Fixes & Adjustments
 - **Amatsu Dungeon (Level 1):** Teleportation now works properly.  
 - **Costumes:**
-  - ValRobox Costume added.  
-  - Sniper bow remodel – *Costume Resurrection Bow (480560)* now properly displayed on the back.  
+  - ValRobox Costume added.   
 - **Healer NPC:** Free Untill **Level 77**.  
 - **New Egg Released** with various costumes.
 - **Warper Update** The Last Warp option has been moved to the top of the list for quicker access.
