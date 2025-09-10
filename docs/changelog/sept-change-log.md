@@ -7,6 +7,8 @@
   - Sniper bow remodel – *Costume Resurrection Bow (480560)* now properly displayed on the back.  
 - **Healer NPC:** Free Untill **Level 77**.  
 - **New Egg Released** with various costumes.
+- **Warper Update** The Last Warp option has been moved to the top of the list for quicker access.
+- **Guild Storage** Guild Storage has been added. Accessible via the Warper NPC.
 
 ### Egg Costume List
 | Item ID  | Costume Name                          | Rarity     |
@@ -42,7 +44,7 @@
 
 ---
 
-## New Vending Commands
+## New Vending Commands (@ss update)
 Two new commands have been added to enhance the **store UI search function**:  
 
 - Search by useful criteria: `item id`, `refine`, `card id`, `option id`, `option values`.  
