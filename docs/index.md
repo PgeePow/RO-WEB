@@ -49,6 +49,16 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
+    === "Sept 2025"
+
+        ``` markdown 
+        - Warper Update
+        - Vending Commands
+        - New Egg Scroll
+        - Bug Fixes
+        ```
+            [View Full Sept Changelog](changelog/sept-change-log.md)
+
     === "Apr 2025 v1.3"
 
         ``` markdown 
