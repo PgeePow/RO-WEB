@@ -1,3 +1,6 @@
+!!! Attention 
+    This features is still under development. Will be released soon
+
 # 🛍️ Mystery Market Guide
 
 Welcome to the **Mystery Market** a special shop that refreshes daily with **unique offers** for every player!  
