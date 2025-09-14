@@ -181,8 +181,10 @@ A: Hunters (for kiting) and Wizards (for AoE) excel at most, but any class can p
 |Lilla            |`/navi um_fild01 35/281  `|60  |85    |Dryad         |234,855       |126,905      |4,697              |2538     |
 |Vegetable Farmer |`/navi ein_fild0682/171 `|70  |85    |Goat          |258,489       |155,155      |5,170              |3103     |
 |Miner            |`/navi beach_dun 269/71  `|75  |95    |Medusa        |515,700       |352,275      |10,314             |7046     |
-|Jotun Tribesman  |`/navi mag_dun01 127/71  `|75  |95    |Lava Golem    |484,800       |290,700      |9,696              |5814     |
-|Coal Miner       |`/navi mag_dun02 46/40  `|75  |95    |Deleter       |387,734       |232,733      |7,755              |4655     |
+```markdown
+<!-- |Jotun Tribesman  |`/navi mag_dun01 127/71  `|75  |95    |Lava Golem    |484,800       |290,700      |9,696              |5814     | -->
+<!-- |Coal Miner       |`/navi mag_dun02 46/40  `|75  |95    |Deleter       |387,734       |232,733      |7,755              |4655     | -->
+```
 
 
 ---
