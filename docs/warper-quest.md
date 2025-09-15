@@ -51,16 +51,14 @@ The **Warper System** in our server is designed to encourage exploration and adv
 | yuno | /navi yuno 153/44|
 | brasilis | /navi brasilis 201/222|
 | dicastes01 | /navi dicastes01 194/194|
-<!-- | manuk | /navi manuk 272/149| -->
 | mora | /navi mora 110/100|
 | moscovia | /navi moscovia 216/196|
 | rachel | /navi rachel 107/134|
-<!-- | splendide | /navi splendide 205/153| -->
 | veins | /navi veins 214/123|
 | dewata | /navi dewata 194/178|
 | eclage | /navi eclage 107/37|
-
-
+<!-- | splendide | /navi splendide 205/153| -->
+<!-- | manuk | /navi manuk 272/149| -->
 ### **Dungeons**
 | Dungeon Name  | Warp Unlock Location |
 |--------------|----------------------|
