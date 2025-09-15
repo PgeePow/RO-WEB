@@ -1,6 +1,6 @@
 # Terms of Service / Server Rules
 
-**Last update:** *[Insert Date]*
+**Last update:** *15-Sept-2025*
 
 ---
 
