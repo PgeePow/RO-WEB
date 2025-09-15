@@ -1,64 +1,96 @@
-# **📜 ValkariaRO Official Rules**  
+# Terms of Service / Server Rules
 
-## **1️⃣ General Rules**  
-1. **Respect all players and staff.** Toxicity, hate speech, discrimination (race, religion, nationality, etc.), or harassment is strictly prohibited.  
-2. **English is the main language** in public channels. You may use other languages in private messages and guild chats.  
-3. **No impersonation** of staff, GMs, or other players. Pretending to be someone else to mislead others is a bannable offense.  
-4. **Follow staff instructions.** Disobeying or arguing with staff decisions inappropriately will result in penalties.  
-5. **Do not exploit bugs.** Report any game-breaking issues immediately. Abusing exploits will lead to severe punishment.  
+**Last update:** *[Insert Date]*
 
 ---
 
-## **2️⃣ Gameplay Rules**  
-1. **Multi-clienting is NOT allowed.** You may only run one game client per person.  
-2. **AFK farming or botting is strictly prohibited.** Any form of automation, macro usage, or third-party programs will result in a permanent ban.  
-3. **No kill-stealing (KS) or mob luring.** If a player is actively fighting a monster, do not interfere unless they ask for help.  
-4. **MVP Rules:** First-hit rule applies; the player or party who first attacks the MVP has claim to the kill. Stealing MVPs is considered bad etiquette.  
-5. **No griefing or trolling.** Intentionally disrupting events, training spots, or player activities is punishable.  
+## Part 1. User Agreement & General Policy
+1.1 These rules apply to **all users** without exception.  
+1.2 By registering an account or accessing our service, you automatically agree to abide by these rules.  
+1.3 Ignorance of or misunderstanding of the rules does **not** exempt you from penalties for violations.  
+1.4 Advertising or promoting other servers, services, or external communities without prior permission is **not allowed**.  
+1.5 Requests for game accounts, character boosts, or items in exchange for payment or favors (outside approved channels) are **not supported**. 
+1.6 Admins are allowed to pull players to other maps for suspicious behaviour. Players must comply with all questions during such checks. 
 
 ---
 
-## **3️⃣ Chat & Community Rules**  
-1. **No toxic behavior, hate speech, or offensive content.** This includes insults based on race, religion, or nationality.  
-2. **No spamming or excessive use of capital letters.** Avoid flooding the chat with repeated messages.  
-3. **No advertising of other servers.** Promoting other Ragnarok servers in chat, Discord, or forums is strictly forbidden.  
-4. **No inappropriate or offensive character, pet, or guild names.** Names that include slurs, sexual content, or offensive terms will be changed, and repeat offenders will be punished.  
-5. **No false reporting.** Abusing the report function for personal vendettas or false accusations will result in penalties.  
+## Part 2. Client Integrity & Third-Party Software
+2.1 Modifying the game client or using unofficial/custom files that give unfair advantage is prohibited.  
+2.2 Use of bots, auto-clickers/scripts, or other automation tools (including anti-AFK tools) is not allowed.  
+2.3 Visual hacks, packet injections, or any software that alters gameplay or client behavior are forbidden.  
+2.4 Use of Multiple Devices
+
+- 2.4.1 Players are not allowed to use multiple hardware devices (e.g., laptops, PCs) to run additional game clients.  
+- 2.4.2 Exception: Dual-player households (family members, spouses, significant others) are allowed, but each player must play **independently at all times**.  
+- 2.4.3 If abuse of this exception is detected (including but not limited to actions restricted under 2.5.1), **all accounts linked to the household may be permanently banned**.
+  
+2.5 Secondary Machine Abuse  
+- 2.5.1 Using a second PC or device to gain unfair advantages (e.g., buffing, linking, leeching experience) will be considered multi-client abuse and result in a permanent ban.  
+- 2.5.2 Exception: Running a second account using `@autotrade` (including Super Novice vending) is allowed.  
 
 ---
 
-## **4️⃣ Trading & Economy Rules**  
-1. **No real-money trading (RMT).** Selling, buying, or trading in-game items for real-world currency is strictly forbidden.  
-2. **No scamming or fraud.** If found guilty of misleading or deceiving players in trades, you will be banned.  
-3. **Use official trade methods.** Always use in-game trade, vending, or party loot sharing systems to avoid scams.  
-4. **Account sharing is discouraged.** You are responsible for your account’s security. Lost items due to shared accounts will not be refunded.  
-5. **No casino-style betting or gambling.** Unofficial betting or gambling systems involving zeny or items are not allowed.  
+## Part 3. Account Responsibility & RMT (Real-Money Trading)
+3.1 You are responsible for everything done through your account. Do **not** share your password or account access.  
+3.2 Character names must be appropriate, legible, not impersonate staff, other players, or contain offensive/objectionable content.  
+3.3 We will never request your password. If someone claiming to be staff asks for it, treat it as a scam.  
+3.4 Trading or selling in-game items, currency, accounts, or services for real money (or equivalents) outside approved channels is forbidden.  
+3.5 Posting or distributing information about unauthorized RMT is also not allowed.  
 
 ---
 
-## **5️⃣ Guild & PvP Rules**  
-1. **Guild recruitment should be done respectfully.** Do not spam invites or messages in public chat.  
-2. **No guild emblem abuse.** Using misleading or inappropriate guild emblems is forbidden.  
-3. **PvP Mode is enabled in most locations after Level 80.** Be prepared for PvP in these areas.  
-4. **No excessive griefing in PvP.** Repeatedly targeting and harassing the same players can result in penalties.  
-5. **Guild Alliances:** Guilds are allowed to form alliances, but any form of abuse (e.g., farming kills) is prohibited.  
+## Part 4. Gameplay Conduct
+4.1 Bugs, exploits, or glitches discovered in the game must be reported immediately. Exploiting them for advantage is forbidden.  
+4.2 Harassment, hate speech, discrimination, impersonation, or threatening behavior toward staff or other players is not tolerated.  
+4.3 Griefing, or intentionally interfering with others’ gameplay in unfair ways is forbidden.
+- 4.3.1 Mob-Training (Luring): Intentionally dragging large groups of monsters onto other players to cause them to die.  
+- 4.3.2 Blocking:Using characters, skills, or structures to block access to NPCs, portals, or critical gameplay areas.  
+- 4.3.3 Harassment Through Skills: Repeated use of skills (e.g., Ice Wall, Warp Portal, or other disruptive abilities) in ways that negatively impact another player’s experience.  
+- 4.3.5 Exploit-Based Griefing: Abusing bugs, exploits, or unintended mechanics to disrupt others’ gameplay.  
+  
+4.4 Vending/trading must be fair and honest. Misleading or fraudulent practices (false advertisement, misrepresenting value or rarity) are not allowed.
+4.5 MVP monsters are considered Free For All (FFA).
 
 ---
 
-## **6️⃣ Event & GM Interaction Rules**  
-1. **No interfering with GM events.** Disrupting or cheating in GM-hosted events will result in a temporary ban.  
-2. **No begging GMs for items, zeny, or favors.** GMs do not hand out free items or zeny.  
-3. **If you have a complaint, report it properly.** Use the ticket system or Discord support channels instead of spamming in public chat.  
-4. **Do not question bans publicly.** If you have an issue with a ban, appeal through the proper support channels.  
-5. **Do not attempt to bribe GMs.** Any attempt to manipulate or bribe staff will result in permanent punishment.  
+## Part 5. Communication & Chat Rules
+5.1 No spamming, flooding, repeated messages, excessive caps, or meaningless posts.  
+5.2 No hate speech, discrimination, sexual harassment, or similarly offensive content.  
+5.3 Respect staff. Be polite when addressing them. Do not impersonate staff or use their names in misleading ways.  
+5.4 False reports, spreading misinformation, or defaming staff or players is not allowed.  
 
 ---
 
-## **7️⃣ Punishments & Enforcement**  
-1. **Punishments range from warnings to permanent bans.** Severity depends on the offense.  
-2. **No ban evasion.** If caught using another account after being banned, all related accounts will be banned.  
-3. **GMs have final say in disputes.** If you disagree with a ruling, submit a formal appeal.  
+## Part 6. Enforcement & Punishments
+6.1 Violations with clear evidence (logs, screenshots, witness reports) will lead to sanctions.  
+6.2 Use official reporting channels (support tickets, in-game reporting) for complaints. Reports via unofficial methods may not be considered.  
+6.3 Sanctions can include:  
+- Temporary or permanent account suspension or ban  
+- IP / hardware bans  
+- Confiscation of in-game items or currency  
+- Mute, chat restrictions  
+- Other corrective actions  
 
 ---
 
-### **✅ By playing on ValkariaRO, you agree to follow these rules. Failure to comply may result in penalties, including temporary suspensions or permanent bans.**  
+## Part 7. Sanction List
+7.1 Temporary account suspension  
+7.2 Permanent account ban  
+7.3 IP or hardware bans  
+7.4 Confiscation of items/currency  
+7.5 Chat mute / restricted communication  
+7.6 Other penalties at staff discretion  
+
+---
+
+## Part 8. Restricted Locations & Legal Compliance
+8.1 Accounts created from Israel are subject to immediate suspension or ban.
+8.2 Attempts to bypass such restrictions via VPN, proxy, or other means are prohibited.  
+8.3 We reserve the right to update restricted location lists in accordance with legal requirements.  
+
+---
+
+## Part 9. Payment & Donations
+9.1 All payments and Donations are strictly non-refundable.
+9.2 We process transactions in *MYR*. Local currency conversion may apply.  
+9.3 We do **not** store sensitive payment info on our servers; third-party payment processors are used.
