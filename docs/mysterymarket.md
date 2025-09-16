@@ -59,8 +59,7 @@ This system brings variety, excitement, and a chance to preview costumes and equ
 
 ## 🏷️ Notes & Restrictions
 
-- Each player’s offers are **different** and reset daily.  
-- You can only buy **one of each offered item** per day.  
+- Each player’s offers are **different** and reset daily.   
 - Cash Points are required for purchases.  
 - Preview is only available for **Costumes and Equipment** that have a visible appearance.  
 
