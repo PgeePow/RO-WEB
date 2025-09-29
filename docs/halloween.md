@@ -1,4 +1,8 @@
+
+
 # 🎃 Halloween Event: Deadman’s Banquet
+
+![Banner](assets/Halloween%20Event.png)
 
 As the chill of October spreads across Midgard, whispers slither through the streets like creeping fog.  
 The ancient gates of the **Deadman’s Banquet Hall** creak open once more, spilling forth restless spirits, endless waves of monsters, and an aura of dread so heavy it strangles the night.  
