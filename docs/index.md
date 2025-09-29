@@ -158,7 +158,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Adjusted Item Price](adjusted-price.md)<br>
     [Healer](healer.md)<br>
     [Mystery Market](mysterymarket.md)<br>
-    Attendance System<br>
+    [Halloween Event](halloween.md)<br>
 
 - 
 
