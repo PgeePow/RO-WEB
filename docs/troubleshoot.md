@@ -99,16 +99,6 @@ If you see **“Cannot init d3d”** or **GRF file errors**:
 
 ---
 
-## 6. Stuck at Gephard Loading
-
-If your client stuck at Gephard loading follow below steps:
-
-- Run `opensetup.exe` as administrator.  
-- In **Resolutions**, select **Any resolution available** .  
-- Save settings and restart the client.  
-
----
-
 ## Final Notes
 If your issue isn’t listed here, please reach out on the **[ValRO Support Discord](https://discord.gg/5sdvj8sPYg)** with:  
 - A screenshot of the error  
