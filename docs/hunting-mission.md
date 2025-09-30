@@ -130,7 +130,7 @@ Check your current mission progress anytime, anywhere. Shows:
 ### Mission Cooldown
 - 8-hour cooldown between missions
 - Shared across all characters on account
-- Cooldown starts when mission is completed or abandoned
+- Cooldown starts when mission is completed
 
 ## Party Rules
 
