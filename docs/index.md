@@ -172,7 +172,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 - 🔥 **Quick Links**
 
     📥 [Client Download](download.md)<br>
-    🔧 [Troubleshoot](troubleshoot.md)<br>
+    🔧 [Troubleshooting](troubleshoot.md)<br>
     📖 [Getting Started](getting-started.md)<br>
     ℹ️ [Server Info](server-info.md)<br>
     📜 [Rules & Policies](rules.md)<br>
