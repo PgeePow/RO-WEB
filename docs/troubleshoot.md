@@ -12,13 +12,13 @@ Follow the steps below depending on the issue you’re facing.
     Right–click and set the following files to **Run as Administrator**:
     
     - `ValRO.exe`
-    - `ValRO Patcher.exe`
-    - `Setup.exe`
+    - `Valkaria Patcher.exe`
+    - `opensetup.exe`
 
 !!! tip "Recommended setup"
     - Set **Compatibility Mode** of `ValRO.exe` to **Windows 7** (Win10/11 users) or **XP Service Pack 3**.  
     - Install the game in a custom folder (e.g. `C:\Games\ValRO\`) instead of `Program Files`.  
-    - Update your client through **ValRO Patcher.exe** regularly.  
+    - Update your client through **Valkaria Patcher.exe** regularly.  
 
 ---
 
@@ -29,7 +29,7 @@ Some security software may **mistakenly flag ValRO files** because of our anti-c
 ✅ **Fix**: Add the following as exceptions in your antivirus/firewall:  
 - ValRO installation folder  
 - `ValRO.exe`  
-- `ValRO Patcher.exe`  
+- `Valkaria Patcher.exe`  
 
 !!! warning "Special note for Brazil"
     If you use **Warsaw Bank Security Software**, uninstall it before running ValRO.  
@@ -40,7 +40,7 @@ Some security software may **mistakenly flag ValRO files** because of our anti-c
 ## 3. Gepard Shield Errors
 
 ### 🚫 Stuck on loading screen
-Open `Setup.exe` and try:  
+Open `opensetup.exe` and try:  
 - Change **Resolution** or **Graphics Device**.  
 - Uncheck **Play in Full Screen**.  
 - Disable **Sound**.  
@@ -93,7 +93,7 @@ If you have **Nvidia graphics (Win10/11)** and the client lags/freezes:
 
 If you see **“Cannot init d3d”** or **GRF file errors**:
 
-- Run `Setup.exe` as administrator.  
+- Run `opensetup.exe` as administrator.  
 - In **Graphics API**, select **DirectX 7**.  
 - Save settings and restart the client.  
 
