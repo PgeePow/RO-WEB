@@ -6,7 +6,7 @@ Welcome to **ValkariaRO**, a pre-renewal Ragnarok Online server designed for fun
 
 ## 📝 Step 1: Register an Account
 
-1. Visit our **[Registration Page](https://valkariaro.com/account/login/)**.
+1. Visit our **[Registration Page](https://valkariaro.com/?module=account&action=create)**.
 2. Fill in your desired username, password, and email.
 3. You’re ready to log in!
 
@@ -16,7 +16,7 @@ Welcome to **ValkariaRO**, a pre-renewal Ragnarok Online server designed for fun
 
 ## 💻 Step 2: Download & Install the Game
 
-1. Go to the **[Downloads Page](https://valkariaro.com/main/#download)**.
+1. Go to the **[Downloads Page](https://valkariaro.com/?module=pages&action=download)**.
 2. Download the **Full Client**.
 3. Extract the files to a new folder (e.g., `C:\RO\ValRO-Live`).
 4. Run `Valkaria Patcher.exe` as *Administrator* and let it patch.
