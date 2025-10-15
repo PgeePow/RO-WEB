@@ -11,6 +11,12 @@
 1.4 Advertising or promoting other servers, services, or external communities without prior permission is **not allowed**.  
 1.5 Requests for game accounts, character boosts, or items in exchange for payment or favors (outside approved channels) are **not supported**. 
 1.6 Admins are allowed to pull players to other maps for suspicious behaviour. Players must comply with all questions during such checks. 
+1.7 Admin team reserves the right to:
+
+- 1.7.1 Consider the actions of players at their discretion and apply sanctions not provided for by these rules, if necessary.
+- 1.7.2 Review and make decisions on collective inquiries from players.
+- 1.7.3 Change the rules without notice and consent of the players.
+- 1.7.4 Make changes to the game server, as well as its services at its discretion.
 
 ---
 
