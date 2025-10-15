@@ -23,7 +23,7 @@ Hunting Missions are daily quests that challenge players to hunt specific monste
 
 ## Quick Start
 
-### Requirements
+#### **Requirements**:
 - **Level 80+** character
 - No active mission on other characters
 - Party members must all be online (for group missions)
