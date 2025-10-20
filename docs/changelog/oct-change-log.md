@@ -48,6 +48,8 @@
   → Improved server performance!  
 - **Alchemist/Creator** can now **AFK farm only inside MOSCOVIA DUNGEON 01**  
 - Removed **ValRo Random Box** from **Wood Goblin** and **Les**
+- Removed Acidus, Dimik, Venatu from Hunting Mission
+- Mob Spawn rate in map Lowered. Previously 170, now 120. (Official 100)
 
 ---
 
