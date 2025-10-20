@@ -1,9 +1,87 @@
-# Poring Coin System
+# 🪙 Poring Coin Drop System
 
-## Summary
-The **Poring Coin System** is a special reward system designed to enhance gameplay by offering valuable exchangeable items. Players can obtain **Poring Coins** by joining or completing in-game activities. These coins can be exchanged at designated NPCs for exclusive rewards.
+## Overview
+The **Poring Coin** is a special currency that drops from monsters and MVPs across the world of ValkariaRO.  
+This system provides balanced rewards for active players while preventing abuse from easily farmable monsters.
 
-## Content
+---
+
+## 🎯 Normal Monster Drops
+- **Base Drop Chance:** `1%`
+- **Item ID:** `7539` (Poring Coin)
+
+Every time you defeat a monster, there is a 1% chance to obtain a **Poring Coin** — unless the monster is in the *Excluded* or *Reduced Drop* list.
+
+---
+
+## ⚖️ Reduced Drop Rate Monsters
+Certain monsters have their Poring Coin drop chance reduced by **50%** (from 1% → 0.5%) to avoid easy farming.
+
+| Monster Name        | Monster ID | Drop Rate |
+|----------------------|-------------|------------|
+| Orc Zombie           | 1153        | 0.5% |
+| Thief Bug            | 1051        | 0.5% |
+| Thief Bug Female     | 1053        | 0.5% |
+| Thief Bug Male       | 1054        | 0.5% |
+| Marin                | 1242        | 0.5% |
+| Familiar             | 1005        | 0.5% |
+
+---
+
+## 🚫 Excluded (Removed) Monsters
+The following monsters **do not drop Poring Coins**.  
+They are excluded because they are too common, easy to kill, or used in farming exploits.
+
+| Monster Name      | Monster ID |
+|--------------------|-------------|
+| Poring             | 1002 |
+| Drops              | 1015 |
+| Hydra              | 1068 |
+| Ant Egg            | 1097 |
+| Meta Ant Egg       | 1236 |
+| Cramp              | 1209 |
+| Les                | 1881 |
+| Wood Goblin        | 1880 |
+| Thief Bug Egg      | 1048 |
+| Peco Peco Egg      | 1232 |
+| Blue Plant         | 1079 |
+| Green Plant        | 1080 |
+| Yellow Plant       | 1081 |
+| White Plant        | 1082 |
+| Shining Plant      | 1083 |
+| Black Mushroom     | 1084 |
+| Red Mushroom       | 1085 |
+| Thief Bug          | 1051 |
+| Tarou              | 1175 |
+| Plankton           | 1161 |
+| Sohee              | 1770 |
+
+> 📝 *Excluded monsters will never drop a Poring Coin, regardless of event bonuses or drop modifiers.*
+
+---
+
+## 👑 MVP Rewards
+Defeating MVPs always rewards **Poring Coins** directly.
+
+| Reward Type | Quantity | Notes |
+|--------------|-----------|-------|
+| Fixed Reward | 5–10 Coins | Given automatically to the MVP killer |
+
+**Example Announcement:**
+> 📰 *Player [Name] has received 8 Poring Coins for killing an MVP!*
+
+---
+
+## 🧠 Summary
+
+| Monster Type     | Drop Chance | Coin Quantity | Notes |
+|------------------|-------------|----------------|--------|
+| Normal Monster   | 1%          | 1 Coin         | Standard chance |
+| Reduced Monster  | 0.5%        | 1 Coin         | Limited due to farming concerns |
+| Excluded Monster | 0%          | —              | No drop |
+| MVP Monster      | 100%        | 5–10 Coins     | Always announced server-wide |
+
+---
 
 ### NPC Exchange
 Players can exchange their **Poring Coins** for various rewards at the **Poring Merchant NPC**.

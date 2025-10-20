@@ -49,6 +49,16 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
+    === "Oct 2025"
+
+        ``` markdown 
+        - Costume Update
+        - Poring Coin Update
+        - Gift Box Update
+        - Bug Fixes
+        ```
+            [View Full Oct Changelog](changelog/oct-change-log.md)
+
     === "Sept 2025"
 
         ``` markdown 
