@@ -40,7 +40,7 @@
 
 - Monsters now have a **3% chance** to drop **Poring Coins**  
   _(Some monsters removed from dropping PC)_  
-  [Learn More](coin-system.md)
+  [Learn More](../coin-system.md)
 - **Poring Coins** removed from **Daily Rewards**  
 - All **Towns** now allow usage of `@ws` and `@wb`  
 - **Cash Shop Charging** now redirects to the correct website  
