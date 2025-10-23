@@ -21,7 +21,7 @@ Payments are securely handled via **PayPal**.
 
 ### 📌 Credit System:
 
-- **1 Credit = RM1**
+- **10 Credit = RM1**
 - **Minimum donation: RM30**
 
 ---
@@ -39,9 +39,11 @@ Once your payment is completed:
 
 ## Other Donation Method
 
-If you encountered any issue upon donating via Paypal. You may use Sociobuzz for donation. Please read the full guide below.
+If you encountered any issue upon donating via Paypal. You may use Sociobuzz or Stripe for donation. Please read the full guide below.
 
 👉 [Sociobuzz Donation](donate/sbuzz.md)
+
+👉 [Stripe Donations](https://valkariaro.com/?module=donate&action=stripeindex)
 
 ## ⭐ Other Ways to Support Us
 
