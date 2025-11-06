@@ -10,12 +10,18 @@ This system brings variety, excitement, and a chance to preview costumes and equ
 ![Mystery Market](assets/mysterymarket.png)
 
 ---
+## ✨ Where To Find
+
+Talk to Mystery Market NPC located at `/navi prontera 188/199`
+
+![alt text](assets/image.png)
 
 ## ✨ How It Works
 
 1. **Daily Refresh**  
     - Every day, the Mystery Market generates **4 random items** just for you.  
     - These offers are unique per player, so what you see may be different from your friends.
+    - Once our Egg Scroll offer ended, all item will be added into the **Mystery Market**
 
 2. **Items Available**  
     - Only **Costumes** will appear.  
