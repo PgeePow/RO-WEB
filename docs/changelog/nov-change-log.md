@@ -41,10 +41,10 @@ To maintain server balance, the **Guild Dungeon** is available only **3 times pe
 - **Poring Coin Shop:** Window freeze issue fixed.  
 - **Token of Siegfried** added to **Poring Coin Shop**.  
 - **Hunting Mission System:** Re-fixed and fully operational. 
-  - Party and Solo abandon cost is now 10k zeny.
-  - Fixed monster level range for Apprentice, Hunter, Slayer.
-  - Reward Buff
-  - Bug fixes
+     - Party and Solo abandon cost is now 10k zeny.
+     - Fixed monster level range for Apprentice, Hunter, Slayer.
+     - Reward Buff
+     - Bug fixes
 - **Card Trader** repositioned inside **Main Office (Prontera)**.  
 - **Doppelganger** and **Ygnizem Contracts** added to **Poring Coin Shop**.
 - **Prontera Map** changed to normal map. Halloween ended.
