@@ -49,6 +49,17 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
+    === "Nov 2025"
+    
+        ``` markdown 
+        - Mystery Market
+        - Hunting Mission
+        - Mechomatrix
+        - Bug Fixes
+        ```
+            [View Full Nov Changelog](changelog/nov-change-log.md)
+
+
     === "Oct 2025"
 
         ``` markdown 
