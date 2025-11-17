@@ -92,15 +92,11 @@ Below is the list of pet that has autofeed enable
 | ![Medusa_Egg](assets/item/9050.png) | Medusa |
 | ![Shinobi_Egg](assets/item/9044.png) | Shinobi |
 | ![X-mas_Goblin_Egg](assets/item/9029.png) | X-mas_Goblin |
-| ![Christmas_Snow_Rabbit_Egg](assets/item/9058.png) | Christmas_Snow_Rabbit |
-| ![Willow_Egg](assets/item/9103.png) | Willow |
-| ![Domovoi_Egg](assets/item/9060.png) | Domovoi |
 | ![Imp_Egg](assets/item/9056.png) | Imp |
 | ![Marionette_Egg](assets/item/9043.png) | Marionette |
 | ![Zealotus_Egg](assets/item/9026.png) | Zealotus |
 | ![Incubus_Egg](assets/item/9052.png) | Incubus |
 | ![Succubus_Egg](assets/item/9055.png) | Succubus |
-| ![Phreeoni_Egg](assets/item/9111.png) | Phreeoni |
 
 > 💡 **Tip:** To enable auto-feed, open the Pet Window (`Alt + J`) and toggle the *Auto-Feed* checkbox.
 
