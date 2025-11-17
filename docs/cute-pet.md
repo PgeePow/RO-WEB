@@ -1,6 +1,9 @@
-# 🐾 Cute Pet System
+![Banner](assets/pet%20system/Pet%20System%20Banner.jpg)
 
-The **Cute Pet System** allows adventurers to tame monsters as companions that follow, interact, and provide helpful bonuses. Pets can be loyal partners on your journey through Midgard — but they also require care and attention!
+
+# 🐾 ValRO Pet System
+
+The **ValRO Pet System** allows adventurers to tame monsters as companions that follow, interact, and provide helpful bonuses. Pets can be loyal partners on your journey through Midgard — but they also require care and attention!
 
 ---
 
@@ -27,7 +30,10 @@ You’ll need three key components to tame a pet:
 ### 🐣 Steps to Tame:
 1. Obtain the **Taming Item** for your desired monster.  
 2. Use it while facing that monster in battle.  
-3. A heart animation will appear — success rate depends on your luck!  
+3. A heart animation will appear — The success rate is unaffected by stats and Provoke, but does increase as target monster health decreased. When the target is at 1% HP the base rate appears to increase by at most 67% (two thirds) multiplicatively  
+     - For example, a Rocker has a base tame success rate of 15%. If Rocker is down to 1% HP, the success rate is increased to 25% (15 * 1.67).
+     - Having /skillsnap enabled makes targeting the monster easier.
+     - Inflicting Bleeding on the monster is a great way to reduce hp to 1 without killing them (e.g. Skogul Card).
 4. If successful, you’ll receive a **Pet Egg** in your inventory.  
 5. Use a **Pet Incubator** to hatch your new companion.
 
@@ -61,6 +67,41 @@ Different types of pets have different feeding behaviors. Some require manual fe
 | **Evolved Pet** | Can be auto-fed. Once evolved, these pets can use the auto-feed system. | *Angeling (evolved from Poring)* |
 | **Pet Without Evolution** | Can be auto-fed. These pets have no evolution tree. | *Incubus* |
 
+Below is the list of pet that has autofeed enable
+
+| Egg | Egg Name |
+|--------------|-------------|
+| ![Whisper_Egg](assets/item/9045.png) | Whisper |
+| ![Poporing_Egg](assets/item/9003.png) | Poporing |
+| ![Picky_Egg](assets/item/9005.png) | Picky |
+| ![Chonchon_Egg](assets/item/9006.png) | Chonchon |
+| ![Steel_Chonchon_Egg](assets/item/9007.png) | Steel_Chonchon |
+| ![Hunter_Fly_Egg](assets/item/9008.png) | Hunter_Fly |
+| ![Spore_Egg](assets/item/9012.png) | Spore |
+| ![Poison_Spore_Egg](assets/item/9013.png) | Poison_Spore |
+| ![Munak_Egg](assets/item/9018.png) | Munak |
+| ![Sohee_Egg](assets/item/9020.png) | Sohee |
+| ![Dullahan_Egg](assets/item/9049.png) | Dullahan |
+| ![Flail_Goblin_Egg](assets/item/9033.png) | Flail_Goblin |
+| ![Hammer_Goblin_Egg](assets/item/9034.png) | Hammer_Goblin |
+| ![Knife_Goblin_Egg](assets/item/9032.png) | Knife_Goblin |
+| ![New_Year_Doll_Egg](assets/item/9038.png) | New_Year_Doll |
+| ![Goblin_Leader_Egg](assets/item/9046.png) | Goblin_Leader |
+| ![Green_Maiden_Egg](assets/item/9030.png) | Green_Maiden |
+| ![Leaf_Cat_Egg](assets/item/9041.png) | Leaf_Cat |
+| ![Medusa_Egg](assets/item/9050.png) | Medusa |
+| ![Shinobi_Egg](assets/item/9044.png) | Shinobi |
+| ![X-mas_Goblin_Egg](assets/item/9029.png) | X-mas_Goblin |
+| ![Christmas_Snow_Rabbit_Egg](assets/item/9058.png) | Christmas_Snow_Rabbit |
+| ![Willow_Egg](assets/item/9103.png) | Willow |
+| ![Domovoi_Egg](assets/item/9060.png) | Domovoi |
+| ![Imp_Egg](assets/item/9056.png) | Imp |
+| ![Marionette_Egg](assets/item/9043.png) | Marionette |
+| ![Zealotus_Egg](assets/item/9026.png) | Zealotus |
+| ![Incubus_Egg](assets/item/9052.png) | Incubus |
+| ![Succubus_Egg](assets/item/9055.png) | Succubus |
+| ![Phreeoni_Egg](assets/item/9111.png) | Phreeoni |
+
 > 💡 **Tip:** To enable auto-feed, open the Pet Window (`Alt + J`) and toggle the *Auto-Feed* checkbox.
 
 ---
@@ -85,7 +126,7 @@ Examples include:
 - Deviruchi 😈 → +1 STR  
 - Baphomet Jr. ⚔️ → +1 AGI  
 
-> **Note:** Effects depend on the server’s configuration. Check in-game or with the GM team for ValkariaRO’s specific pet bonuses.
+> **Note:** Effect is mostly following official stats. Any adjustment on pet stats will be posted below.
 
 ---
 
@@ -124,5 +165,3 @@ The ValkariaRO team plans to add more **custom pets**, **unique taming items**, 
 
 ---
 
-_Last updated: {{ date }}_  
-**Author:** ValkariaRO Staff Team  

@@ -188,6 +188,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Marketplace System](marketplace.md) <br>
     [Costume Converter](costume-converter.md)<br>
     [Endless Cellar](endless-cellar.md)<br>
+    [Pet System](cute-pet.md)<br>
     Battleground (Coming Soon)<br>
     [Roadmap](roadmap.md)
 
