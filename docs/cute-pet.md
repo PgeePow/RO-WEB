@@ -67,7 +67,7 @@ Different types of pets have different feeding behaviors. Some require manual fe
 | **Evolved Pet** | Can be auto-fed. Once evolved, these pets can use the auto-feed system. | *Angeling (evolved from Poring)* |
 | **Pet Without Evolution** | Can be auto-fed. These pets have no evolution tree. | *Incubus* |
 
-Below is the list of pet that has autofeed enable
+Below is the list of **pet without evolution** that has autofeed enable.
 
 | Egg | Egg Name |
 |--------------|-------------|
