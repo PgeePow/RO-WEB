@@ -190,8 +190,9 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Healer](healer.md)<br>
     [Mystery Market](mysterymarket.md)<br>
     [Halloween Event](halloween.md)<br>
-    [The Mechromatrix Protocol Quest](mecho.md)
-    [Horror Toy Factory](horrortoyfactory.md)
+    [The Mechromatrix Protocol Quest](mecho.md)<br>
+    [Horror Toy Factory](horrortoyfactory.md)<br>
+    [King of Emperium](koe.md)
 
 - 
 
