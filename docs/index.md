@@ -57,7 +57,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         - KoE Adjustment
         - Bug Fixes
         ```
-            [View Full Nov Changelog](changelog/dec-change-log.md)
+            [View Full Dec Changelog](changelog/dec-change-log.md)
 
     === "Nov 2025"
     
