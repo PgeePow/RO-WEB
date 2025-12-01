@@ -1,4 +1,6 @@
-```markdown
+
+![Banner](assets/npc/htf/banner.png)
+
 # Horror Toy Factory (ValkariaRO Edition)
 
 Welcome to the official ValkariaRO documentation for the **Horror Toy Factory** instance.  
@@ -169,4 +171,3 @@ Gather your party, prepare your consumables, and get ready.
 | Wanderer Card |
 | Ring of Flame Lord |
 | Ring of Resonance |
-```
