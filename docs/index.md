@@ -49,6 +49,16 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
+    === "Dec 2025"
+    
+        ``` markdown 
+        - Horror Toys Factory
+        - Mob Adjustment
+        - KoE Adjustment
+        - Bug Fixes
+        ```
+            [View Full Nov Changelog](changelog/dec-change-log.md)
+
     === "Nov 2025"
     
         ``` markdown 
