@@ -181,6 +181,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Mystery Market](mysterymarket.md)<br>
     [Halloween Event](halloween.md)<br>
     [The Mechromatrix Protocol Quest](mecho.md)
+    [Horror Toy Factory](horrortoyfactory.md)
 
 - 
 
