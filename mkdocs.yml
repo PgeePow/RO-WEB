@@ -26,6 +26,7 @@ theme:
     -navigation.sections
     -navigation.expand
     -toc.follow
+    -content.tabs.link
 
 nav:
   - Home: index.md
