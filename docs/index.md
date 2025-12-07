@@ -1,5 +1,15 @@
 ---
 
+<!-- TODO: 
+hide:
+  - toc
+
+nav:
+  - Section:
+    - docs/index.md 
+    - Page 1: docs/download.md
+    - Page 2: docs/page-n.md
+
 ---
 
 !!! note 
