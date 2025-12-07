@@ -1,12 +1,4 @@
 ---
-hide:
-  - toc
-
-nav:
-  - ValRO Guides:
-    - Welcome To Valkaria : index.md 
-    - Server Features: server-features.md
-    - Getting Started: getting-started.md
 
 ---
 
