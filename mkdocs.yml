@@ -18,16 +18,16 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    -navigation.instant
-    -navigation.instant.progress
-    -navigation.instant.preview
-    -navigation.tracking
-    -navigation.tabs
-    -navigation.sections
-    -navigation.expand
-    -toc.follow
-    -content.tabs.link
-    -navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - content.tabs.link
+    - navigation.indexes
 
 nav:
   - Home: index.md
