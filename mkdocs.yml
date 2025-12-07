@@ -22,7 +22,6 @@ theme:
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - toc.follow
