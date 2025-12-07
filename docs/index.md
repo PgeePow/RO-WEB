@@ -1,7 +1,5 @@
 ---
-hide:
-  - toc
-  - navigation
+
 ---
 
 !!! note 
