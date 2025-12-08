@@ -47,7 +47,8 @@ Gather your party, prepare your consumables, and get ready.
 
 ---
 
-# 🧭 How to Start
+## 🧭 How to Start
+
 1. Go to **Lutie**.
 2. Talk to **Catherine Jet Johnson** at `xmas 237,303`.
 3. Reserve the instance.
@@ -55,7 +56,8 @@ Gather your party, prepare your consumables, and get ready.
 
 ---
 
-# 🎄 First Phase
+## 🎄 First Phase
+
 !!! tip "Transformation Mechanics"
     - Talking to NPCs without being a **Red Cookie** spawns **Nightmare Cruisers**.
     - Use Myst Case NPCs around the map to refresh your transformation timer.
@@ -70,7 +72,8 @@ Gather your party, prepare your consumables, and get ready.
 
 ---
 
-# 🍪 Second Phase
+## 🍪 Second Phase
+
 - Talk to Myst Case NPC → transform into **Red Cookie**.
 - Speak to all **10 Green Cookie workers**.
 - You cannot move or use skills/consumables during their dialogue.
@@ -80,7 +83,8 @@ Gather your party, prepare your consumables, and get ready.
 
 ---
 
-# 🎅 Third Phase
+## 🎅 Third Phase
+
 - Enter the center to trigger dialogue between **Santa** and **Antonio**.
 - Enter the **left portal**.
 - Kill **Antonio**.
@@ -90,7 +94,8 @@ Gather your party, prepare your consumables, and get ready.
 
 ---
 
-# 💀 Boss Phase – Celine Kimi
+## 💀 Boss Phase – Celine Kimi
+
 !!! danger "Boss Overview"
     **Celine Kimi** (Large • Ghost 1 • Undead)
 
@@ -118,13 +123,14 @@ Gather your party, prepare your consumables, and get ready.
 
 ---
 
-# 🎁 Finishing the Instance
+## 🎁 Finishing the Instance
+
 - After she dies, enter the **southwest portal**.
 - Open the **10 Treasure Boxes** for rewards.
 
 ---
 
-# 🚫 Restrictions
+## 🚫 Restrictions
 
 ## Forbidden Skills
 | Skill |

@@ -33,9 +33,10 @@ This Halloween, the Banquet is not merely an event — **it is a trial by terror
 
 ---
 
-# 📜 Event Quests & Activities
+## 📜 Event Quests & Activities
 
 ## A. 🎃 Pumpkin Mojo Quest
+
 **Location:** `Prontera,168,152`  
 **NPCs:** Cool Devi & Gloomy Jack  
 
@@ -47,6 +48,7 @@ This Halloween, the Banquet is not merely an event — **it is a trial by terror
 ---
 
 ## B. 🌀 Jitterbug’s Challenge (Hat Upgrade)
+
 **Location:** `Prontera,156,201`  
 **NPC:** Jitterbug (Trickster)  
 
@@ -60,6 +62,7 @@ Upgrade your **Fantastic Pumpkin Hat** into the **Festival Pumpkin Hat**.
 ---
 
 ## C. 🍰 Pumpkin Pie Quest
+
 **Location:** Geffen  
 **NPC:** Hoirin  
 
@@ -76,6 +79,7 @@ Help Hoirin bake the ultimate pie.
 ---
 
 ## D. 📦 Pumpkin Pie Delivery
+
 **Location:** `Geffen,145,132` → Niflheim  
 **NPC:** Deviruchi (for Loli Ruri)  
 
@@ -88,6 +92,7 @@ Deliver Hoirin’s pie to Loli Ruri.
 ---
 
 ## E. 🐔 Chicken Masta Side Quest
+
 **Location:** Niflheim Fields  
 **NPC:** Chicken Masta  
 
@@ -110,6 +115,7 @@ Chickens respawn after **2 minutes**.
 ---
 
 ## F. 👗 Esmeralda’s Costume Exchange
+
 **Location:** `Prontera,112,234`  
 
 Trade in **Halloween items** for exclusive seasonal costumes.  
@@ -118,6 +124,7 @@ Trade in **Halloween items** for exclusive seasonal costumes.
 ---
 
 ## G. 🎫 Niflheim Access & Pumpkin Pie
+
 - Use **Niflheim Express Ticket** with Familiars in towns.  
 - Talk to **Deviruchi** (`nif_in 20,32`) at the Niflheim Inn (`niflheim,189,207`).  
 
@@ -134,6 +141,7 @@ Use a ticket with Familiars in:
 ---
 
 ## H. ☠️ Deadman’s Banquet Hall (Special Dungeon)
+
 **Location:** `Prontera,95,231`  
 **Access:** Only during Halloween.  
 
@@ -149,7 +157,7 @@ Use a ticket with Familiars in:
 
 ---
 
-# 💀 Event MVP: Lord of Destruction
+## 💀 Event MVP: Lord of Destruction
 
 **Map:** Deadman’s Banquet Hall (Halloween Exclusive)  
 **Monster ID:** 1876  

@@ -30,36 +30,35 @@ theme:
   
 nav:
   - ValRO Guides:
-    - Welcome To Valkaria : index.md
-    - Server Info: server-info.md
-    - Getting Started: getting-started.md
+    - 👋 Welcome To Valkaria : index.md
+    - ℹ️ Server Info: server-info.md
+    - 🚩 Getting Started: getting-started.md
   - Server features:
-    - Adjusted Price: adjusted-price.md
-    - Card Trader: card-trader.md
-    - Coin System: coin-system.md
-    - Cute Pets: cute-pet.md
-    - Daily Quests: daily-quest.md
-    - Healer : healer.md
-    - Hunting Missions: hunting-missions.md
-    - MVP Features: mvp-features.md
-    - Random Options: random-option.md
-    - Warper System: warper-quest.md
+    - ⚡️ Random Options: random-option.md
+    - 💸 Adjusted Price: adjusted-price.md
+    - 🃏 Card Trader: card-trader.md
+    - 🪙 Coin System: coin-system.md
+    - 🦜 Cute Pets: cute-pet.md
+    - 📜 Daily Quests: daily-quest.md
+    - 🩹 Healer : healer.md
+    - 🎯 Hunting Missions: hunting-mission.md
+    - 💪 MVP Features: mvp-features.md
+    - 🌀 Warper System: warper-quest.md
   - Custom Features:
-    - Endless Cellar: endless-cellar.md
-    - Halloween Event: halloween.md
-    - Horror Toy Factory: horrortoyfactory.md
-    - Mechatronix: mecho.md
-    - King of Emeprium: koe.md
+    - 🧱 Endless Cellar: endless-cellar.md
+    - 🎃 Halloween Event: halloween.md
+    - 🧸 Horror Toy Factory: horrortoyfactory.md
+    - 🤖 Mechromatrix: mecho.md
+    - ⚜️ King of Emperium: koe.md
   - Economy Guides:
-    - Marketplace: marketplace.md
-    - Mystery Market: mysterymarket.md
-    - Vendor: vendor.md
+    - 📈 Marketplace: marketplace.md
+    - 🔎 Mystery Market: mysterymarket.md
+    - 💰 Vendor: vendor.md
   - Troubleshooting:
-    - Common Issues: troubleshoot.md
-    - Support Us: supportus.md
+    - 📕 Rules: rules.md 
+    - 🛠️ Common Issues: troubleshoot.md
+    - 💡 Support Us: supportus.md
   
-
-
 markdown_extensions:
   - neoteroi.timeline
   - admonition

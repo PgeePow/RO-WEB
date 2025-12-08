@@ -1,169 +1,180 @@
-# 👑 KING OF EMPERIUM (KoE) – TRIAL RUN ANNOUNCEMENT
 
-!!! warning "Trial Notice"
-    ⚠️ **If there are not enough participants, rewards will be put on hold.**
 
-Attention, Valkarians!  
-We are launching a **TRIAL VERSION** of the **King of Emperium (KoE)** event for testing and balancing.  
-All guilds are invited to participate and help us refine this feature!
+![KOE](assets/KOE.png)
 
 ---
+# 👑 KING OF EMPERIUM (KoE) 
+
 
 ## 🔥 What Is King of Emperium (KoE)?
 
-KoE is a **fast-paced mini WoE event** where guilds battle for control of a single Emperium.  
-The guild that breaks and holds the Emperium becomes the **King of Emperium Hill**.
+**The King of Emperium Hill (KoE)** is a daily competitive PvP guild event where guilds fight to destroy the **Emperium** and claim the throne!
+Only the strongest guild will stand as **The King of the Hill!**
 
 ---
 
 ## 🕒 Event Schedule (Trial)
 
 **Everyday:**  
-- **Start:** 8:00 PM  
-- **End:** 8:45 PM  
+  
+| Session  |   Event Start  |   Event End |
+|----------|----------------|-------------| 
+| Session 1  |   08:35 PM   |  9:05 PM | 
+| Session 2  |   12:00 AM  |   12:35 AM | 
+
+⏳ System Announcements:
+
+5 minutes before start
+3 minutes before start
+1 minute before start
+
+
+When KoE starts, a global announcement will appear:
+
+**“The King of Emperium Hill has begun!”**
+When it ends:
+**“The King of Emperium Hill is over!”**
 
 ---
 
 ## ⚔️ How to Join
 
-- Talk to **The King NPC** in Prontera.  
-- Must be inside a **guild** to enter.  
-- Receive **temporary KoE Potions** upon entry.  
-- You will spawn randomly at one of **four map entry points**.
+- Go to Prontera `/navi prontera 146/178`
+- Talk to **[The King]** NPC
+- Select **“Yes”** to participate
+- You will be warped into **guild_vs1**
 
 ---
 
-## 🚫 DOs & DON'Ts
+## ✅ ENTRY REQUIREMENTS
 
-### ✅ Allowed
-- Guild fights  
-- Breaking the Emperium  
-- Partying inside your guild  
-- Strategic teamwork  
-- Using KoE special items  
+You **MUST** meet **ALL** of the following:
 
-### ❌ Not Allowed
-- Entering without a guild  
-- Wearing **ANY costume item** (costume slots must be empty)  
-- Bringing old KoE items (auto-deleted on entry)  
-- Skill exploits & unintended escapes  
-- Excessive griefing or trash talk  
+- ✅ Must be in a Guild  
+- ✅ Base Level 90 and above  
+- ✅ KoE must be currently active  
+- ✅ NO Costume equipped (any slot)  
+- ✅ Inventory will be checked for KoE items before entry  
+- ❌ If you do not meet these requirements, you will be blocked from entering.
 
 ---
 
-## 🎁 Rewards (Trial Version)
+## 🎒 ITEMS GIVEN UPON ENTRY
 
-### 🥇 Winning Guild  
-*(Guild holding the Emperium at 8:45 PM)*  
-Each member who exits through the **Exit NPC** will receive:
+When you enter KoE, you will receive:
 
-| Reward | Amount |
-|--------|--------|
-| Siege Potion Box | x4 |
+- ✅ **300x KOE White Potion**  
+- ✅ **100x KOE Blue Potion**  
+  *(SO YOU DON'T HAVE TO WORRY ABOUT USING YOUR OWN RESOURCES)*
 
----
-
-### 🎉 Participation Benefits
-- Fun competitive PvP  
-- Practice for WoE & Guild Events  
-- Helps improve KoE for the official release  
+You will also be randomly warped to one of four spawn points inside the KoE map.
 
 ---
 
-## ⚠️ Trial Notice
-!!! warning
-    This KoE is a **TEST RUN**.  
-    Systems are still in balancing mode.  
-    Rules, mechanics, and rewards **may change**.  
-    Your feedback is appreciated!
+## 🏆 OBJECTIVE
+
+- Destroy the Emperium  
+- Your guild becomes the current King  
+- Your guild emblem appears on the KoE flags  
+- The current King guild is announced server-wide  
+
+Every time the Emperium is destroyed:  
+**“The current King of Emperium Hill is the [Guild Name] guild.”**
+
+A new Emperium will respawn if the event is still running.
 
 ---
 
-# 🏆 WINNER REWARDS (When Your Guild Is Current King)
+## 🎁 REWARDS  
+**Prontera 141,153**
 
-| Reward | Amount |
-|--------|--------|
-| **Elite Siege Box** | x2 |
-| **Bubble Gum** | x2 |
-| **Old Blue Box** | x5 |
-| **PvP Skull** | x5 |
-| **Old Card Album** | x1 |
+Talk to **KoE Rewards NPC** after participating.
+
+⚠️ You **MUST** have participated or you cannot claim rewards.  
+**KOE REWARDS BEHIND HALTER NPC/SKULL EXCHANGER NPC**
 
 ---
 
-## 🥈 Participation Rewards (Non-Winner)
+## 🥇 WINNER REWARDS  
+*(If your guild is current King)*
 
-| Reward | Amount |
-|--------|--------|
-| **Elite Siege Box** | x1 |
-| **PvP Skull** | x3 |
-| **Poring Coin** | x25 |
-| **Thick Manual** | x1 |
+You will receive:
 
-**After claiming rewards, KoE participation resets automatically.**
-
-!!! danger "Important"
-    ANY EXPLOITS may result in changed rewards, rule adjustments, or penalties at GM discretion.
+- 🎁 2x **Elite Siege Box**  
+- 🎁 2x **Bubble Gum**  
+- 🎁 5x **Old Blue Box**  
+- 🎁 5x **PvP Skull**  
+- 🎁 1x **Old Piece of Paper**
 
 ---
 
-# ⚔️ Map Rules (Enforced by System)
+## 🥈 PARTICIPATION REWARDS  
+*(Non-Winner)*
 
-**Map:** `guild_vs1`
+Even if you lose, you still receive:
 
-### ❌ Restricted
-- No Warp  
-- No Teleport  
-- No Memo  
-- No Branch  
-- No Save  
-- No Return  
-- No Costume Allowed  
+- 🎁 1x **Elite Siege Box**  
+- 🎁 3x **PvP Skull**  
+- 🎁 25x **Poring Coin**  
+- 🎁 1x **Thick Manual**
 
-### ✅ Allowed
-- Guild-only combat  
-- No death penalty  
-- Auto emblem display for King Guild  
+✅ After claiming rewards, your KoE participation resets automatically.  
+⛔ ANY EXPLOITS — GM has the right to change prizes and rules.
 
 ---
 
-# 🚫 DO & DON'T LIST
+## ⚔️ MAP RULES (ENFORCED BY SYSTEM)
+
+Inside **guild_vs1**:
+
+- ❌ No Warp  
+- ❌ No Teleport  
+- ❌ No Memo  
+- ❌ No Branch  
+- ❌ No Save  
+- ❌ No Return  
+- ❌ No Costume Allowed  
+- ✅ Guild-Only Combat  
+- ✅ No Death Penalty  
+- ✅ Auto Emblem Display for King Guild  
+
+---
+
+## 🚫 DO & DON’T LIST
 
 ### ✅ DO:
 - Join with your guild  
 - Bring proper PvP gears  
 - Play fair and strategically  
-- Claim rewards after event  
+- Claim rewards after event ends  
 
 ### ❌ DON’T:
 - Enter without a guild  
-- Enter below **Level 90**  
-- Wear **ANY costume**  
+- Enter below Level 90  
+- Wear **ANY** costume  
 - Exploit bugs  
-- AFK inside KoE  
+- AFK farm inside KoE  
 
-!!! warning
-    Any abuse may result in **disqualification or punishment**.
-
----
-
-# 📢 Entry Announcement
-
-Every time a player enters KoE, the server will broadcast:
-
-[KoE] PlayerName of [GuildName] Guild has entered the King Of Emperium Hill!
-
+⚠️ Any abuse may result in disqualification or punishment.
 
 ---
 
-# 👑 Final Note
+## 📢 ENTRY ANNOUNCEMENT
 
-**KoE is designed for:**
+Every time a player enters KoE, the server will announce:  
+**[KoE] PlayerName of [GuildName] Guild has entered the King Of Emperium Hill!**
+
+---
+
+## 👑 FINAL NOTE
+
+KoE is a competitive guild PvP event designed for:
+
 - Teamwork  
 - Strategy  
 - Dominance  
 - Prestige  
 - Rewards  
 
-Only **ONE guild** can claim the throne.  
-**Fight for the hill — prove your guild’s dominance!**
+Only **ONE** guild can be King at a time.
+
