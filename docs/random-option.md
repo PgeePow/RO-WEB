@@ -242,7 +242,20 @@ Tailored for spellcasters and magic users.
 | AGI +1~3                   | ASPD +3~8%                         | Race Ignore MDEF Plant 15~25%             |
 | LUK +1~3                   | Magic Damage to Boss 3~7%          | Race Ignore MDEF Insect 15~25%            |
 | VIT +1~3                   | Decrease After Cast Delay 3~8%     | Race Ignore MDEF Fish 15~25%              |
-|
+|DEX 1~3                     | REDUCE SP CONSUMPTION 5~10%        | RACE IGNR MDEF ANGEL 15~25%               |
+|INC MAXHP 200~350 ||RACE IGNR MDEF DRAGON 15~25% |
+|INT MAXSP 50~100 ||RACE IGNR MDEF DEMON 15~25% |
+|||RACE IGNR MDEF HUMAN 15~25% |
+|||IGNORE MDEF NEUTRAL ELEMENT 15~25% |
+|||IGNORE MDEF WATER ELEMENT 15~25% |
+|||IGNORE MDEF EARTH ELEMENT 15~25% |
+|||IGNORE MDEF FIRE ELEMENT 15~25% |
+|||IGNORE MDEF WIND ELEMENT 15~25% |
+|||IGNORE MDEF POISON ELEMENT 15~25% |
+|||IGNORE MDEF HOLY ELEMENT 15~25% |
+|||IGNORE MDEF SHADOW ELEMENT 15~25% |
+|||IGNORE MDEF GHOST ELEMENT 15~25% |
+|||IGNORE MDEF UNDEAD ELEMENT 15~25% |
 
 ---
 
