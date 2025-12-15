@@ -50,6 +50,16 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     === "Dec 2025"
     
         ``` markdown 
+        - Item Updates
+        - Halter NPC Adjustments
+        - ValRO RandomBox Costume Converter
+        - Server Performance Tweaks
+        ```
+            [View Full Dec Changelog](changelog/dec2-change-log.md)
+
+    === "Dec 2025"
+    
+        ``` markdown 
         - Horror Toys Factory
         - Mob Adjustment
         - KoE Adjustment
