@@ -126,8 +126,7 @@ Examples include:
 
 ---
 
-!!! warning "Work in Progress"
-    Pet evolution is yet to be implemented into the server. This is still work in progress.
+
 
 ## 🧬 Pet Evolution System
 
@@ -144,6 +143,33 @@ Evolution can:
 - Unlock **new abilities** (for supported pets).
 
 > Example: *Lunatic → Angeling (via Angelic Essence)*
+>
+### Evolution Table.
+
+| Evolved To (Egg ID) | Evolve To Name | Evolved From (Egg ID) | Evolved From Name | Item ID 1 | Item Name 1 | Count | Item ID 2 | Item Name 2 | Count | Item ID 3 | Item Name 3 | Count | Item ID 4 | Item Name 4 | Count | Item ID 5 | Item Name 5 | Count |
+|--------------------|---------------|----------------------|------------------|-----------|-------------|-------|-----------|-------------|-------|-----------|-------------|-------|-----------|-------------|-------|-----------|-------------|-------|
+| 9108 | Abandoned_Teddy_Bear_Egg | 9099 | Teddy_Bear_Egg | 23189 | Small_Doll_Needle | 3 | 7442 | Cursed_Seal | 300 | 724 | Cursed_Ruby | 50 | 4340 | Teddy_Bear_Card | 1 |  |  |  |
+| 9119 | Alicel_Egg | 9099 | Teddy_Bear_Egg | 7449 | Bloody_Page | 50 | 518 | Honey | 100 | 7317 | Rusty_Screw | 500 | 4340 | Teddy_Bear_Card | 1 |  |  |  |
+| 9118 | Eliot_Egg | 9099 | Teddy_Bear_Egg | 727 | Opal | 10 | 518 | Honey | 100 | 7317 | Rusty_Screw | 500 | 4340 | Teddy_Bear_Card | 1 |  |  |  |
+| 9089 | Am_Mut_Egg | 9019 | Dokkaebi_Egg | 637 | Old_Broom | 3 | 981 | Violet_Dyestuffs | 3 | 1021 | Dokkaebi_Horn | 300 | 969 | Gold | 3 |  |  |  |
+| 9107 | Ancient_Mummy_Egg | 9102 | Mummy_Egg | 23256 | Miracle_Bandage | 3 | 7511 | Rune_of_Darkness | 200 | 969 | Gold | 30 | 4248 | Ancient_Mummy_Card | 1 |  |  |  |
+| 9088 | Angelring_Egg | 9069 | Mastering_Egg | 909 | Jellopy | 200 | 509 | White_Herb | 50 | 503 | Yellow_Potion | 20 | 2282 | Halo | 1 |  |  |  |
+| 9039 | Bacsojin_Egg | 9047 | Wicked_Nymph_Egg | 4202 | Mao_Guai_Card | 10 | 4265 | Jing_Guai_Card | 10 | 4272 | Zhu_Po_Long_Card | 10 | 25375 | Powerful_Soul_Essence | 30 |  |  |  |
+| 9096 | Cat_O_Nine_Tails_Egg | 9095 | Nine_Tails_Egg | 23187 | Sap_Jelly | 3 | 1022 | Nine_Tails | 999 | 10008 | Punisher | 1 | 4159 | Nine_Tail_Card | 1 |  |  |  |
+| 9091 | Choco_Egg | 9016 | Yoyo_Egg | 7182 | Cacao | 300 | 753 | Yoyo_Doll | 2 | 4051 | Yoyo_Card | 1 | 634 | Tropical_Banana | 3 |  |  |  |
+| 9097 | Diabolic_Egg | 9023 | Deviruchi_Egg | 641 | Contract_in_Shadow | 3 | 1039 | Little_Evil_Wing | 250 | 1009 | Hand_of_God | 30 | 4122 | Deviruchi_Card | 1 |  |  |  |
+| 9071 | Grand_Peco_Egg | 9014 | PecoPeco_Egg | 7101 | PecoPeco_Feather | 300 | 522 | Mastela_Fruit | 10 | 537 | Pet_Food | 10 | 632 | Fatty_Chubby_Earthworm | 3 | 4031 | pecopeco card | 1 |
+| 9087 | High_Orc_Egg | 9017 | Orc_Warrior_Egg | 931 | Orc_Warrior's_Token | 500 | 635 | Orc_Trophy | 3 | 1124 | Orcish_Sword | 1 | 2267 | Cigarette | 1 | 4066 | orc warrior card | 1 |
+| 9105 | Hodremlin_Egg | 9100 | Gremlin_Egg | 23188 | Broken_Part | 3 | 6100 | Damp_Darkness | 50 | 7340 | Will_of_the_Darkness | 200 | 4413 | Hodremlin_Card | 1 |  |  |  |
+| 9090 | Little_Isis_Egg | 9021 | Isis_Egg | 954 | Shining_Scale | 300 | 639 | Armlet_of_Obedience | 3 | 732 | 3carat_Diamond | 6 | 10006 | Queen's_Hair_Ornament | 1 |  |  |  |
+| 9069 | Mastering_Egg | 9001 | Poring_Egg | 610 | Yggdrasil_Leaf | 10 | 619 | Unripe_Apple | 3 |  |  |  |  |  |  |  |  |  |
+| 9112 | Moonlight_Flower_Egg | 9096 | Cat_O_Nine_Tails_Egg | 4159 | Nine_Tail_Card | 10 | 4100 | Sohee_Card | 10 | 4090 | Munak_Card | 10 | 25375 | Powerful_Soul_Essence | 30 | 7539 | Poring_Coin | 1000 |
+| 9070 | Savage_Egg | 9009 | Savage_Bebe_Egg | 517 | Meat | 100 | 537 | Pet_Food | 10 | 627 | Sweet_Milk | 3 | 949 | Feather | 50 |  |  |  |
+| 9093 | Hyegun_Egg | 9025 | Bongun_Egg | 7277 | Munak_Doll | 100 | 609 | Amulet | 50 | 5367 | Yao_Jun_Hat | 1 | 4328 | Yao_Jun_Card | 1 |  |  |  |
+| 9106 | Metaller_Egg | 9011 | Rocker_Egg | 707 | Singing_Plant | 3 | 940 | Grasshopper's_Leg | 777 | 508 | Yellow_Herb | 200 | 4057 | Metaller_Card | 1 |  |  |  |
+| 9098 | Earth_Deleter_Egg | 9022 | Green_Petite_Egg | 640 | Shining_Stone | 3 | 6260 | Petite's_Tail | 100 | 606 | Aloevera | 150 | 4279 | Earth_Deleter_Card | 1 |  |  |  |
+| 9092 | Eggring_Egg | 9002 | Drops_Egg | 7032 | Piece_of_Egg_Shell | 20 | 7031 | Old_Frying_Pan | 10 | 531 | Apple_Juice | 3 | 4076 | Magnolia_Card | 1 |  |  |  |
+
 
 ---
 
