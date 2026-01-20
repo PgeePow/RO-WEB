@@ -78,4 +78,57 @@
     - Christmas Eve: Joyful surprises and festive hunts await under the holiday lights.  
     - Thanatos’ Birthday Month
     - Anniversary of the Statute of Westminster & Battle of Ayacucho Day: Marking history with rewards and remembrance.  
-    - The year closes with chaos, unity, and celebration,prepare for what’s next!  
+    - The year closes with chaos, unity, and celebration,prepare for what’s next!
+
+- title: New Dawn of Valkaria
+  icon: ./assets/item/531.png  # Snowflake / New Year theme
+  sub_title: January 2026
+  content: |
+    - **New Year Event:** Welcome 2026 with special celebrations and rewards.
+    - **Brasilis Released:** Explore the vibrant city and its surrounding content.
+    - **Stat Discipline Quest Released:** Begin your journey of disciplined progression.
+    - **Pet Evolution System:** Pet Evolution officially goes live.
+    - **World Boss II:** A new global threat emerges — rally together to survive.
+
+- title: Flames of Renewal
+  icon: ./assets/item/671.png  # Battlefield Flag
+  sub_title: February 2026
+  content: |
+    - **Ramadhan Month Event:** A meaningful seasonal event with special activities.
+    - **ValkariaRO 2nd WoE Event (The Revival):** War of Emperium returns stronger than ever.
+    - **Guild Dungeon Revamp:** Reworked challenges and improved guild content.
+    - **Chinese New Year Mini Event:** Celebrate prosperity with festive surprises.
+
+- title: Clash of Champions
+  icon: ./assets/item/1131.png  # PvP themed item (example)
+  sub_title: March 2026
+  content: |
+    - **New Map Released:** Discover a brand-new area filled with danger and opportunity.
+    - **Eid Mubarak Event:** Celebrate together with special rewards and events.
+    - **PvP Event – Champion vs Champion:** Only the strongest will prevail.
+    - **World Boss III:** Face an even greater global menace.
+
+- title: Year of Triumph
+  icon: ./assets/item/7444.png  # Anniversary themed item (example)
+  sub_title: April 2026
+  content: |
+    - **ValkariaRO 1-Year Anniversary:** Celebrate one full year of adventure and community.
+    - **SQI – Stage 1 Release:** Unlocked if the server achieves its targeted number of unique players.
+
+- title: Shadows and Serenity
+  icon: ./assets/item/7227.png  # Assassin / PvP themed item (example)
+  sub_title: May 2026
+  content: |
+    - **Wesak Day Event:** A peaceful seasonal celebration with unique rewards.
+    - **PvP Event – SinX vs SinX:** Assassins clash in deadly combat.
+    - **New Map Released:** Another new region opens for exploration.
+    - **World Boss I:** A returning world-level threat challenges all players.
+
+- title: Echoes of War
+  icon: ./assets/item/671.png  # Battlefield Flag
+  sub_title: June 2026
+  content: |
+    - **ValkariaRO 3rd WoE Event (TBC):** Large-scale warfare returns once more.
+    - **Hari Gawai Event:** Celebrate harvest and culture with themed activities.
+    - **New ValkariaRO Quest Released:** A fresh storyline unfolds.
+    - **World Boss II:** The world trembles as a powerful foe returns.
