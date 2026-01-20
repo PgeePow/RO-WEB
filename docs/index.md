@@ -47,7 +47,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
-    === "Jan 2025"
+    === "Jan 2025 V2.7b"
     
         ``` markdown 
         - New Job Change Pack
@@ -55,7 +55,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         ```
             [View Full Dec Changelog](changelog/20jan26-change-log.md)
 
-    === "Jan 2025"
+    === "Jan 2025 V2.7a"
     
         ``` markdown 
         - Newbie Gift and Bug Update
