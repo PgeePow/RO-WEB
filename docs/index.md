@@ -47,6 +47,24 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
+    === "Jan 2025"
+    
+        ``` markdown 
+        - New Job Change Pack
+        - Pet Evolution is Live!
+        ```
+            [View Full Dec Changelog](changelog/20jan26-change-log.md)
+
+    === "Jan 2025"
+    
+        ``` markdown 
+        - Newbie Gift and Bug Update
+        - NPC and System Fix
+        - Equipment Re-adjustments
+        - Party EXP System Overhaul
+        ```
+            [View Full Dec Changelog](changelog/6jan26-change-log.md)
+
     === "Dec 2025"
     
         ``` markdown 
