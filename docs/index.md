@@ -53,7 +53,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         - New Job Change Pack
         - Pet Evolution is Live!
         ```
-            [View Full Dec Changelog](changelog/20jan26-change-log.md)
+            [View Full Jan Changelog](changelog/20jan26-change-log.md)
 
     === "Jan 2025 V2.7a"
     
@@ -63,9 +63,9 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         - Equipment Re-adjustments
         - Party EXP System Overhaul
         ```
-            [View Full Dec Changelog](changelog/6jan26-change-log.md)
+            [View Full Jan Changelog](changelog/6jan26-change-log.md)
 
-    === "Dec 2025"
+    === "Dec 2025 V2.6b"
     
         ``` markdown 
         - Item Updates
@@ -75,7 +75,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         ```
             [View Full Dec Changelog](changelog/dec2-change-log.md)
 
-    === "Dec 2025"
+    === "Dec 2025 V2.6a"
     
         ``` markdown 
         - Horror Toys Factory
