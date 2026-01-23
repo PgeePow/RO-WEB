@@ -222,6 +222,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 - 
 
+    [Stats-Discipline](stat-discipline.md)<br>
     [Vendor System](vendor.md) <br>
     [Marketplace System](marketplace.md) <br>
     [Costume Converter](costume-converter.md)<br>
