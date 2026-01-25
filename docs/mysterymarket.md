@@ -12,7 +12,7 @@ This system brings variety, excitement, and a chance to preview costumes and equ
 ---
 ## ✨ Where To Find
 
-Talk to Mystery Market NPC located at `/navi prontera 188/199`
+Talk to Mystery Market NPC located at `/navi prontera 166/177`
 
 ![alt text](assets/image.png)
 
