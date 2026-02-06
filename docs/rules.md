@@ -56,6 +56,10 @@
   
 4.4 Vending/trading must be fair and honest. Misleading or fraudulent practices (false advertisement, misrepresenting value or rarity) are not allowed.
 4.5 MVP monsters are considered Free For All (FFA).
+    • MVP hunting on this server is Free-For-All by design.
+    • Competing for MVPs, including pulling, teleporting, securing aggro, and timing, is considered part of normal gameplay.
+    • Adapting to other players’ actions and MVP behavior is part of the challenge and intended competitive experience.
+    • Retaliation between players will also be treated as part of open competition.
 
 ---
 

@@ -47,6 +47,14 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 !!! Changelogs
 
+    === "Jan 2025 V2.7c"
+    
+        ``` markdown 
+        - Ramadhan Event
+        - Bug fixes
+        ```
+            [View Full Jan Changelog](changelog/29jan26-change-log.md)
+
     === "Jan 2025 V2.7b"
     
         ``` markdown 
