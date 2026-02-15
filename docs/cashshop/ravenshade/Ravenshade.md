@@ -4,7 +4,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
 
 <div class="grid cards" markdown>
 
--   :material-helmet: __Ancient Horn__
+-   ![AncientHorn](19568.gif) __Ancient Horn__
 
     ---
 
@@ -14,10 +14,10 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Item ID:** #19568
     - **Untradeable**
     - **Visual:** Ancient horned headpiece with weathered stone texture
+    - **Stats:** Increase Weight Capacity By 50
+    ![Ancient Horn](19568W2.png)
 
-    ![Ancient Horn](https://via.placeholder.com/300x200/2a1e2f/c49a6c?text=Ancient+Horn)
-
--   :material-knight: __Black Khalitzburg Knight Helm__
+-   ![Khalitzburg](31332.gif) __Black Khalitzburg Knight Helm__
 
     ---
 
@@ -27,10 +27,10 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Item ID:** #31332
     - **Untradeable**
     - **Visual:** Full-face black knight helmet with crimson accents
+    - **Stats:** Increase Weight Capacity By 100
+    ![Khalitzburg](31332W.png)
 
-    ![Black Khalitzburg Helm](https://via.placeholder.com/300x200/2a1e2f/c49a6c?text=Khalitzburg+Helm)
-
--   :material-skull: __Grim Reaper Protection__
+-   ![Grim Reaper](20798.gif) __Grim Reaper Protection__
 
     ---
 
@@ -40,10 +40,10 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Item ID:** #20798
     - **Untradeable**
     - **Visual:** Dark ethereal cloak with reaper motifs
+    - **Stats:** Increase Weight Capacity By 200
+    ![Grim Reaper](20798W.png)
 
-    ![Grim Reaper Protection](https://via.placeholder.com/300x200/2a1e2f/c49a6c?text=Grim+Reaper)
-
--   :material-hood: __Sorcerer Hood__
+-   ![Sorcerer Hood](31396.gif) __Sorcerer Hood__
 
     ---
 
@@ -53,8 +53,8 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Item ID:** #31396
     - **Untradeable**
     - **Visual:** Mysterious hood with arcane symbols
-
-    ![Sorcerer Hood](https://via.placeholder.com/300x200/2a1e2f/c49a6c?text=Sorcerer+Hood)
+    - **Stats:** Increase Weight Capacity By 200
+    ![Sorcerer Hood](31396W.png)
 
 -   :material-bat: __Vampire's Familiar__
 

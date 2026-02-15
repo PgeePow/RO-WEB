@@ -24,7 +24,7 @@ Our Cash Shop is designed to enhance your gameplay experience while maintaining 
 
 | Scrolls   | Scrolls Name                          | Link |
 | ----------- | ------------------------------------ | -------- |
-| ![ravenshade](ravenshade.png)      | Ravenshade Scroll Egg  | |
+| ![ravenshade](ravenshade.png)      | Ravenshade Scroll Egg  | [View Page](ravenshade/Ravenshade.md)|
 |     ![Wyrdweave Scroll](wyrdweave.png)   | Wyrdweave Scroll | | 
 |  ![Wicked Whisper](WickedWhisper.png)   | Wicked Whisper Scroll | |
 | ![Mechromatrix ](Mechromatrix.png)| Mechromatrix Scroll Egg | |
@@ -32,7 +32,7 @@ Our Cash Shop is designed to enhance your gameplay experience while maintaining 
 | ![Everfrost](Everfrost.png) | Everfrost Noel Scroll Egg | |
 |![Imperium](Imperium.png) | Imperium Solaria Scroll Egg | |
 | ![DLManteau](DLManteau.png) | Dark Lord Manteau Costime Bundle | |
-| ![DLCLoak(DLCLoak.png)| Dark Lord Cloak Costume Bundle | |
+| ![DLCLoak](DLCLoak.png)| Dark Lord Cloak Costume Bundle | |
 
 
 
