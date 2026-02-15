@@ -2,6 +2,8 @@
 
 Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll**, the following five exclusive costumes will be delivered instantly to your in-game mailbox.
 
+![RavenshadeFull](RavenshadeFull.gif){: style="display: block; margin: 0 auto;"}
+
 <div class="grid cards" markdown>
 
 -   ![AncientHorn](19568.gif) __Ancient Horn__
@@ -15,7 +17,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Untradeable**
     - **Visual:** Ancient horned headpiece with weathered stone texture
     - **Stats:** Increase Weight Capacity By 50
-    ![Ancient Horn](19568W2.png)
+    ![Ancient Horn](19568W2.png){: style="display: block; margin: 0 auto;"}
 
 -   ![Khalitzburg](31332.gif) __Black Khalitzburg Knight Helm__
 
@@ -29,7 +31,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Visual:** Full-face black knight helmet with crimson accents
     - **Stats:** Increase Weight Capacity By 100
   
-    ![Khalitzburg](31332W.png)
+    ![Khalitzburg](31332W.png){: style="display: block; margin: 0 auto;"}
 
 -   ![Grim Reaper](20798.gif) __Grim Reaper Protection__
 
@@ -43,7 +45,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Visual:** Dark ethereal cloak with reaper motifs
     - **Stats:** Increase Weight Capacity By 200
 
-    ![Grim Reaper](20798W.png)
+    ![Grim Reaper](20798W.png){: style="display: block; margin: 0 auto;"}
 
 -   ![Sorcerer Hood](31396.gif) __Sorcerer Hood__
 
@@ -57,7 +59,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Visual:** Mysterious hood with arcane symbols
     - **Stats:** Increase Weight Capacity By 200
 
-    ![Sorcerer Hood](31396W.png)
+    ![Sorcerer Hood](31396W.png){: style="display: block; margin: 0 auto;"}
 
 -   ![vampire familiear](31120.gif) __Vampire's Familiar__
 
@@ -71,7 +73,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Visual:** Small bat-like familiar perched on shoulder
     - **Stats:** Increase Weight Capacity By 200
 
-    ![vampire Familiar](31120W.png)
+    ![vampire Familiar](31120W.png){: style="display: block; margin: 0 auto;"}
 
 </div>
 
@@ -93,7 +95,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Visual:** Majestic dark lord attire with flowing robes
     - **Stats:** Increase Weight Capacity By 300
 
-    ![Dark Master](420010W.gif)
+    ![Dark Master](420010W.gif){: style="display: block; margin: 0 auto;"}
 
 </div>
 
