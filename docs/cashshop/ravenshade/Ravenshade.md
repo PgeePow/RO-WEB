@@ -28,6 +28,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Untradeable**
     - **Visual:** Full-face black knight helmet with crimson accents
     - **Stats:** Increase Weight Capacity By 100
+  
     ![Khalitzburg](31332W.png)
 
 -   ![Grim Reaper](20798.gif) __Grim Reaper Protection__
@@ -41,6 +42,7 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Untradeable**
     - **Visual:** Dark ethereal cloak with reaper motifs
     - **Stats:** Increase Weight Capacity By 200
+
     ![Grim Reaper](20798W.png)
 
 -   ![Sorcerer Hood](31396.gif) __Sorcerer Hood__
@@ -54,9 +56,10 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Untradeable**
     - **Visual:** Mysterious hood with arcane symbols
     - **Stats:** Increase Weight Capacity By 200
+
     ![Sorcerer Hood](31396W.png)
 
--   :material-bat: __Vampire's Familiar__
+-   ![vampire familiear](31120.gif) __Vampire's Familiar__
 
     ---
 
@@ -66,8 +69,9 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
     - **Item ID:** #31120
     - **Untradeable**
     - **Visual:** Small bat-like familiar perched on shoulder
+    - **Stats:** Increase Weight Capacity By 200
 
-    ![Vampire's Familiar](https://via.placeholder.com/300x200/2a1e2f/c49a6c?text=Vampire%27s+Familiar)
+    ![vampire Familiar](31120W.png)
 
 </div>
 
@@ -77,18 +81,19 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
 
 <div class="grid cards" markdown>
 
--   :material-crown: __Dark Master Costume__
+-   ![Dark Master](420010.gif) __Dark Master Costume__
 
     ---
 
-    **Full Set Costume**  
+    **Legendary Costume**  
     *The ultimate symbol of shadow authority.*
 
     - **Item ID:** #420010
     - **Untradeable**
     - **Visual:** Majestic dark lord attire with flowing robes
+    - **Stats:** Increase Weight Capacity By 300
 
-    ![Dark Master](https://via.placeholder.com/300x200/2a1e2f/c49a6c?text=Dark+Master)
+    ![Dark Master](420010W.gif)
 
 </div>
 
@@ -98,13 +103,13 @@ Unlock the power of the shadowed depths. Upon purchasing the **Ravenshade Scroll
 
 | Item ID | Costume Name | Type |
 | :--- | :--- | :--- |
-| #19568 | Ancient Horn | Headgear |
-| #31332 | Black Khalitzburg Knight Helm | Headgear |
-| #20798 | Grim Reaper Protection | Garment |
-| #31396 | Sorcerer Hood | Headgear |
-| #31120 | Vampire's Familiar | Headgear |
-| #420010 | Dark Master | Full Set |
+| #19568 | Ancient Horn | Headgear Top  |
+| #31332 | Black Khalitzburg Knight Helm | Headgear Top |
+| #20798 | Grim Reaper Protection | Headgear Mid |
+| #31396 | Sorcerer Hood | Headgear Top |
+| #31120 | Vampire's Familiar | Headgear Mid |
+| #420010 | Dark Master | Headgear Low |
 
 <p style="text-align: center; margin-top: 30px;">
-    <em>All items are costume-only and do not provide stats. Bound to character upon pickup. Non-tradeable.</em>
+    <em>All items are costume-only and do not provide game breaking stats. Bound to character upon pickup. Non-tradeable.</em>
 </p>
