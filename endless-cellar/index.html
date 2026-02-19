@@ -1,0 +1,1833 @@
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://valkariaro.com/endless-cellar/">
+      
+      
+        <link rel="prev" href="../stat-discipline/">
+      
+      
+        <link rel="next" href="../halloween/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.2">
+    
+    
+      
+        <title>🧱 Endless Cellar - VALRO Documentations</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../stylesheets/neoteroi-mkdocs.css">
+    
+      <link rel="stylesheet" href="../stylesheets/neoteroi-timeline.css">
+    
+      <link rel="stylesheet" href="../stylesheets/neoteroi-mkdocs.min.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#endless-cellar-dungeon-instance" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="VALRO Documentations" class="md-header__button md-logo" aria-label="VALRO Documentations" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            VALRO Documentations
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              🧱 Endless Cellar
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo" aria-label="Switch to dark mode" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo" aria-label="Switch to light mode" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="VALRO Documentations" class="md-nav__button md-logo" aria-label="VALRO Documentations" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    VALRO Documentations
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1">
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ValRO Guides
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ValRO Guides
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👋 Welcome To Valkaria
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../server-info/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ℹ️ Server Info
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../getting-started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🚩 Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Server features
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Server features
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../random-option/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚡️ Random Options
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../adjusted-price/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💸 Adjusted Price
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../card-trader/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🃏 Card Trader
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../coin-system/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🪙 Coin System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cute-pet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🦜 Cute Pets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../daily-quest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📜 Daily Quests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../healer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🩹 Healer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hunting-mission/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎯 Hunting Missions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mvp-features/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💪 MVP Features
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../warper-quest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌀 Warper System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../headgear-quest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👹 Headgear Quest
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Custom Features
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Custom Features
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../stat-discipline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐉 Stats Discipline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧱 Endless Cellar
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧱 Endless Cellar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#endless-cellar-dungeon-instance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Endless Cellar Dungeon Instance
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instance-mechanics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Instance Mechanics:
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schedule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Schedule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-start-instance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to start Instance
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#monster-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Monster list:
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../halloween/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎃 Halloween Event
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../horrortoyfactory/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧸 Horror Toy Factory
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mecho/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🤖 Mechromatrix
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../koe/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚜️ King of Emperium
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Economy Guides
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Economy Guides
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../marketplace/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📈 Marketplace
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mysterymarket/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔎 Mystery Market
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vendor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💰 Vendor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Troubleshooting
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Troubleshooting
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📕 Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../troubleshoot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🛠️ Common Issues
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../supportus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💡 Support Us
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#endless-cellar-dungeon-instance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Endless Cellar Dungeon Instance
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instance-mechanics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Instance Mechanics:
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schedule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Schedule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-to-start-instance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to start Instance
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#monster-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Monster list:
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>🧱 Endless Cellar</h1>
+
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The page still under contruction, all new details will be added in future</p>
+</div>
+<p>Here’s a quick note on <strong>Endless Cellar Dungeon Instance</strong> in our server:  </p>
+<h3 id="endless-cellar-dungeon-instance"><strong>Endless Cellar Dungeon Instance</strong></h3>
+<p><strong>Overview</strong></p>
+<p>Endless Cellar is one of the most popular instances in Ragnarok Online, designed for team-based gameplay. It is part of the so-called "endless" instances, offering players a challenge in the form of a series of dungeons filled with increasingly powerful monsters, mini-bosses, and mighty MVPs. This is not only an engaging PvE experience but also a place where players can earn valuable rewards and test their skills in teamwork. It’s a perfect challenge for guilds and friends who aim to overcome obstacles together. The Cellar is always ready to challenge those seeking adventure in the world of Ragnarok Online.  </p>
+<h3 id="instance-mechanics"><strong>Instance Mechanics:</strong></h3>
+<ul>
+<li>All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.</li>
+<li>Any member who attempts to join an in progress party will automatically be kicked out of the instance.</li>
+<li>Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon. </li>
+<li>If all members exit, the instance will be deleted and cooldown commences.</li>
+<li>Create a party and run Solo or with a party, dungeon instance creation starts at lowest level.</li>
+<li>Experience and loot and obtained per kill and will be issued depending on party share options.</li>
+<li>Bubble Gum and EXP manuals do not effect drop rate and/or exp rates.</li>
+<li>Level 85+ to enter</li>
+<li>Monsters remaining per floor will be announced starting with 5 remaining</li>
+</ul>
+<h3 id="schedule"><strong>Schedule</strong></h3>
+<ul>
+<li>Endless Cellar weekly cooldown (6 days, 16 hours) </li>
+</ul>
+<h3 id="how-to-start-instance"><strong>How to start Instance</strong></h3>
+<ul>
+<li>To start the instance, you need to talk to Captain Janssen in Alberta(/navi Alberta 215/76). </li>
+<li>Talk to him a few times. The journey to Misty Island costs 10,000 Zeny. </li>
+<li>On the island, talk to the Cellar Protection Stone and select Enter Endless Cellar</li>
+</ul>
+<h3 id="monster-list"><strong>Monster list:</strong></h3>
+<table>
+<thead>
+<tr>
+<th>Floor Level</th>
+<th>Monster</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Floor 1</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1007.gif" data-desc-position="bottom"><img alt="1007" src="../assets/mob/1007.gif"></a> Fabre 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1049.gif" data-desc-position="bottom"><img alt="1049" src="../assets/mob/1049.gif"></a> Picky 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1050.gif" data-desc-position="bottom"><img alt="1050" src="../assets/mob/1050.gif"></a> Picky 10x</td>
+</tr>
+<tr>
+<td>Floor 2</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1010.gif" data-desc-position="bottom"><img alt="1010" src="../assets/mob/1010.gif"></a> Willow 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1013.gif" data-desc-position="bottom"><img alt="1013" src="../assets/mob/1013.gif"></a> Wolf 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1018.gif" data-desc-position="bottom"><img alt="1018" src="../assets/mob/1018.gif"></a> Creamy 10x</td>
+</tr>
+<tr>
+<td>Floor 3</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1009.gif" data-desc-position="bottom"><img alt="1009" src="../assets/mob/1009.gif"></a> Condor 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1019.gif" data-desc-position="bottom"><img alt="1019" src="../assets/mob/1019.gif"></a> Peco Peco 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1055.gif" data-desc-position="bottom"><img alt="1055" src="../assets/mob/1055.gif"></a> Muka 10x</td>
+</tr>
+<tr>
+<td>Floor 4</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1277.gif" data-desc-position="bottom"><img alt="1277" src="../assets/mob/1277.gif"></a> Greatest General 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1115.gif" data-desc-position="bottom"><img alt="1115" src="../assets/mob/1115.gif"></a> Eddga 1x</td>
+</tr>
+<tr>
+<td>Floor 5</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1014.gif" data-desc-position="bottom"><img alt="1014" src="../assets/mob/1014.gif"></a> Spore 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1077.gif" data-desc-position="bottom"><img alt="1077" src="../assets/mob/1077.gif"></a> Poison Spore 15x</td>
+</tr>
+<tr>
+<td>Floor 6</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1073.gif" data-desc-position="bottom"><img alt="1073" src="../assets/mob/1073.gif"></a> Crab 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1074.gif" data-desc-position="bottom"><img alt="1074" src="../assets/mob/1074.gif"></a> Shellfish 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1266.gif" data-desc-position="bottom"><img alt="1266" src="../assets/mob/1266.gif"></a> Aster 15x</td>
+</tr>
+<tr>
+<td>Floor 7</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1066.gif" data-desc-position="bottom"><img alt="1066" src="../assets/mob/1066.gif"></a> Vadon 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1067.gif" data-desc-position="bottom"><img alt="1067" src="../assets/mob/1067.gif"></a> Cornutus 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1141.gif" data-desc-position="bottom"><img alt="1141" src="../assets/mob/1141.gif"></a> Marina 10x</td>
+</tr>
+<tr>
+<td>Floor 8</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1515.gif" data-desc-position="bottom"><img alt="1515" src="../assets/mob/1515.gif"></a> Garm Baby 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1142.gif" data-desc-position="bottom"><img alt="1142" src="../assets/mob/1142.gif"></a> Marine Sphere 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1252.gif" data-desc-position="bottom"><img alt="1252" src="../assets/mob/1252.gif"></a> Garm 1x</td>
+</tr>
+<tr>
+<td>Floor 9</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1058.gif" data-desc-position="bottom"><img alt="1058" src="../assets/mob/1058.gif"></a> Metaller 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1138.gif" data-desc-position="bottom"><img alt="1138" src="../assets/mob/1138.gif"></a> Magnolia 20x</td>
+</tr>
+<tr>
+<td>Floor 10</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1104.gif" data-desc-position="bottom"><img alt="1104" src="../assets/mob/1104.gif"></a> Coco 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1103.gif" data-desc-position="bottom"><img alt="1103" src="../assets/mob/1103.gif"></a> Caramel 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1128.gif" data-desc-position="bottom"><img alt="1128" src="../assets/mob/1128.gif"></a> Horn 15x</td>
+</tr>
+<tr>
+<td>Floor 11</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1023.gif" data-desc-position="bottom"><img alt="1023" src="../assets/mob/1023.gif"></a> Ambernite 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1116.gif" data-desc-position="bottom"><img alt="1116" src="../assets/mob/1116.gif"></a> Eggyra 25x</td>
+</tr>
+<tr>
+<td>Floor 12</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1274.gif" data-desc-position="bottom"><img alt="1274" src="../assets/mob/1274.gif"></a> Megalith 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1308.gif" data-desc-position="bottom"><img alt="1308" src="../assets/mob/1308.gif"></a> Panzer Goblin 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1392.gif" data-desc-position="bottom"><img alt="1392" src="../assets/mob/1392.gif"></a> Rotar Zairo 10x</td>
+</tr>
+<tr>
+<td>Floor 13</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1056.gif" data-desc-position="bottom"><img alt="1056" src="../assets/mob/1056.gif"></a> Smokie 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1121.gif" data-desc-position="bottom"><img alt="1121" src="../assets/mob/1121.gif"></a> Giearth 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1145.gif" data-desc-position="bottom"><img alt="1145" src="../assets/mob/1145.gif"></a> Martin 15x</td>
+</tr>
+<tr>
+<td>Floor 14</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1024.gif" data-desc-position="bottom"><img alt="1024" src="../assets/mob/1024.gif"></a> Worm Tail 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1215.gif" data-desc-position="bottom"><img alt="1215" src="../assets/mob/1215.gif"></a> Stem Worm 25x</td>
+</tr>
+<tr>
+<td>Floor 15</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1244.gif" data-desc-position="bottom"><img alt="1244" src="../assets/mob/1244.gif"></a> Christmas Jakk 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1245.gif" data-desc-position="bottom"><img alt="1245" src="../assets/mob/1245.gif"></a> Christmas Goblin 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1246.gif" data-desc-position="bottom"><img alt="1246" src="../assets/mob/1246.gif"></a> Christmas Cookie 10x</td>
+</tr>
+<tr>
+<td>Floor 16</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1062.gif" data-desc-position="bottom"><img alt="1062" src="../assets/mob/1062.gif"></a> Santa Poring 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1062.gif" data-desc-position="bottom"><img alt="1062" src="../assets/mob/1062.gif"></a> Santa Poring 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1251.gif" data-desc-position="bottom"><img alt="1251" src="../assets/mob/1251.gif"></a> Stormy Knight 1x</td>
+</tr>
+<tr>
+<td>Floor 17</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1012.gif" data-desc-position="bottom"><img alt="1012" src="../assets/mob/1012.gif"></a> Roda Frog 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1034.gif" data-desc-position="bottom"><img alt="1034" src="../assets/mob/1034.gif"></a> Thara Frog 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1402.gif" data-desc-position="bottom"><img alt="1402" src="../assets/mob/1402.gif"></a> Poison Toad 15x</td>
+</tr>
+<tr>
+<td>Floor 18</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1063.gif" data-desc-position="bottom"><img alt="1063" src="../assets/mob/1063.gif"></a> Lunatic 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1322.gif" data-desc-position="bottom"><img alt="1322" src="../assets/mob/1322.gif"></a> Spring Rabbit 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1093.gif" data-desc-position="bottom"><img alt="1093" src="../assets/mob/1093.gif"></a> Eclipse 1x</td>
+</tr>
+<tr>
+<td>Floor 19</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1057.gif" data-desc-position="bottom"><img alt="1057" src="../assets/mob/1057.gif"></a> Yoyo 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1585.gif" data-desc-position="bottom"><img alt="1585" src="../assets/mob/1585.gif"></a> Mime Monkey 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1214.gif" data-desc-position="bottom"><img alt="1214" src="../assets/mob/1214.gif"></a> Choco 1x</td>
+</tr>
+<tr>
+<td>Floor 20</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1036.gif" data-desc-position="bottom"><img alt="1036" src="../assets/mob/1036.gif"></a> Ghoul 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1151.gif" data-desc-position="bottom"><img alt="1151" src="../assets/mob/1151.gif"></a> Myst 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1176.gif" data-desc-position="bottom"><img alt="1176" src="../assets/mob/1176.gif"></a> Vitata 10x</td>
+</tr>
+<tr>
+<td>Floor 21</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1174.gif" data-desc-position="bottom"><img alt="1174" src="../assets/mob/1174.gif"></a> Stainer 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1211.gif" data-desc-position="bottom"><img alt="1211" src="../assets/mob/1211.gif"></a> Brilight 20x</td>
+</tr>
+<tr>
+<td>Floor 22</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1045.gif" data-desc-position="bottom"><img alt="1045" src="../assets/mob/1045.gif"></a> Marc 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1279.gif" data-desc-position="bottom"><img alt="1279" src="../assets/mob/1279.gif"></a> Tri Joint 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1317.gif" data-desc-position="bottom"><img alt="1317" src="../assets/mob/1317.gif"></a> Fur Seal 15x</td>
+</tr>
+<tr>
+<td>Floor 23</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1880.gif" data-desc-position="bottom"><img alt="1880" src="../assets/mob/1880.gif"></a> Wood Goblin 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1881.gif" data-desc-position="bottom"><img alt="1881" src="../assets/mob/1881.gif"></a> Les 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1884.gif" data-desc-position="bottom"><img alt="1884" src="../assets/mob/1884.gif"></a> Mavka 10x</td>
+</tr>
+<tr>
+<td>Floor 24</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1882.gif" data-desc-position="bottom"><img alt="1882" src="../assets/mob/1882.gif"></a> Babayaga 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1883.gif" data-desc-position="bottom"><img alt="1883" src="../assets/mob/1883.gif"></a> Uzhas 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1885.gif" data-desc-position="bottom"><img alt="1885" src="../assets/mob/1885.gif"></a> Gopinich 1x</td>
+</tr>
+<tr>
+<td>Floor 25</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1072.gif" data-desc-position="bottom"><img alt="1072" src="../assets/mob/1072.gif"></a> Kaho 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1367.gif" data-desc-position="bottom"><img alt="1367" src="../assets/mob/1367.gif"></a> Blazzer 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1380.gif" data-desc-position="bottom"><img alt="1380" src="../assets/mob/1380.gif"></a> Driller 15x</td>
+</tr>
+<tr>
+<td>Floor 26</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1110.gif" data-desc-position="bottom"><img alt="1110" src="../assets/mob/1110.gif"></a> Dokebi 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1301.gif" data-desc-position="bottom"><img alt="1301" src="../assets/mob/1301.gif"></a> Am Mut 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1281.gif" data-desc-position="bottom"><img alt="1281" src="../assets/mob/1281.gif"></a> Sageworm 10x</td>
+</tr>
+<tr>
+<td>Floor 27</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1166.gif" data-desc-position="bottom"><img alt="1166" src="../assets/mob/1166.gif"></a> Savage 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1311.gif" data-desc-position="bottom"><img alt="1311" src="../assets/mob/1311.gif"></a> Gullinbursti 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1372.gif" data-desc-position="bottom"><img alt="1372" src="../assets/mob/1372.gif"></a> Goat 10x</td>
+</tr>
+<tr>
+<td>Floor 28</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1494.gif" data-desc-position="bottom"><img alt="1494" src="../assets/mob/1494.gif"></a> Bettle King 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1518.gif" data-desc-position="bottom"><img alt="1518" src="../assets/mob/1518.gif"></a> Bacsojin 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1519.gif" data-desc-position="bottom"><img alt="1519" src="../assets/mob/1519.gif"></a> Chung E 10x</td>
+</tr>
+<tr>
+<td>Floor 29</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1164.gif" data-desc-position="bottom"><img alt="1164" src="../assets/mob/1164.gif"></a> Requiem 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1178.gif" data-desc-position="bottom"><img alt="1178" src="../assets/mob/1178.gif"></a> Zerom 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1290.gif" data-desc-position="bottom"><img alt="1290" src="../assets/mob/1290.gif"></a> Skeleton General 10x</td>
+</tr>
+<tr>
+<td>Floor 30</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1586.gif" data-desc-position="bottom"><img alt="1586" src="../assets/mob/1586.gif"></a> Leaf Cat 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1261.gif" data-desc-position="bottom"><img alt="1261" src="../assets/mob/1261.gif"></a> Wild Rose 25x</td>
+</tr>
+<tr>
+<td>Floor 31</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1114.gif" data-desc-position="bottom"><img alt="1114" src="../assets/mob/1114.gif"></a> Dustiness 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1304.gif" data-desc-position="bottom"><img alt="1304" src="../assets/mob/1304.gif"></a> Giant Spider 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1619.gif" data-desc-position="bottom"><img alt="1619" src="../assets/mob/1619.gif"></a> Porcellio 10x</td>
+</tr>
+<tr>
+<td>Floor 32</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1614.gif" data-desc-position="bottom"><img alt="1614" src="../assets/mob/1614.gif"></a> Mineral 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1617.gif" data-desc-position="bottom"><img alt="1617" src="../assets/mob/1617.gif"></a> Waste Stove 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1620.gif" data-desc-position="bottom"><img alt="1620" src="../assets/mob/1620.gif"></a> Noxious 10x</td>
+</tr>
+<tr>
+<td>Floor 33</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1102.gif" data-desc-position="bottom"><img alt="1102" src="../assets/mob/1102.gif"></a> Bathory 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1170.gif" data-desc-position="bottom"><img alt="1170" src="../assets/mob/1170.gif"></a> Sohee 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1390.gif" data-desc-position="bottom"><img alt="1390" src="../assets/mob/1390.gif"></a> Violy 15x</td>
+</tr>
+<tr>
+<td>Floor 34</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1321.gif" data-desc-position="bottom"><img alt="1321" src="../assets/mob/1321.gif"></a> Dragon Tail 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1368.gif" data-desc-position="bottom"><img alt="1368" src="../assets/mob/1368.gif"></a> Geographer 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1391.gif" data-desc-position="bottom"><img alt="1391" src="../assets/mob/1391.gif"></a> Galapago 15x</td>
+</tr>
+<tr>
+<td>Floor 35</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1409.gif" data-desc-position="bottom"><img alt="1409" src="../assets/mob/1409.gif"></a> Rice Cake Boy 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1520.gif" data-desc-position="bottom"><img alt="1520" src="../assets/mob/1520.gif"></a> Boiled Rice 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1415.gif" data-desc-position="bottom"><img alt="1415" src="../assets/mob/1415.gif"></a> Baby Leopard 15x</td>
+</tr>
+<tr>
+<td>Floor 36</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1506.gif" data-desc-position="bottom"><img alt="1506" src="../assets/mob/1506.gif"></a> Disguise 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1198.gif" data-desc-position="bottom"><img alt="1198" src="../assets/mob/1198.gif"></a> Dark Priest 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1373.gif" data-desc-position="bottom"><img alt="1373" src="../assets/mob/1373.gif"></a> Lord of Death 1x</td>
+</tr>
+<tr>
+<td>Floor 37</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1498.gif" data-desc-position="bottom"><img alt="1498" src="../assets/mob/1498.gif"></a> Wootan Shooter 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1499.gif" data-desc-position="bottom"><img alt="1499" src="../assets/mob/1499.gif"></a> Wootan Fighter 25x</td>
+</tr>
+<tr>
+<td>Floor 38</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1628.gif" data-desc-position="bottom"><img alt="1628" src="../assets/mob/1628.gif"></a> Mole 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1289.gif" data-desc-position="bottom"><img alt="1289" src="../assets/mob/1289.gif"></a> Maya Purple 10x</td>
+</tr>
+<tr>
+<td>Floor 39</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1981.gif" data-desc-position="bottom"><img alt="1981" src="../assets/mob/1981.gif"></a> Safeguard Chief 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1982.gif" data-desc-position="bottom"><img alt="1982" src="../assets/mob/1982.gif"></a> Orc Sniper 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1983.gif" data-desc-position="bottom"><img alt="1983" src="../assets/mob/1983.gif"></a> Depraved Orc Spirit 10x</td>
+</tr>
+<tr>
+<td>Floor 40</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1664.gif" data-desc-position="bottom"><img alt="1664" src="../assets/mob/1664.gif"></a> Photon Cannon 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1665.gif" data-desc-position="bottom"><img alt="1665" src="../assets/mob/1665.gif"></a> Photon Cannon 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1666.gif" data-desc-position="bottom"><img alt="1666" src="../assets/mob/1666.gif"></a> Photon Cannon 10x</td>
+</tr>
+<tr>
+<td>Floor 41</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1682.gif" data-desc-position="bottom"><img alt="1682" src="../assets/mob/1682.gif"></a> Remover 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1681.gif" data-desc-position="bottom"><img alt="1681" src="../assets/mob/1681.gif"></a> Gemini-S58 25x</td>
+</tr>
+<tr>
+<td>Floor 42</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1692.gif" data-desc-position="bottom"><img alt="1692" src="../assets/mob/1692.gif"></a> Breeze 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1782.gif" data-desc-position="bottom"><img alt="1782" src="../assets/mob/1782.gif"></a> Roween 30x</td>
+</tr>
+<tr>
+<td>Floor 43</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1632.gif" data-desc-position="bottom"><img alt="1632" src="../assets/mob/1632.gif"></a> Gremlin 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1773.gif" data-desc-position="bottom"><img alt="1773" src="../assets/mob/1773.gif"></a> Hodremlin 25x</td>
+</tr>
+<tr>
+<td>Floor 44</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1715.gif" data-desc-position="bottom"><img alt="1715" src="../assets/mob/1715.gif"></a> Novus 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1716.gif" data-desc-position="bottom"><img alt="1716" src="../assets/mob/1716.gif"></a> Novus 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1719.gif" data-desc-position="bottom"><img alt="1719" src="../assets/mob/1719.gif"></a> Detale 1x</td>
+</tr>
+<tr>
+<td>Floor 45</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1061.gif" data-desc-position="bottom"><img alt="1061" src="../assets/mob/1061.gif"></a> Nightmare 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1379.gif" data-desc-position="bottom"><img alt="1379" src="../assets/mob/1379.gif"></a> Nightmare Terror 25x</td>
+</tr>
+<tr>
+<td>Floor 46</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1975.gif" data-desc-position="bottom"><img alt="1975" src="../assets/mob/1975.gif"></a> Beholder Master 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1633.gif" data-desc-position="bottom"><img alt="1633" src="../assets/mob/1633.gif"></a> Beholder 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1774.gif" data-desc-position="bottom"><img alt="1774" src="../assets/mob/1774.gif"></a> Seeker 15x</td>
+</tr>
+<tr>
+<td>Floor 47</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1976.gif" data-desc-position="bottom"><img alt="1976" src="../assets/mob/1976.gif"></a> Cobalt Mineral 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1977.gif" data-desc-position="bottom"><img alt="1977" src="../assets/mob/1977.gif"></a> Heavy Metaling 25x</td>
+</tr>
+<tr>
+<td>Floor 48</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1735.gif" data-desc-position="bottom"><img alt="1735" src="../assets/mob/1735.gif"></a> Alicel 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1738.gif" data-desc-position="bottom"><img alt="1738" src="../assets/mob/1738.gif"></a> Constant 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1734.gif" data-desc-position="bottom"><img alt="1734" src="../assets/mob/1734.gif"></a> Kiel D-01 1x</td>
+</tr>
+<tr>
+<td>Floor 49</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1753.gif" data-desc-position="bottom"><img alt="1753" src="../assets/mob/1753.gif"></a> Frus 55x</td>
+</tr>
+<tr>
+<td>Floor 50</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1978.gif" data-desc-position="bottom"><img alt="1978" src="../assets/mob/1978.gif"></a> Hell Apocalips 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1365.gif" data-desc-position="bottom"><img alt="1365" src="../assets/mob/1365.gif"></a> Apocalips 25x</td>
+</tr>
+<tr>
+<td>Floor 51</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1979.gif" data-desc-position="bottom"><img alt="1979" src="../assets/mob/1979.gif"></a> Zakudam 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1668.gif" data-desc-position="bottom"><img alt="1668" src="../assets/mob/1668.gif"></a> Archdam 25x</td>
+</tr>
+<tr>
+<td>Floor 52</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1796.gif" data-desc-position="bottom"><img alt="1796" src="../assets/mob/1796.gif"></a> Aunoe 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1797.gif" data-desc-position="bottom"><img alt="1797" src="../assets/mob/1797.gif"></a> Fanat 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1768.gif" data-desc-position="bottom"><img alt="1768" src="../assets/mob/1768.gif"></a> Gloom Under Night 1x</td>
+</tr>
+<tr>
+<td>Floor 53</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1291.gif" data-desc-position="bottom"><img alt="1291" src="../assets/mob/1291.gif"></a> Wraith Dead 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1297.gif" data-desc-position="bottom"><img alt="1297" src="../assets/mob/1297.gif"></a> Ancient Mummy 20x</td>
+</tr>
+<tr>
+<td>Floor 54</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1776.gif" data-desc-position="bottom"><img alt="1776" src="../assets/mob/1776.gif"></a> Siroma 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1775.gif" data-desc-position="bottom"><img alt="1775" src="../assets/mob/1775.gif"></a> Snowier 20x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1777.gif" data-desc-position="bottom"><img alt="1777" src="../assets/mob/1777.gif"></a> Ice Titan 10x</td>
+</tr>
+<tr>
+<td>Floor 55</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1789.gif" data-desc-position="bottom"><img alt="1789" src="../assets/mob/1789.gif"></a> Iceicle 75x</td>
+</tr>
+<tr>
+<td>Floor 56</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1778.gif" data-desc-position="bottom"><img alt="1778" src="../assets/mob/1778.gif"></a> Gazeti 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1779.gif" data-desc-position="bottom"><img alt="1779" src="../assets/mob/1779.gif"></a> Ktullanux 1x</td>
+</tr>
+<tr>
+<td>Floor 57</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1836.gif" data-desc-position="bottom"><img alt="1836" src="../assets/mob/1836.gif"></a> Magmaring 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1838.gif" data-desc-position="bottom"><img alt="1838" src="../assets/mob/1838.gif"></a> Knocker 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1837.gif" data-desc-position="bottom"><img alt="1837" src="../assets/mob/1837.gif"></a> Imp 15x</td>
+</tr>
+<tr>
+<td>Floor 58</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1120.gif" data-desc-position="bottom"><img alt="1120" src="../assets/mob/1120.gif"></a> Ghostring 3x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1096.gif" data-desc-position="bottom"><img alt="1096" src="../assets/mob/1096.gif"></a> Angeling 3x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1582.gif" data-desc-position="bottom"><img alt="1582" src="../assets/mob/1582.gif"></a> Deviling 3x</td>
+</tr>
+<tr>
+<td>Floor 59</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1704.gif" data-desc-position="bottom"><img alt="1704" src="../assets/mob/1704.gif"></a> Thanatos Odium 12x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1705.gif" data-desc-position="bottom"><img alt="1705" src="../assets/mob/1705.gif"></a> Thanatos Despero 12x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1706.gif" data-desc-position="bottom"><img alt="1706" src="../assets/mob/1706.gif"></a> Thanatos Maero 12x</td>
+</tr>
+<tr>
+<td>Floor 60</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1708.gif" data-desc-position="bottom"><img alt="1708" src="../assets/mob/1708.gif"></a> Thanatos Phantom 1x</td>
+</tr>
+<tr>
+<td>Floor 61</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1713.gif" data-desc-position="bottom"><img alt="1713" src="../assets/mob/1713.gif"></a> Acidus 40x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1677.gif" data-desc-position="bottom"><img alt="1677" src="../assets/mob/1677.gif"></a> Venatu 40x</td>
+</tr>
+<tr>
+<td>Floor 62</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1982.gif" data-desc-position="bottom"><img alt="1982" src="../assets/mob/1982.gif"></a> Orc Sniper 60x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1268.gif" data-desc-position="bottom"><img alt="1268" src="../assets/mob/1268.gif"></a> Bloody Knight 30x</td>
+</tr>
+<tr>
+<td>Floor 63</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1716.gif" data-desc-position="bottom"><img alt="1716" src="../assets/mob/1716.gif"></a> Acidus 50x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1370.gif" data-desc-position="bottom"><img alt="1370" src="../assets/mob/1370.gif"></a> Succubus 20x</td>
+</tr>
+<tr>
+<td>Floor 64</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1769.gif" data-desc-position="bottom"><img alt="1769" src="../assets/mob/1769.gif"></a> Agav 15x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1046.gif" data-desc-position="bottom"><img alt="1046" src="../assets/mob/1046.gif"></a> DoppelGanger 2x</td>
+</tr>
+<tr>
+<td>Floor 65</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1739.gif" data-desc-position="bottom"><img alt="1739" src="../assets/mob/1739.gif"></a> Alicel 50x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1740.gif" data-desc-position="bottom"><img alt="1740" src="../assets/mob/1740.gif"></a> Aliot 25x</td>
+</tr>
+<tr>
+<td>Floor 66</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1315.gif" data-desc-position="bottom"><img alt="1315" src="../assets/mob/1315.gif"></a> Assaulter 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1283.gif" data-desc-position="bottom"><img alt="1283" src="../assets/mob/1283.gif"></a> Chimera 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1319.gif" data-desc-position="bottom"><img alt="1319" src="../assets/mob/1319.gif"></a> Freezer 40x</td>
+</tr>
+<tr>
+<td>Floor 67</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1507.gif" data-desc-position="bottom"><img alt="1507" src="../assets/mob/1507.gif"></a> Bloody Murderer 30x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1302.gif" data-desc-position="bottom"><img alt="1302" src="../assets/mob/1302.gif"></a> Dark Illusion 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1366.gif" data-desc-position="bottom"><img alt="1366" src="../assets/mob/1366.gif"></a> Lava Golem 20x</td>
+</tr>
+<tr>
+<td>Floor 68</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1259.gif" data-desc-position="bottom"><img alt="1259" src="../assets/mob/1259.gif"></a> Gryphon 10x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1418.gif" data-desc-position="bottom"><img alt="1418" src="../assets/mob/1418.gif"></a> Evil Snake Lord 2x</td>
+</tr>
+<tr>
+<td>Floor 69</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1681.gif" data-desc-position="bottom"><img alt="1681" src="../assets/mob/1681.gif"></a> S-Gemini 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1837.gif" data-desc-position="bottom"><img alt="1837" src="../assets/mob/1837.gif"></a> Imp 25x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1374.gif" data-desc-position="bottom"><img alt="1374" src="../assets/mob/1374.gif"></a> Incubus 25x</td>
+</tr>
+<tr>
+<td>Floor 70</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1219.gif" data-desc-position="bottom"><img alt="1219" src="../assets/mob/1219.gif"></a> Abysmal Knight 35x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1505.gif" data-desc-position="bottom"><img alt="1505" src="../assets/mob/1505.gif"></a> Luli Ruri 15x</td>
+</tr>
+<tr>
+<td>Floor 71</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1203.gif" data-desc-position="bottom"><img alt="1203" src="../assets/mob/1203.gif"></a> Mysteltainn 12x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1295.gif" data-desc-position="bottom"><img alt="1295" src="../assets/mob/1295.gif"></a> Owl Baron 12x</td>
+</tr>
+<tr>
+<td>Floor 72</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1112.gif" data-desc-position="bottom"><img alt="1112" src="../assets/mob/1112.gif"></a> Drake 1x</td>
+</tr>
+<tr>
+<td>Floor 73</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1839.gif" data-desc-position="bottom"><img alt="1839" src="../assets/mob/1839.gif"></a> Byorgue 16x</td>
+</tr>
+<tr>
+<td>Floor 74</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1640.gif" data-desc-position="bottom"><img alt="1640" src="../assets/mob/1640.gif"></a> Lord Knight Seyren 2x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1641.gif" data-desc-position="bottom"><img alt="1641" src="../assets/mob/1641.gif"></a> Assassin Cross Eremes 2x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1642.gif" data-desc-position="bottom"><img alt="1642" src="../assets/mob/1642.gif"></a> Whitesmith Howard 2x</td>
+</tr>
+<tr>
+<td>Floor 75</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1268.gif" data-desc-position="bottom"><img alt="1268" src="../assets/mob/1268.gif"></a> Bloody Knight 7x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1830.gif" data-desc-position="bottom"><img alt="1830" src="../assets/mob/1830.gif"></a> Bow Master 7x <br><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1671.gif" data-desc-position="bottom"><img alt="1671" src="../assets/mob/1671.gif"></a> Dimik 7x</td>
+</tr>
+<tr>
+<td>Floor 76</td>
+<td><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../assets/mob/1832.gif" data-desc-position="bottom"><img alt="1832" src="../assets/mob/1832.gif"></a> Ifrit 1x</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.instant.preview", "navigation.tracking", "navigation.sections", "toc.follow", "content.tabs.link"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>

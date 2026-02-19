@@ -1,0 +1,2769 @@
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://valkariaro.com/random-option/">
+      
+      
+        <link rel="prev" href="../getting-started/">
+      
+      
+        <link rel="next" href="../adjusted-price/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.2">
+    
+    
+      
+        <title>⚡️ Random Options - VALRO Documentations</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../stylesheets/neoteroi-mkdocs.css">
+    
+      <link rel="stylesheet" href="../stylesheets/neoteroi-timeline.css">
+    
+      <link rel="stylesheet" href="../stylesheets/neoteroi-mkdocs.min.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#note" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="VALRO Documentations" class="md-header__button md-logo" aria-label="VALRO Documentations" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            VALRO Documentations
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              ⚡️ Random Options
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo" aria-label="Switch to dark mode" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="indigo" aria-label="Switch to light mode" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="VALRO Documentations" class="md-nav__button md-logo" aria-label="VALRO Documentations" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    VALRO Documentations
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1">
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ValRO Guides
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    ValRO Guides
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👋 Welcome To Valkaria
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../server-info/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ℹ️ Server Info
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../getting-started/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🚩 Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Server features
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Server features
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚡️ Random Options
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../adjusted-price/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💸 Adjusted Price
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../card-trader/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🃏 Card Trader
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../coin-system/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🪙 Coin System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cute-pet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🦜 Cute Pets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../daily-quest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📜 Daily Quests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../healer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🩹 Healer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hunting-mission/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎯 Hunting Missions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mvp-features/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💪 MVP Features
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../warper-quest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌀 Warper System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../headgear-quest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👹 Headgear Quest
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3">
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Custom Features
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Custom Features
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../stat-discipline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐉 Stats Discipline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../endless-cellar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧱 Endless Cellar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../halloween/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎃 Halloween Event
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../horrortoyfactory/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧸 Horror Toy Factory
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mecho/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🤖 Mechromatrix
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../koe/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚜️ King of Emperium
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4">
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Economy Guides
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Economy Guides
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../marketplace/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📈 Marketplace
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mysterymarket/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔎 Mystery Market
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vendor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💰 Vendor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5">
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Troubleshooting
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Troubleshooting
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    📕 Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../troubleshoot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🛠️ Common Issues
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../supportus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💡 Support Us
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="note">Note</h1>
+<p>This page is still under construction. Please check back later for updates.</p>
+<h1 id="random-options-system">🌀 Random Options System</h1>
+<p>Your ValkariaRO adventure just got even more exciting! Our server features a unique <strong>Random Options System</strong> that adds extra stats to equipment dropped by monsters. These random bonuses make farming and hunting more rewarding, giving you the thrill of discovering powerful gear.</p>
+<hr>
+<h2 id="how-it-works">🔍 How It Works</h2>
+<ul>
+<li>Only <strong>equipment dropped by monsters</strong> can have random options.</li>
+<li>Random options are grouped based on equipment type: <strong>Melee</strong>, <strong>Ranged</strong>, <strong>Magic</strong>, and <strong>Armor</strong>.</li>
+<li>Each eligible item will receive <strong>3 options</strong>, from all category.</li>
+<li>These options are automatically rolled when the item drops.</li>
+<li>Random options maintained after card socket</li>
+<li>All options are considered <strong>Level 1 Tier</strong> for now — more may come in future expansions!</li>
+</ul>
+<hr>
+<h2 id="melee-weapon-options-level-1">⚔️ Melee Weapon Options (Level 1)</h2>
+<table>
+<thead>
+<tr>
+<th>Slot 1 (Base)</th>
+<th>Slot 2 (Utility)</th>
+<th>Slot 3 (Special)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ATK +5~10</td>
+<td>Decrease Cast Time 1~5%</td>
+<td>Damage to Neutral Race 1~5%</td>
+</tr>
+<tr>
+<td>STR +1</td>
+<td>Max HP +100~150</td>
+<td>Damage to Undead Race 1~5%</td>
+</tr>
+<tr>
+<td>INT +1</td>
+<td>Max SP +25~50</td>
+<td>Damage to Animal Race 1~5%</td>
+</tr>
+<tr>
+<td>AGI +1</td>
+<td>HIT +5~7</td>
+<td>Damage to Plant Race 1~5%</td>
+</tr>
+<tr>
+<td>LUK +1</td>
+<td>Critical Damage +1~5%</td>
+<td>Damage to Insect Race 1~5%</td>
+</tr>
+<tr>
+<td>VIT +1</td>
+<td>Damage to Boss 1~5%</td>
+<td>Damage to Fish Race 1~5%</td>
+</tr>
+<tr>
+<td>DEX +1</td>
+<td>Damage to Small Size 1~4%</td>
+<td>Damage to Angel Race 1~5%</td>
+</tr>
+<tr>
+<td>CRIT Rate +2~5</td>
+<td>Damage to Medium Size 1~4%</td>
+<td>Damage to Dragon Race 1~5%</td>
+</tr>
+<tr>
+<td>SP Cost -3~6%</td>
+<td>Damage to Large Size 1~4%</td>
+<td>Damage to Demon Race 1~5%</td>
+</tr>
+<tr>
+<td>ASPD +1~3</td>
+<td></td>
+<td>Damage to Human Race 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Elemental Damage (Neutral~Undead) 1~5%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="ranged-weapon-options-level-1">🏹 Ranged Weapon Options (Level 1)</h2>
+<p>Same structure as melee, but with a few additions specific to ranged playstyle.</p>
+<table>
+<thead>
+<tr>
+<th>SLOT 1</th>
+<th>SLOT 2</th>
+<th>SLOT 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atk 5~10</td>
+<td>DEC SPELL CAST 1~5</td>
+<td>RACE DMG TO NEUTRAL 1~5%</td>
+</tr>
+<tr>
+<td>STR 1</td>
+<td>INC MAXHP 100~150</td>
+<td>RACE DMG TO UNDEAD 1~5%</td>
+</tr>
+<tr>
+<td>INT 1</td>
+<td>INT MAXSP 25~50</td>
+<td>RACE DMG TO ANIMAL 1~5%</td>
+</tr>
+<tr>
+<td>AGI 1</td>
+<td>HIT 5~7</td>
+<td>RACE DMG TO PLANT 1~5%</td>
+</tr>
+<tr>
+<td>LUK 1</td>
+<td>INC CRIT DMG 1~5%</td>
+<td>RACE DMG TO INSECT 1~5%</td>
+</tr>
+<tr>
+<td>VIT 1</td>
+<td>DMG TO BOSS 1~5%</td>
+<td>RACE DMG TO FISH 1~5%</td>
+</tr>
+<tr>
+<td>DEX 1</td>
+<td>DMG TO SMALL 1~4%</td>
+<td>RACE DMG TO ANGEL 1~5%</td>
+</tr>
+<tr>
+<td>CRIT RATE 2~5%</td>
+<td>DMG TO MED 1~4%</td>
+<td>RACE DMG TO DRAGON 1~5%</td>
+</tr>
+<tr>
+<td>REDUCE SP CONSUMPTION 3~6%</td>
+<td>DMG TO LARGE 1~4%</td>
+<td>RACE DMG TO DEMON 1~5%</td>
+</tr>
+<tr>
+<td>ASPD 1~3%</td>
+<td>RANGE ATK DMG 1~4%</td>
+<td>RACE DMG TO HUMAN 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO NEUTRAL ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO WATER ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO EARTH ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO FIRE ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO WIND ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO POISON ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO HOLY ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO SHADOW ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO GHOST ELEMENT 1~5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO UNDEAD ELEMENT 1~5%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="magic-weapon-options-level-1">🔮 Magic Weapon Options (Level 1)</h2>
+<p>Tailored for spellcasters and magic users.</p>
+<table>
+<thead>
+<tr>
+<th>SLOT 1</th>
+<th>SLOT 2</th>
+<th>SLOT 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MAtk 5~10</td>
+<td>DEC SPELL CAST 1~5</td>
+<td>RACE IGNR MDEF NEUTRAL 5~10%</td>
+</tr>
+<tr>
+<td>STR 1~1</td>
+<td>INC MAXHP PERCENTAGE 1~3%</td>
+<td>RACE IGNR MDEF UNDEAD 5~10%</td>
+</tr>
+<tr>
+<td>INT 1~1</td>
+<td>INC MAXSP PERCENTAGE 1~3%</td>
+<td>RACE IGNR MDEF ANIMAL 5~10%</td>
+</tr>
+<tr>
+<td>AGI 1~1</td>
+<td>ASPD 1~5%</td>
+<td>RACE IGNR MDEF PLANT 5~10%</td>
+</tr>
+<tr>
+<td>LUK 1~1</td>
+<td>MDMG TO BOSS 1~5%</td>
+<td>RACE IGNR MDEF INSECT 5~10%</td>
+</tr>
+<tr>
+<td>VIT 1~1</td>
+<td>DEC AFTER CAST DELAY 1~5%</td>
+<td>RACE IGNR MDEF FISH 5~10%</td>
+</tr>
+<tr>
+<td>DEX 1~1</td>
+<td>REDUCE SP CONSUMPTION 4~6%</td>
+<td>RACE IGNR MDEF ANGEL 5~10%</td>
+</tr>
+<tr>
+<td>INC MAXHP 100~150</td>
+<td></td>
+<td>RACE IGNR MDEF DRAGON 5~10%</td>
+</tr>
+<tr>
+<td>INT MAXSP 25~50</td>
+<td></td>
+<td>RACE IGNR MDEF DEMON 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>RACE IGNR MDEF HUMAN 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF NEUTRAL ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF WATER ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF EARTH ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF FIRE ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF WIND ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF POISON ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF HOLY ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF SHADOW ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF GHOST ELEMENT 5~10%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF UNDEAD ELEMENT 5~10%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="melee-weapon-options-level-2">⚔️ Melee Weapon Options — Level 2</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Slot 1</strong></th>
+<th><strong>Slot 2</strong></th>
+<th><strong>Slot 3</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atk 10~20</td>
+<td>Decrease Spell Cast 2~6%</td>
+<td>Race Damage to Neutral 2~6%</td>
+</tr>
+<tr>
+<td>STR +1~2</td>
+<td>Increase Max HP 150~300</td>
+<td>Race Damage to Undead 2~6%</td>
+</tr>
+<tr>
+<td>INT +1~2</td>
+<td>Increase Max SP 30~60</td>
+<td>Race Damage to Animal 2~6%</td>
+</tr>
+<tr>
+<td>AGI +1~2</td>
+<td>HIT +6~9</td>
+<td>Race Damage to Plant 2~6%</td>
+</tr>
+<tr>
+<td>LUK +1~2</td>
+<td>Increase Crit Damage 3~7%</td>
+<td>Race Damage to Insect 2~6%</td>
+</tr>
+<tr>
+<td>VIT +1~2</td>
+<td>Damage to Boss 2~7%</td>
+<td>Race Damage to Fish 2~6%</td>
+</tr>
+<tr>
+<td>DEX +1~2</td>
+<td>Damage to Small 2~7%</td>
+<td>Race Damage to Angel 2~6%</td>
+</tr>
+<tr>
+<td>Critical Rate +3~7%</td>
+<td>Damage to Medium 2~7%</td>
+<td>Race Damage to Dragon 2~6%</td>
+</tr>
+<tr>
+<td>Reduce SP Consumption 4~8%</td>
+<td>Damage to Large 2~7%</td>
+<td>Race Damage to Demon 2~6%</td>
+</tr>
+<tr>
+<td>ASPD +2~6%</td>
+<td></td>
+<td>Race Damage to Human 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Neutral Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Water Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Earth Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Fire Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Wind Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Poison Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Holy Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Shadow Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Ghost Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Undead Element 2~6%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="ranged-weapon-options-level-2">🏹 Ranged Weapon Options — Level 2</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Slot 1</strong></th>
+<th><strong>Slot 2</strong></th>
+<th><strong>Slot 3</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atk 10~20</td>
+<td>Decrease Spell Cast 2~6%</td>
+<td>Race Damage to Neutral 2~6%</td>
+</tr>
+<tr>
+<td>STR +1~2</td>
+<td>Increase Max HP 150~300</td>
+<td>Race Damage to Undead 2~6%</td>
+</tr>
+<tr>
+<td>INT +1~2</td>
+<td>Increase Max SP 30~60</td>
+<td>Race Damage to Animal 2~6%</td>
+</tr>
+<tr>
+<td>AGI +1~2</td>
+<td>HIT +6~9</td>
+<td>Race Damage to Plant 2~6%</td>
+</tr>
+<tr>
+<td>LUK +1~2</td>
+<td>Increase Crit Damage 3~7%</td>
+<td>Race Damage to Insect 2~6%</td>
+</tr>
+<tr>
+<td>VIT +1~2</td>
+<td>Damage to Boss 2~7%</td>
+<td>Race Damage to Fish 2~6%</td>
+</tr>
+<tr>
+<td>DEX +1~2</td>
+<td>Damage to Small 2~7%</td>
+<td>Race Damage to Angel 2~6%</td>
+</tr>
+<tr>
+<td>Critical Rate +3~7%</td>
+<td>Damage to Medium 2~7%</td>
+<td>Race Damage to Dragon 2~6%</td>
+</tr>
+<tr>
+<td>Reduce SP Consumption 4~8%</td>
+<td>Damage to Large 2~7%</td>
+<td>Race Damage to Demon 2~6%</td>
+</tr>
+<tr>
+<td>ASPD +2~6%</td>
+<td>Range ATK Damage 2~6%</td>
+<td>Race Damage to Human 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Neutral Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Water Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Earth Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Fire Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Wind Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Poison Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Holy Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Shadow Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Ghost Element 2~6%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Undead Element 2~6%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="magic-weapon-options-level-2">🔮 Magic Weapon Options — Level 2</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Slot 1</strong></th>
+<th><strong>Slot 2</strong></th>
+<th><strong>Slot 3</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MAtk 5~10</td>
+<td>Decrease Spell Cast 2~6%</td>
+<td>Race Ignore MDEF Neutral 10~15%</td>
+</tr>
+<tr>
+<td>STR +1~2</td>
+<td>Increase Max HP % 2~4%</td>
+<td>Race Ignore MDEF Undead 10~15%</td>
+</tr>
+<tr>
+<td>INT +1~2</td>
+<td>Increase Max SP % 2~4%</td>
+<td>Race Ignore MDEF Animal 10~15%</td>
+</tr>
+<tr>
+<td>AGI +1~2</td>
+<td>ASPD +2~6%</td>
+<td>Race Ignore MDEF Plant 10~15%</td>
+</tr>
+<tr>
+<td>LUK +1~2</td>
+<td>Magic Damage to Boss 1~5%</td>
+<td>Race Ignore MDEF Insect 10~15%</td>
+</tr>
+<tr>
+<td>VIT +1~2</td>
+<td>Decrease After Cast Delay 2~6%</td>
+<td>Race Ignore MDEF Fish 10~15%</td>
+</tr>
+<tr>
+<td>DEX +1~2</td>
+<td>Reduce SP Consumption 4~8%</td>
+<td>Race Ignore MDEF Angel 10~15%</td>
+</tr>
+<tr>
+<td>Increase Max HP 150~300</td>
+<td></td>
+<td>Race Ignore MDEF Dragon 10~15%</td>
+</tr>
+<tr>
+<td>Increase Max SP 40~75</td>
+<td></td>
+<td>Race Ignore MDEF Demon 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Race Ignore MDEF Human 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Neutral Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Water Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Earth Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Fire Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Wind Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Poison Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Holy Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Shadow Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Ghost Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Ignore MDEF Undead Element 10~15%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="melee-weapon-options-level-3">⚔️ Melee Weapon Options — Level 3</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Slot 1</strong></th>
+<th><strong>Slot 2</strong></th>
+<th><strong>Slot 3</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atk 20~35</td>
+<td>Decrease Spell Cast 3~8%</td>
+<td>Race Damage to Neutral 10~15%</td>
+</tr>
+<tr>
+<td>STR +1~3</td>
+<td>Increase Max HP 300~350</td>
+<td>Race Damage to Undead 10~15%</td>
+</tr>
+<tr>
+<td>INT +1~3</td>
+<td>Increase Max SP 40~70</td>
+<td>Race Damage to Animal 10~15%</td>
+</tr>
+<tr>
+<td>AGI +1~3</td>
+<td>HIT +7~10</td>
+<td>Race Damage to Plant 10~15%</td>
+</tr>
+<tr>
+<td>LUK +1~3</td>
+<td>Increase Crit Damage 8~12%</td>
+<td>Race Damage to Insect 10~15%</td>
+</tr>
+<tr>
+<td>VIT +1~3</td>
+<td>Damage to Boss 8~12%</td>
+<td>Race Damage to Fish 10~15%</td>
+</tr>
+<tr>
+<td>DEX +1~3</td>
+<td>Damage to Small 8~12%</td>
+<td>Race Damage to Angel 10~15%</td>
+</tr>
+<tr>
+<td>Critical Rate +5~9%</td>
+<td>Damage to Medium 8~12%</td>
+<td>Race Damage to Dragon 10~15%</td>
+</tr>
+<tr>
+<td>Reduce SP Consumption 5~10%</td>
+<td>Damage to Large 8~12%</td>
+<td>Race Damage to Demon 10~15%</td>
+</tr>
+<tr>
+<td>ASPD +5~10%</td>
+<td></td>
+<td>Race Damage to Human 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Neutral Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Water Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Earth Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Fire Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Wind Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Poison Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Holy Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Shadow Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Ghost Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Undead Element 10~15%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="ranged-weapon-options-level-3">🏹 Ranged Weapon Options — Level 3</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Slot 1</strong></th>
+<th><strong>Slot 2</strong></th>
+<th><strong>Slot 3</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atk 20~35</td>
+<td>Decrease Spell Cast 3~8%</td>
+<td>Race Damage to Neutral 10~15%</td>
+</tr>
+<tr>
+<td>STR +1~3</td>
+<td>Increase Max HP 300~350</td>
+<td>Race Damage to Undead 10~15%</td>
+</tr>
+<tr>
+<td>INT +1~3</td>
+<td>Increase Max SP 40~70</td>
+<td>Race Damage to Animal 10~15%</td>
+</tr>
+<tr>
+<td>AGI +1~3</td>
+<td>HIT +7~10</td>
+<td>Race Damage to Plant 10~15%</td>
+</tr>
+<tr>
+<td>LUK +1~3</td>
+<td>Increase Crit Damage 8~12%</td>
+<td>Race Damage to Insect 10~15%</td>
+</tr>
+<tr>
+<td>VIT +1~3</td>
+<td>Damage to Boss 8~12%</td>
+<td>Race Damage to Fish 10~15%</td>
+</tr>
+<tr>
+<td>DEX +1~3</td>
+<td>Damage to Small 8~12%</td>
+<td>Race Damage to Angel 10~15%</td>
+</tr>
+<tr>
+<td>Critical Rate +5~9%</td>
+<td>Damage to Medium 8~12%</td>
+<td>Race Damage to Dragon 10~15%</td>
+</tr>
+<tr>
+<td>Reduce SP Consumption 5~10%</td>
+<td>Damage to Large 8~12%</td>
+<td>Race Damage to Demon 10~15%</td>
+</tr>
+<tr>
+<td>ASPD +3~10%</td>
+<td>Ranged ATK Damage 5~10%</td>
+<td>Race Damage to Human 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Neutral Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Water Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Earth Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Fire Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Wind Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Poison Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Holy Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Shadow Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Ghost Element 10~15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Damage to Undead Element 10~15%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="magic-weapon-options-level-3">🔮 Magic Weapon Options — Level 3</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Slot 1</strong></th>
+<th><strong>Slot 2</strong></th>
+<th><strong>Slot 3</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MAtk 15~30</td>
+<td>Decrease Spell Cast 3~8%</td>
+<td>Race Ignore MDEF Neutral 15~25%</td>
+</tr>
+<tr>
+<td>STR +1~3</td>
+<td>Increase Max HP % 3~5%</td>
+<td>Race Ignore MDEF Undead 15~25%</td>
+</tr>
+<tr>
+<td>INT +1~3</td>
+<td>Increase Max SP % 3~5%</td>
+<td>Race Ignore MDEF Animal 15~25%</td>
+</tr>
+<tr>
+<td>AGI +1~3</td>
+<td>ASPD +3~8%</td>
+<td>Race Ignore MDEF Plant 15~25%</td>
+</tr>
+<tr>
+<td>LUK +1~3</td>
+<td>Magic Damage to Boss 3~7%</td>
+<td>Race Ignore MDEF Insect 15~25%</td>
+</tr>
+<tr>
+<td>VIT +1~3</td>
+<td>Decrease After Cast Delay 3~8%</td>
+<td>Race Ignore MDEF Fish 15~25%</td>
+</tr>
+<tr>
+<td>DEX 1~3</td>
+<td>REDUCE SP CONSUMPTION 5~10%</td>
+<td>RACE IGNR MDEF ANGEL 15~25%</td>
+</tr>
+<tr>
+<td>INC MAXHP 200~350</td>
+<td></td>
+<td>RACE IGNR MDEF DRAGON 15~25%</td>
+</tr>
+<tr>
+<td>INT MAXSP 50~100</td>
+<td></td>
+<td>RACE IGNR MDEF DEMON 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>RACE IGNR MDEF HUMAN 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF NEUTRAL ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF WATER ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF EARTH ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF FIRE ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF WIND ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF POISON ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF HOLY ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF SHADOW ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF GHOST ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF UNDEAD ELEMENT 15~25%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="melee-level-4">MELEE LEVEL 4</h3>
+<table>
+<thead>
+<tr>
+<th>SLOT 1</th>
+<th>SLOT 2</th>
+<th>SLOT 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atk 35~60</td>
+<td>DEC SPELL CAST 5~10%</td>
+<td>RACE DMG TO NEUTRAL 15~25%</td>
+</tr>
+<tr>
+<td>STR 2~3</td>
+<td>INC MAXHP 350~400</td>
+<td>RACE DMG TO UNDEAD 15~25%</td>
+</tr>
+<tr>
+<td>INT 2~3</td>
+<td>INC MAXSP 70~100</td>
+<td>RACE DMG TO ANIMAL 15~25%</td>
+</tr>
+<tr>
+<td>AGI 2~3</td>
+<td>HIT 10~20</td>
+<td>RACE DMG TO PLANT 15~25%</td>
+</tr>
+<tr>
+<td>LUK 2~3</td>
+<td>INC CRIT DMG 10~20%</td>
+<td>RACE DMG TO INSECT 15~25%</td>
+</tr>
+<tr>
+<td>VIT 2~3</td>
+<td>DMG TO BOSS 10~20%</td>
+<td>RACE DMG TO FISH 15~25%</td>
+</tr>
+<tr>
+<td>DEX 2~3</td>
+<td>DMG TO SMALL 10~20%</td>
+<td>RACE DMG TO ANGEL 15~25%</td>
+</tr>
+<tr>
+<td>CRIT RATE 6~12%</td>
+<td>DMG TO MED 10~20%</td>
+<td>RACE DMG TO DRAGON 15~25%</td>
+</tr>
+<tr>
+<td>REDUCE SP CONSUMPTION 10~12%</td>
+<td>DMG TO LARGE 10~20%</td>
+<td>RACE DMG TO DEMON 15~25%</td>
+</tr>
+<tr>
+<td>ASPD 7~11%</td>
+<td></td>
+<td>RACE DMG TO HUMAN 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO NEUTRAL ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO WATER ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO EARTH ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO FIRE ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO WIND ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO POISON ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO HOLY ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO SHADOW ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO GHOST ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO UNDEAD ELEMENT 15~25%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="range-level-4">RANGE LEVEL 4</h2>
+<table>
+<thead>
+<tr>
+<th>SLOT 1</th>
+<th>SLOT 2</th>
+<th>SLOT 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atk 35~60</td>
+<td>DEC SPELL CAST 5~10%</td>
+<td>RACE DMG TO NEUTRAL 15~25%</td>
+</tr>
+<tr>
+<td>STR 2~3</td>
+<td>INC MAXHP 350~400</td>
+<td>RACE DMG TO UNDEAD 15~25%</td>
+</tr>
+<tr>
+<td>INT 2~3</td>
+<td>INC MAXSP 70~100</td>
+<td>RACE DMG TO ANIMAL 15~25%</td>
+</tr>
+<tr>
+<td>AGI 2~3</td>
+<td>HIT 10~20</td>
+<td>RACE DMG TO PLANT 15~25%</td>
+</tr>
+<tr>
+<td>LUK 2~3</td>
+<td>INC CRIT DMG 10~20%</td>
+<td>RACE DMG TO INSECT 15~25%</td>
+</tr>
+<tr>
+<td>VIT 2~3</td>
+<td>DMG TO BOSS 10~20%</td>
+<td>RACE DMG TO FISH 15~25%</td>
+</tr>
+<tr>
+<td>DEX 2~3</td>
+<td>DMG TO SMALL 10~20%</td>
+<td>RACE DMG TO ANGEL 15~25%</td>
+</tr>
+<tr>
+<td>CRIT RATE 6~12%</td>
+<td>DMG TO MED 10~20%</td>
+<td>RACE DMG TO DRAGON 15~25%</td>
+</tr>
+<tr>
+<td>REDUCE SP CONSUMPTION 10~12%</td>
+<td>DMG TO LARGE 10~20%</td>
+<td>RACE DMG TO DEMON 15~25%</td>
+</tr>
+<tr>
+<td>ASPD 8~10%</td>
+<td>RANGE ATK DMG 10~15%</td>
+<td>RACE DMG TO HUMAN 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO NEUTRAL ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO WATER ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO EARTH ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO FIRE ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO WIND ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO POISON ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO HOLY ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO SHADOW ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO GHOST ELEMENT 15~25%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>DMG TO UNDEAD ELEMENT 15~25%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="magic-level-4">MAGIC LEVEL 4</h2>
+<table>
+<thead>
+<tr>
+<th>SLOT 1</th>
+<th>SLOT 2</th>
+<th>SLOT 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MAtk 25~50</td>
+<td>DEC SPELL CAST 5~10</td>
+<td>RACE IGNR MDEF NEUTRAL 20~30%</td>
+</tr>
+<tr>
+<td>STR 2~3</td>
+<td>INC MAXHP PERCENTAGE 4~8%</td>
+<td>RACE IGNR MDEF UNDEAD 20~30%</td>
+</tr>
+<tr>
+<td>INT 2~3</td>
+<td>INC MAXSP PERCENTAGE 4~8%</td>
+<td>RACE IGNR MDEF ANIMAL 20~30%</td>
+</tr>
+<tr>
+<td>AGI 2~3</td>
+<td>ASPD 5~10%</td>
+<td>RACE IGNR MDEF PLANT 20~30%</td>
+</tr>
+<tr>
+<td>LUK 2~3</td>
+<td>MDMG TO BOSS 5~10%</td>
+<td>RACE IGNR MDEF INSECT 20~30%</td>
+</tr>
+<tr>
+<td>VIT 2~3</td>
+<td>DEC AFTER CAST DELAY 5~10%</td>
+<td>RACE IGNR MDEF FISH 20~30%</td>
+</tr>
+<tr>
+<td>DEX 2~3</td>
+<td>REDUCE SP CONSUMPTION 10~15%</td>
+<td>RACE IGNR MDEF ANGEL 20~30%</td>
+</tr>
+<tr>
+<td>INC MAXHP 250~500</td>
+<td></td>
+<td>RACE IGNR MDEF DRAGON 20~30%</td>
+</tr>
+<tr>
+<td>INT MAXSP 75~150</td>
+<td></td>
+<td>RACE IGNR MDEF DEMON 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>RACE IGNR MDEF HUMAN 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF NEUTRAL ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF WATER ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF EARTH ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF FIRE ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF WIND ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF POISON ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF HOLY ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF SHADOW ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF GHOST ELEMENT 20~30%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>IGNORE MDEF UNDEAD ELEMENT 20~30%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="armor-options">🛡️ Armor Options</h2>
+<p>Armor items will roll <strong>up 2 random options</strong>, focusing on survivability and resistances.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Slot 1</strong></th>
+<th><strong>Slot 2</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ATK +10 ~ 15</td>
+<td>Neutral Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>MATK +10 ~ 15</td>
+<td>Undead Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>Max HP +150 ~ 300</td>
+<td>Brute Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>Max SP +20 ~ 35</td>
+<td>Plant Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>HP Regen +5 ~ 10%</td>
+<td>Insect Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>SP Regen +5 ~ 6%</td>
+<td>Fish Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>STR +2 ~ 4</td>
+<td>Demon Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>AGI +2 ~ 4</td>
+<td>Demi-Human Resist +2 ~ 5%</td>
+</tr>
+<tr>
+<td>VIT +2 ~ 4</td>
+<td>Angel Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>DEX +2 ~ 4</td>
+<td>Dragon Monster Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>LUK +2 ~ 4</td>
+<td>Water Element Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td>INT +2 ~ 4</td>
+<td>Earth Element Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Fire Element Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Wind Element Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Poison Element Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Holy Element Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Shadow Element Resist +5 ~ 10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Ghost Element Resist +3 ~ 10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Undead Element Resist +5 ~ 10%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="notes">🎯 Notes</h2>
+<ul>
+<li>All values are approximate and subject to balance changes.</li>
+<li>Some stats are more common in early slots, while specialized bonuses appear in later ones.</li>
+<li>There is currently no reroll or option refining system — what drops is final.</li>
+<li>Certain MVPs and minibosses may have a slightly higher chance to drop gear with random options.</li>
+</ul>
+<hr>
+<h2 id="planned-features-coming-soon">🧪 Planned Features (Coming Soon)</h2>
+<ul>
+<li>Random options maintained after enchant</li>
+</ul>
+<hr>
+<blockquote>
+<p>💬 If you have suggestions or want to report any bugs, join our <a href="https://discord.gg/5sdvj8sPYg">Discord server</a> and tag the GM team!</p>
+</blockquote>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.instant.preview", "navigation.tracking", "navigation.sections", "toc.follow", "content.tabs.link"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>
