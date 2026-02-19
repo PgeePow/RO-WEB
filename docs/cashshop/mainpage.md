@@ -20,19 +20,19 @@ Our Cash Shop is designed to enhance your gameplay experience while maintaining 
 
 ---
 
-# 🎰 Egg Scrols Collection
+# 🎰 Costume Bundle Egg
 
 | Scrolls   | Scrolls Name                          | Link |
 | ----------- | ------------------------------------ | -------- |
 | ![ravenshade](ravenshade.png)      | Ravenshade Scroll Egg  | [View Page](ravenshade/Ravenshade.md)|
-|     ![Wyrdweave Scroll](wyrdweave.png)   | Wyrdweave Scroll | | 
-|  ![Wicked Whisper](WickedWhisper.png)   | Wicked Whisper Scroll | |
-| ![Mechromatrix ](Mechromatrix.png)| Mechromatrix Scroll Egg | |
-|![ChaCosmetic](ChaCosmetic.png) | Cha Cosmetic Scroill Egg | |
-| ![Everfrost](Everfrost.png) | Everfrost Noel Scroll Egg | |
-|![Imperium](Imperium.png) | Imperium Solaria Scroll Egg | |
-| ![DLManteau](DLManteau.png) | Dark Lord Manteau Costime Bundle | |
-| ![DLCLoak](DLCLoak.png)| Dark Lord Cloak Costume Bundle | |
+|     ![Wyrdweave Scroll](wyrdweave.png)   | Wyrdweave Scroll | [View Page](wyrdweave/main.md) |
+|  ![Wicked Whisper](WickedWhisper.png)   | Wicked Whisper Scroll | [View Page](wickedwhisper/main.md) |
+| ![Mechromatrix ](Mechromatrix.png)| Mechromatrix Scroll Egg | [View Page](mechomatrix/main.md) |
+|![ChaCosmetic](ChaCosmetic.png) | Cha Cosmetic Scroill Egg | [View Page](chacosmetics/main.md) |
+| ![Everfrost](Everfrost.png) | Everfrost Noel Scroll Egg | [View Page](everfrost/main.md) |
+|![Imperium](Imperium.png) | Imperium Solaria Scroll Egg | [View Page](imperium/main.md) |
+| ![DLManteau](DLManteau.png) | Dark Lord Manteau Costime Bundle | [View Page](dlmanteau/main.md) |
+| ![DLCLoak](DLCLoak.png)| Dark Lord Cloak Costume Bundle | [View Page](dlcloak/main.md) |
 
 
 
@@ -42,10 +42,11 @@ Our Cash Shop is designed to enhance your gameplay experience while maintaining 
 
 # 📜 Important Notes
 
-- ValkariaRO Cash Shop items are designed to be **fair and balanced**.
-- No item in the Cash Shop provides unfair PvP advantage.
 - All stat bonuses are carefully tuned for long-term sustainability.
 - Abuse or exploit of shop mechanics will result in penalties.
+- We deeply value every contribution made to ValkariaRO and treat your support with responsibility and transparency.
+- Every purchase directly supports server stability, improvements, and future content development.
+- We are committed to providing fair value for your money at all times.
 
 ---
 
