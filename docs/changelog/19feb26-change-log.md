@@ -80,3 +80,54 @@ Only eligible accounts may claim the reward
 Reward can be claimed once per account
 
 Thank you for your continued support. We will continue improving ValkariaRO to provide the best possible experience for everyone.
+
+
+# 📢 LGP Has Been Added!
+
+Upon many requests from the community, we’re excited to announce that **@LGP is now available on our server!**
+
+---
+
+## 🛠️ Available Commands
+
+### `@lgp`
+Enables / Disables LGP.
+
+---
+
+### `@square <on/off/1-14>`
+Displays a square around your character.  
+You can adjust the size from **1 to 14**.
+
+---
+
+### `@circle`
+Displays a circle around your character.
+
+---
+
+### `@aoes`
+Displays colored skill areas for:
+
+- Storm Gust  
+- Lord of Vermillion  
+- Meteor Storm  
+
+---
+
+### `@shake`
+Enables / Disables the screen **"shake"** effect.
+
+---
+
+## ⚠️ Important Notes
+
+- Please use these features responsibly.
+- Any abuse or exploit will result in penalties.
+- Report any bugs or issues to the staff team.
+
+---
+
+Thank you for your continued support and feedback.  
+We build this server together 💙
+
