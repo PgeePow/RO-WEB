@@ -1,7 +1,17 @@
 # 🎥 Streamer Package
 
-!!! abstract "Grow With ValkariaRO"
-    Stream **ValkariaRO** on any platform and earn rewards based on your streaming hours.
+!!! abstract "Become a ValkariaRO Creator"
+    Ready to turn your gameplay into influence?
+
+    ValkariaRO is opening the doors to **all streamers** who want to grow with us.  
+    Whether you're just starting out or already building an audience, this is your chance to stream, earn rewards, and become part of something bigger.
+
+    🎥 Stream your adventure  
+    💎 Earn rewards based on hours  
+    🚀 Unlock official Streamer Code opportunities  
+
+    No follower requirement. No platform restriction.  
+    Just stream, have fun, and help us grow the ValkariaRO world.
 
 ---
 
@@ -29,8 +39,7 @@ You may stream on:
 
 ### ✔ On-Screen Requirements
 
-- ValkariaRO **Official Logo** must be visible at all times. You may grab the logo here. 
-  - [Download Logo Here](https://drive.google.com/drive/folders/1T8KMcLZrk5QICKOURpcBr_9JDCxBfQ-S?usp=sharing){ .md-button .md-button--primary }
+- ValkariaRO **Official Logo** must be visible at all times. You may grab the logo here. [Click Here](https://drive.google.com/drive/folders/1T8KMcLZrk5QICKOURpcBr_9JDCxBfQ-S?usp=sharing)
 
 - The following text must be clearly displayed:
 
@@ -41,7 +50,8 @@ You may stream on:
     `Playing ValkariaRO | Pre-Renewal 99/70`
 
 - Below is the sample for your stream screen.
-  - Add screenshot here.
+  
+    `Add screenshot here.`
 
 - No toxic, racist, religious, or offensive commentary
 
