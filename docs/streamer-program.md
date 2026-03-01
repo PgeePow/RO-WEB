@@ -96,10 +96,10 @@ Failure to follow the format may result in reward rejection.
 
 | Hours Streamed | Tier | Reward (Placeholder) |
 |----------------|------|----------------------|
-| 1 – 2 Hours    | 🥉 Tier 1 | TBA |
-| 3 – 4 Hours    | 🥈 Tier 2 | TBA |
-| 5 – 6 Hours    | 🥇 Tier 3 | TBA |
-| 7+ Hours       | 💎 Tier 4 | TBA |
+| 2+ Hours    | 🥉 Tier 1 | 2 Hourly Points |
+| 3+ Hours    | 🥈 Tier 2 | 4 Hourly Points |
+| 5+ Hours    | 🥇 Tier 3 | 8 Hourly Points|
+| 6+ Hours       | 💎 Tier 4 | 10 Hourly Points |
 
 > Final reward details will be announced by the Valkaria Team.
 
