@@ -1,4 +1,6 @@
-# 🎥 Streamer Package
+# 🎥 Streamer Program
+
+![StreamerProgram](assets/Streamer%20Program%20Banner.jpg)
 
 !!! abstract "Become a ValkariaRO Creator"
     Ready to turn your gameplay into influence?
