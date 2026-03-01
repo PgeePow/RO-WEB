@@ -49,9 +49,9 @@ You may stream on:
 
     `Playing ValkariaRO | Pre-Renewal 99/70`
 
-- Below is the sample for your stream screen.
+- Below is the sample for your stream screen. Position for both logo and text is up to your likings.
   
-    `Add screenshot here.`
+    ![Streampage](assets/streampage.png)
 
 - No toxic, racist, religious, or offensive commentary
 
