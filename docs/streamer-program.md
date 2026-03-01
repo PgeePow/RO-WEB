@@ -96,7 +96,7 @@ Failure to follow the format may result in reward rejection.
 !!! note
     Rewards are granted per approved streaming session.
 
-| Hours Streamed | Tier | Reward (Placeholder) |
+| Hours Streamed | Tier | Reward |
 |----------------|------|----------------------|
 | 2+ Hours    | 🥉 Tier 1 | 2 Hourly Points |
 | 3+ Hours    | 🥈 Tier 2 | 4 Hourly Points |
@@ -104,6 +104,7 @@ Failure to follow the format may result in reward rejection.
 | 6+ Hours       | 💎 Tier 4 | 10 Hourly Points |
 
 > Final reward details will be announced by the Valkaria Team.
+> Rewards also can be changed anytime by the Team.
 
 ---
 
