@@ -1,101 +1,80 @@
-# 🧙‍♂️ Wyrdweave Scroll
+# 🧵 Wyrdweave Scroll
 
-Unlock the power of the shadowed depths. Upon purchasing the **Wyrdweave Scroll**, the following five exclusive costumes will be delivered instantly to your in-game mailbox.
+Weave ancient runic power into your appearance. Upon purchasing the **Wyrdweave Scroll**, the following five mystical costumes will be delivered instantly to your in-game mailbox.
 
-![RavenshadeFull](RavenshadeFull.gif){: style="display: block; margin: 0 auto;"}
+![WyrdweaveFull](WyrdweaveFull.png){: style="display: block; margin: 0 auto;"}
 
 <div class="grid cards" markdown>
 
--   ![AncientHorn](19568.gif) __Ancient Horn__
+-   ![Rune Helm](31160.png) __Rune Helm__
 
     ---
 
     **Headgear Costume**  
-    *A relic from a forgotten era, channeling primal energy.*
+    *A helm engraved with ancient runes that whisper forgotten magic.*
 
-    - **Item ID:** #19568
+    - **Item ID:** #31160
     - **Untradeable**
-    - **Visual:** Ancient horned headpiece with weathered stone texture
+    - **Visual:** Runic helmet glowing with mystical engravings
     - **Stats:** Increase Weight Capacity By 50
-    ![Ancient Horn](19568W2.png){: style="display: block; margin: 0 auto;"}
 
--   ![Khalitzburg](31332.gif) __Black Khalitzburg Knight Helm__
+    ![Rune Helm](31160W.png){: style="display: block; margin: 0 auto;"}
 
-    ---
-
-    **Headgear Costume**  
-    *The helm of a fallen dark knight, forever bound to shadow.*
-
-    - **Item ID:** #31332
-    - **Untradeable**
-    - **Visual:** Full-face black knight helmet with crimson accents
-    - **Stats:** Increase Weight Capacity By 100
-  
-    ![Khalitzburg](31332W.png){: style="display: block; margin: 0 auto;"}
-
--   ![Grim Reaper](20798.gif) __Grim Reaper Protection__
+-   ![Honorable Knight Cloak](420047.png) __Honorable Knight Cloak__
 
     ---
 
     **Garment Costume**  
-    *A shroud that hides you from death's gaze.*
+    *A cloak worn by knights whose honor is etched into legend.*
 
-    - **Item ID:** #20798
+    - **Item ID:** #420047
     - **Untradeable**
-    - **Visual:** Dark ethereal cloak with reaper motifs
+    - **Visual:** Noble knight cloak flowing with dignified elegance
+    - **Stats:** Increase Weight Capacity By 100
+
+    ![Honorable Knight Cloak](420047W.png){: style="display: block; margin: 0 auto;"}
+
+-   ![Winter Coat](480096.png) __Winter Coat__
+
+    ---
+
+    **Garment Costume**  
+    *A thick enchanted coat that carries the chill of ancient winters.*
+
+    - **Item ID:** #480096
+    - **Untradeable**
+    - **Visual:** Heavy winter coat with magical frost details
     - **Stats:** Increase Weight Capacity By 200
 
-    ![Grim Reaper](20798W.png){: style="display: block; margin: 0 auto;"}
+    ![Winter Coat](480096W.png){: style="display: block; margin: 0 auto;"}
 
--   ![Sorcerer Hood](31396.gif) __Sorcerer Hood__
+-   ![Exploding Crimson Wave](31056.png) __Exploding Crimson Wave__
 
     ---
 
     **Headgear Costume**  
-    *Worn by shadow mages who walk between worlds.*
+    *A blazing aura of crimson energy bursting with arcane force.*
 
-    - **Item ID:** #31396
+    - **Item ID:** #31056
     - **Untradeable**
-    - **Visual:** Mysterious hood with arcane symbols
+    - **Visual:** Crimson magical energy radiating like an explosive wave
     - **Stats:** Increase Weight Capacity By 200
 
-    ![Sorcerer Hood](31396W.png){: style="display: block; margin: 0 auto;"}
+    ![Exploding Crimson Wave](31056W.png){: style="display: block; margin: 0 auto;"}
 
--   ![vampire familiear](31120.gif) __Vampire's Familiar__
+-   ![Rune Hairband](31206.png) __Rune Hairband__
 
     ---
 
     **Headgear Costume**  
-    *A loyal companion of the night.*
+    *A mystical hairband marked with protective runes.*
 
-    - **Item ID:** #31120
+    - **Item ID:** #31206
     - **Untradeable**
-    - **Visual:** Small bat-like familiar perched on shoulder
+    - **Visual:** Elegant hairband inscribed with glowing runic symbols
     - **Stats:** Increase Weight Capacity By 200
 
-    ![vampire Familiar](31120W.png){: style="display: block; margin: 0 auto;"}
-
-</div>
-
----
-
-## 🎭 Bonus Item
-
-<div class="grid cards" markdown>
-
--   ![Dark Master](420010.gif) __Dark Master Costume__
-
-    ---
-
-    **Legendary Costume**  
-    *The ultimate symbol of shadow authority.*
-
-    - **Item ID:** #420010
-    - **Untradeable**
-    - **Visual:** Majestic dark lord attire with flowing robes
-    - **Stats:** Increase Weight Capacity By 300
-
-    ![Dark Master](420010W.gif){: style="display: block; margin: 0 auto;"}
+    ![Rune Hairband](31206W.png){: style="display: block; margin: 0 auto;"}
 
 </div>
 
@@ -105,12 +84,11 @@ Unlock the power of the shadowed depths. Upon purchasing the **Wyrdweave Scroll*
 
 | Item ID | Costume Name | Type |
 | :--- | :--- | :--- |
-| #19568 | Ancient Horn | Headgear Top  |
-| #31332 | Black Khalitzburg Knight Helm | Headgear Top |
-| #20798 | Grim Reaper Protection | Headgear Mid |
-| #31396 | Sorcerer Hood | Headgear Top |
-| #31120 | Vampire's Familiar | Headgear Mid |
-| #420010 | Dark Master | Headgear Low |
+| #31160 | Rune Helm | Headgear Top |
+| #420047 | Honorable Knight Cloak | Garment |
+| #480096 | Winter Coat | Garment |
+| #31056 | Exploding Crimson Wave | Headgear Mid |
+| #31206 | Rune Hairband | Headgear Top |
 
 <p style="text-align: center; margin-top: 30px;">
     <em>All items are costume-only and do not provide game breaking stats. Bound to character upon pickup. Non-tradeable.</em>
