@@ -248,6 +248,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Pet System](cute-pet.md)<br>
     Battleground (Coming Soon)<br>
     [Roadmap](roadmap.md)
+    [Cash Shop](cashshop/mainpage.md)
 
 - 🔥 **Quick Links**
 
