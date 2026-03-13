@@ -16,7 +16,7 @@ Weave ancient runic power into your appearance. Upon purchasing the **Wyrdweave 
     - **Item ID:** #31160
     - **Untradeable**
     - **Visual:** Runic helmet glowing with mystical engravings
-    - **Stats:** Increase Weight Capacity By 50
+    - **Stats:** Increase Weight Capacity By 300
 
     ![Rune Helm](31160W.png){: style="display: block; margin: 0 auto;"}
 
@@ -30,7 +30,7 @@ Weave ancient runic power into your appearance. Upon purchasing the **Wyrdweave 
     - **Item ID:** #420047
     - **Untradeable**
     - **Visual:** Noble knight cloak flowing with dignified elegance
-    - **Stats:** Increase Weight Capacity By 100
+    - **Stats:** Increase Weight Capacity By 200
 
     ![Honorable Knight Cloak](420047W.png){: style="display: block; margin: 0 auto;"}
 
@@ -44,7 +44,7 @@ Weave ancient runic power into your appearance. Upon purchasing the **Wyrdweave 
     - **Item ID:** #480096
     - **Untradeable**
     - **Visual:** Heavy winter coat with magical frost details
-    - **Stats:** Increase Weight Capacity By 200
+    - **Stats:** Increase Weight Capacity By 100
 
     ![Winter Coat](480096W.png){: style="display: block; margin: 0 auto;"}
 
@@ -58,7 +58,7 @@ Weave ancient runic power into your appearance. Upon purchasing the **Wyrdweave 
     - **Item ID:** #31056
     - **Untradeable**
     - **Visual:** Crimson magical energy radiating like an explosive wave
-    - **Stats:** Increase Weight Capacity By 200
+    - **Stats:** Increase Weight Capacity By 300
 
     ![Exploding Crimson Wave](31056W.png){: style="display: block; margin: 0 auto;"}
 
@@ -72,7 +72,7 @@ Weave ancient runic power into your appearance. Upon purchasing the **Wyrdweave 
     - **Item ID:** #31206
     - **Untradeable**
     - **Visual:** Elegant hairband inscribed with glowing runic symbols
-    - **Stats:** Increase Weight Capacity By 200
+    - **Stats:** Increase Weight Capacity By 50
 
     ![Rune Hairband](31206W.png){: style="display: block; margin: 0 auto;"}
 

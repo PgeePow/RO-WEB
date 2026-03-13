@@ -24,7 +24,7 @@ Our Cash Shop is designed to enhance your gameplay experience while maintaining 
 
 | Scrolls   | Scrolls Name                          | Link |
 | ----------- | ------------------------------------ | -------- |
-| ![ravenshade](ravenshade.png)      | Ravenshade Scroll Egg  | [View Page](ravenshade/Ravenshade.md)|
+| ![ravenshade](ravenshade.png)      | Ravenshade Scroll Egg  | [View Page](ravenshade/main.md)|
 |     ![Wyrdweave Scroll](wyrdweave.png)   | Wyrdweave Scroll | [View Page](wyrdweave/main.md) |
 |  ![Wicked Whisper](WickedWhisper.png)   | Wicked Whisper Scroll | [View Page](wickedwhisper/main.md) |
 | ![Mechromatrix ](Mechromatrix.png)| Mechromatrix Scroll Egg | [View Page](mechomatrix/main.md) |
@@ -33,7 +33,9 @@ Our Cash Shop is designed to enhance your gameplay experience while maintaining 
 |![Imperium](Imperium.png) | Imperium Solaria Scroll Egg | [View Page](imperium/main.md) |
 | ![DLManteau](DLManteau.png) | Dark Lord Manteau Costime Bundle | [View Page](dlmanteau/main.md) |
 | ![DLCLoak](DLCLoak.png)| Dark Lord Cloak Costume Bundle | [View Page](dlcloak/main.md) |
-
+| ![ValhallaAgony](agony.png)| Valhalla Agony Scroll Egg | [View Page](agony/main.md) |
+| ![Omenborne](omenbourne.png)| Omenborne Scroll Egg | [View Page](omenbourne/main.md) |
+| ![oathbound](oathbound.png)| Oathbound Scroll Egg | [View Page](oathbound/main.md) |
 
 
 
