@@ -247,7 +247,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Endless Cellar](endless-cellar.md)<br>
     [Pet System](cute-pet.md)<br>
     Battleground (Coming Soon)<br>
-    [Roadmap](roadmap.md)
+    [Roadmap](roadmap.md) <br>
     [Cash Shop](cashshop/mainpage.md)
 
 - 🔥 **Quick Links**
