@@ -125,31 +125,22 @@ This rework focuses on making missions more **transparent, rewarding, and flexib
 - Hunting Mission progress is now **fully visible in the Quest UI**  
 - Track objectives more easily without relying on manual checks  
 
-
 #### 💰 Reward Rework
 - Rebalanced **Zeny and EXP rewards**  
-- Improved overall reward consistency across all mission tiers  
+- Improved overall reward consistency across all mission tiers
 
-#### 👥 Party System Adjustments (Slayer Only)
-- Every **2 additional party members** grants **+1 Hunting Mission point**  
-- Encourages cooperative play while keeping scaling controlled  
+#### 👥 Party System Adjustments.
+- Easy Mission : No Party Scaling Rewards
+- Medium Mission : No Party Scaling Rewards.
+- Slayer Mission : 
+  - Every **2 additional party members** grants **+1 Hunting Mission point** 
+  - More party members = more **Zeny and EXP rewards**  
 
 #### ⚠️ Mission Submission Rules
 - All party members must:
-  - Be **online**
-  - Have **accepted and completed the mission**  
+  - Be **online** (Slayer Only)
+  - Have **accepted and completed the mission**  (Slayer Only)
 - Required for mission submission (for party-based missions)  
-
-#### ⚔️ Slayer Mission Scaling
-- **Only Slayer missions scale with party rewards**  
-- More party members = more **Zeny and EXP rewards**  
-  
-
-#### 🟢 Easy & Medium Missions
-- Designed for **solo-friendly progression**  
-- Rewards do **not scale with party size**  
-- No need to wait for party members to complete  
-- Can submit immediately upon completion  
 
 ---
 
@@ -161,22 +152,6 @@ Hunting Missions are now:
 - More **rewarding** – better Zeny & EXP balance  
 - More **flexible** – solo and party play both supported  
 - More **structured** – clear distinction between solo and group content  
-
----
-
-## 📌 Hunting Mission Summary
-
-- Quest UI now displays mission progress  
-- Zeny & EXP rewards rebalanced  
-- Party bonus: +1 point per 2 additional members  
-- Slayer missions scale with party rewards  
-- Easy & Medium missions remain solo-friendly  
-- Clear and structured mission submission rules  
-
----
-
-!!! summary "TL;DR"
-    Hunting Missions now show progress in the Quest UI, offer better rewards, and support both solo and party play—with Slayer missions scaling for groups while Easy/Medium remain flexible for solo players.
 
 ## 📌 Update Summary
 
