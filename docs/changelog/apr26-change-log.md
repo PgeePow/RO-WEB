@@ -1,6 +1,7 @@
 # 🔧 Dev Blog – April 2026
 
 **Release Date:** Somewhere in April
+
 **Last Updated:** 2026-03-30  
 
 > *Breaking old limitations. Unlocking new playstyles.*
@@ -133,13 +134,13 @@ This rework focuses on making missions more **transparent, rewarding, and flexib
 - Easy Mission : No Party Scaling Rewards
 - Medium Mission : No Party Scaling Rewards.
 - Slayer Mission : 
-  - Every **2 additional party members** grants **+1 Hunting Mission point** 
-  - More party members = more **Zeny and EXP rewards**  
+    - Every **2 additional party members** grants **+1 Hunting Mission point** 
+    - More party members = more **Zeny and EXP rewards**  
 
 #### ⚠️ Mission Submission Rules
 - All party members must:
-  - Be **online** (Slayer Only)
-  - Have **accepted and completed the mission**  (Slayer Only)
+    - Be **online** (Slayer Only)
+    - Have **accepted and completed the mission**  (Slayer Only)
 - Required for mission submission (for party-based missions)  
 
 ---
