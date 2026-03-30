@@ -52,7 +52,6 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
         ```markdown
         🆕 New Features
         - Introduced Patch Notes / Changelog page
-          [Visit page](./changelog/main.md)
         - Improved navigation for tracking updates
 
         💡 Developer Notes
