@@ -33,6 +33,7 @@ nav:
     - 👋 Welcome To Valkaria : index.md
     - ℹ️ Server Info: server-info.md
     - 🚩 Getting Started: getting-started.md
+    - 🕒 Changelog: changelog/main.md
   - Server features:
     - ⚡️ Random Options: random-option.md
     - 💸 Adjusted Price: adjusted-price.md
