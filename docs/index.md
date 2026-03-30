@@ -45,141 +45,21 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
 
 </div>
 
-!!! Changelogs
+!!! Note News and Updates
     
-    === "Feb 2029 V2.9"
+    === "30 March 2026"
 
-        ``` markdown
-        - MVP update
-        - Guild dungeon update
-        - Skill Balance
-        - Item Adjustment
+        ```markdown
+        🆕 New Features
+        - Introduced Patch Notes / Changelog page
+          [Visit page](./changelog/main.md)
+        - Improved navigation for tracking updates
+
+        💡 Developer Notes
+        - Focused on reducing "feels bad" mechanics
+        - Moving towards more skill-based and fluid gameplay
         ```
-            [View Full Feb Changelog](changelog/19feb26-change-log.md)
 
-    === "Jan 2026 V2.7c"
-    
-        ``` markdown 
-        - Ramadhan Event
-        - Bug fixes
-        ```
-            [View Full Jan Changelog](changelog/29jan26-change-log.md)
-
-    === "Jan 2026 V2.7b"
-    
-        ``` markdown 
-        - New Job Change Pack
-        - Pet Evolution is Live!
-        ```
-            [View Full Jan Changelog](changelog/20jan26-change-log.md)
-
-    === "Jan 2026 V2.7a"
-    
-        ``` markdown 
-        - Newbie Gift and Bug Update
-        - NPC and System Fix
-        - Equipment Re-adjustments
-        - Party EXP System Overhaul
-        ```
-            [View Full Jan Changelog](changelog/6jan26-change-log.md)
-
-    === "Dec 2025 V2.6b"
-    
-        ``` markdown 
-        - Item Updates
-        - Halter NPC Adjustments
-        - ValRO RandomBox Costume Converter
-        - Server Performance Tweaks
-        ```
-            [View Full Dec Changelog](changelog/dec2-change-log.md)
-
-    === "Dec 2025 V2.6a"
-    
-        ``` markdown 
-        - Horror Toys Factory
-        - Mob Adjustment
-        - KoE Adjustment
-        - Bug Fixes
-        ```
-            [View Full Dec Changelog](changelog/dec-change-log.md)
-
-    === "Nov 2025"
-    
-        ``` markdown 
-        - Mystery Market
-        - Hunting Mission
-        - Mechomatrix
-        - Bug Fixes
-        ```
-            [View Full Nov Changelog](changelog/nov-change-log.md)
-
-
-    === "Oct 2025"
-
-        ``` markdown 
-        - Costume Update
-        - Poring Coin Update
-        - Gift Box Update
-        - Bug Fixes
-        ```
-            [View Full Oct Changelog](changelog/oct-change-log.md)
-
-    === "Sept 2025"
-
-        ``` markdown 
-        - Warper Update
-        - Vending Commands
-        - New Egg Scroll
-        - Bug Fixes
-        ```
-            [View Full Sept Changelog](changelog/sept-change-log.md)
-
-    === "Apr 2025 v1.3"
-
-        ``` markdown 
-        - Healer Readjustment
-        - Blue Potion in Tool Dealer
-        - Training Ground Rework
-        - Equipment Fixes
-        ```
-            [View Full Apr Changelog](changelog/apr-change-log4.md)
-
-    === "Apr 2025 v1.2"
-
-        ``` markdown 
-        - Healer Readjustment
-        - Blue Potion in Tool Dealer
-        - Training Ground Rework
-        - Equipment Fixes
-        ```
-            [View Full Apr Changelog](changelog/apr-change-log3.md)            
-
-    === "Apr 2025 v1.1"
-
-        ``` markdown 
-        - Quest
-        - NPC
-        - Item
-        - CBT
-        ```
-            [View Full Apr Changelog](changelog/apr-change-log2.md)
-
-    === "Apr 2025 v1.0"
-
-        ``` markdown 
-        - Healer Buff
-        - Shop Price
-        - Card Remover
-        - Daily Freebies Adjustment
-        ```
-            [View Full Apr Changelog](changelog/apr-change-log.md)
-
-    === "Mar 2025"
-
-        ``` markdown 
-        - Server Development
-        ```
-            [View Full Changelog](change-log.md)
 
 ## Main Features
 

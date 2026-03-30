@@ -1,4 +1,4 @@
-# 📜 Patch Notes
+# 📜 Change Logs
 
 > *Stay up to date with all server changes, improvements, and upcoming releases.*
 
@@ -37,7 +37,6 @@ We are committed to:
 ### 2026
 
 #### 🔧 [19-Feb-26 Change Logs](./19feb26-change-log.md) 
-#### 🔧 [29-Jan-26 Change Logs](./29jan26-change-log.md) 
 #### 🔧 [20-Jan-26 Change Logs](./20jan26-change-log.md) 
 
 ### 2025
@@ -45,7 +44,7 @@ We are committed to:
 #### 🔧 [Dec25 Change Logs](./dec-change-log.md) 
 #### 🔧 [Nov25 Change Logs](./nov-change-log.md) 
 #### 🔧 [Oct25 Change Logs](./oct-change-log.md) 
-#### 🔧 [Sep25 Change Logs](./sept-change-log.md) 
+#### 🔧 [Sep25 Change Logs](./sept-change-log.md)
 
 ---
 
