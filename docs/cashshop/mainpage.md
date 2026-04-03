@@ -34,7 +34,7 @@ Our Cash Shop is designed to enhance your gameplay experience while maintaining 
 | ![DLManteau](DLManteau.png) | Dark Lord Manteau Costime Bundle | [View Page](dlmanteau/main.md) |
 | ![DLCLoak](DLCLoak.png)| Dark Lord Cloak Costume Bundle | [View Page](dlcloak/main.md) |
 | ![ValhallaAgony](agony.png)| Valhalla Agony Scroll Egg | [View Page](agony/main.md) |
-| ![Omenborne](omenbourne.png)| Omenborne Scroll Egg | [View Page](omenbourne/main.md) |
+| ![Omenborne](omenbourne.png)| Omenborne Scroll Egg | [View Page](omenborne/main.md) |
 | ![oathbound](oathbound.png)| Oathbound Scroll Egg | [View Page](oathbound/main.md) |
 
 
