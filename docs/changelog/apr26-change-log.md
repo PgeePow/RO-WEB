@@ -1,6 +1,6 @@
 # 🔧 Dev Blog – April 2026
 
-**Release Date:** Somewhere in April
+**Release Date:** Live
 
 **Last Updated:** 2026-03-30  
 

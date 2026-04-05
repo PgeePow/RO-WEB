@@ -21,7 +21,7 @@ We are committed to:
 
 ### 🔧 Priest & Rogue Rework  
 **Expected Release Date:** 02 April 2026  
-**Status:** Upcomming 
+**Status:** Live
 
 **Highlights:**
 - Rogue Backstab no longer requires behind positioning  
@@ -36,6 +36,7 @@ We are committed to:
 
 ### 2026
 
+#### 🔧 [2-Apr-26 Change Logs](./apr26-change-log.md) 
 #### 🔧 [19-Feb-26 Change Logs](./19feb26-change-log.md) 
 #### 🔧 [20-Jan-26 Change Logs](./20jan26-change-log.md) 
 
