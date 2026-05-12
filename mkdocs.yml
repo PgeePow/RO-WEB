@@ -24,6 +24,7 @@ theme:
     - navigation.tracking
     - navigation.sections
    # - navigation.expand
+    - toc.integrate
     - toc.follow
     - content.tabs.link
    # - navigation.indexes
@@ -48,7 +49,7 @@ nav:
     - 👹 Headgear Quest : headgear-quest.md
     - 🛍️ Cash Shop: cashshop/mainpage.md
   - Custom Features:
-    - 🧙‍♂️ Class Changes: class-changes.md    
+    - 🧙‍♂️ Class Changes: class-changes.md
     - 🐉 Stats Discipline: stat-discipline.md
     - 🧱 Endless Cellar: endless-cellar.md
     - 🎃 Halloween Event: halloween.md
