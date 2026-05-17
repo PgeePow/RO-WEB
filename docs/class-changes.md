@@ -9,7 +9,7 @@ This page covers the custom class changes made in ValkariaRO. These adjustments 
 
 | Skill | Previous Behaviour | Current Behaviour |
 |---|---|---|
-| Grand Cross | Official Behaviour | All waves now deal damage to all targets |
+| Grand Cross | Official Behaviour | All waves now deal damage to all targets <br> HP drain removed but the damage on user still remain.|
 | Auto Guard | Official Behaviour | No longer causes stagger when blocking |
 | Spear Quicken | Official Behaviour | Can now be used with one-hand spears |
 | Defender | Official Behaviour | Duration increased from 180 seconds to 300 seconds |
@@ -27,6 +27,8 @@ This page covers the custom class changes made in ValkariaRO. These adjustments 
 | Parry | Official Behaviour | Blocking no longer causes stagger during attacks or movement |
 | Spiral Pierce | Official Behaviour | Slightly reduced cast time |
 | Spiral Pierce | Official Behaviour | Slightly reduced after-cast delay |
+| Concentration | Official Behaviour | Duration increased from 45secs to 300secs at lvl 5 |
+| Aura Blade | Official Behaviour | Duration increased from 120secs to 300secs at lvl 5 |
 
 ---
 
@@ -57,6 +59,7 @@ This page covers the custom class changes made in ValkariaRO. These adjustments 
 |---|---|---|
 | Raid | Official Behaviour | Splash area increased from 1 cell to 2 cells |
 | Back Stab | Official Behaviour | No longer requires standing behind the target. Now follows partial Renewal-style mechanics. Increased delay cooldown |
+| Chase Walk | Official Behaviour | Duration Str gain increased from 10secs to 120secs ( without link ) |
 
 ---
 
@@ -67,14 +70,16 @@ This page covers the custom class changes made in ValkariaRO. These adjustments 
 | Skill | Previous Behaviour | Current Behaviour |
 |---|---|---|
 | Cart Termination | Official Behaviour | Cart Termination Zeny cost reduced. *(Display still shows original zeny cost)*<br><br>Lv 1: 600 ➜ 300<br>Lv 2: 700 ➜ 350<br>Lv 3: 800 ➜ 400<br>Lv 4: 900 ➜ 450<br>Lv 5: 1000 ➜ 500<br>Lv 6: 1100 ➜ 550<br>Lv 7: 1200 ➜ 600<br>Lv 8: 1300 ➜ 650<br>Lv 9: 1400 ➜ 700<br>Lv 10: 1500 ➜ 750 |
-| Cart Revolution | Official Behaviour | Increased hit count from 1 ➜ 2. Increased SP cost from 12 ➜ 20 |
-| Adrenaline Rush | Official Behaviour | Duration increased from 150 secs ➜ 300 secs. Increased SP cost from 30 ➜ 55 |
-| Weapon Perfection | Official Behaviour | Duration increased from 50 secs ➜ 300 secs. Increased SP cost from 30 ➜ 55 |
-| Over Thrust | Official Behaviour | Duration increased from 100 secs ➜ 300 secs. Increased SP cost from 10 ➜ 55 |
+| Cart Revolution | Official Behaviour | Increased hit count from 1 ➜ 2.<br> Increased SP cost from 12 ➜ 20 |
+| Adrenaline Rush | Official Behaviour | Duration increased from 150 secs ➜ 300 secs. <br>Increased SP cost from 30 ➜ 55 |
+| Weapon Perfection | Official Behaviour | Duration increased from 50 secs ➜ 300 secs. <br>Increased SP cost from 30 ➜ 55 |
+| Over Thrust | Official Behaviour | Duration increased from 100 secs ➜ 300 secs.<br> Increased SP cost from 10 ➜ 55 |
 | Full Adrenaline Rush | Official Behaviour | Duration increased from 150 secs ➜ 300 secs |
-| Maximum Over Thrust | Official Behaviour | Duration increased from 180 secs ➜ 300 secs. Increased SP cost from 15 ➜ 55. Zeny cost increased from 5000 ➜ 8000 |
-| Meltdown | Official Behaviour | Duration increased from 60 secs ➜ 300 secs. Increased SP cost from 90 ➜ 150 |
-| Cart Boost | Official Behaviour | Duration increased from 60 secs ➜ 300 secs. Increased SP cost from 20 ➜ 50 |
+| Maximum Over Thrust | Official Behaviour | Duration increased from 180 secs ➜ 300 secs. Increased SP cost from 15 ➜ 55. <br>Zeny cost increased from 5000 ➜ 8000 |
+| Meltdown | Official Behaviour | Duration increased from 60 secs ➜ 300 secs. <br>Increased SP cost from 90 ➜ 150 |
+| Cart Boost | Official Behaviour | Duration increased from 60 secs ➜ 300 secs.<br> Increased SP cost from 20 ➜ 50 |
+|Acid Demonstration|Official Behavior|Added cooldown by 0.3secs.|
+|Unfair Trick |Official Behavior|Zeny % reduce increased from 10% to 50%|
 
 <h2> Alchemist & Creator </h2>
 
@@ -96,17 +101,17 @@ This page covers the custom class changes made in ValkariaRO. These adjustments 
 | Blessing | Official Behaviour | Duration increased from 240 secs ➜ 300 secs |
 | Impositio Manus | Official Behaviour | Duration increased from 60 secs ➜ 300 secs |
 | Suffragium | Official Behaviour | Duration increased from 10 secs ➜ 60 secs |
-| Aspersio | Official Behaviour | Duration increased from 180 secs ➜ 300 secs. Increased SP cost from 30 ➜ 65 |
-| Magnificat | Official Behaviour | Duration increased from 90 secs ➜ 300 secs. Increased SP cost from 40 ➜ 100 |
-| Gloria | Official Behaviour | Duration increased from 30 secs ➜ 90 secs. Increased SP cost from 20 ➜ 55 |
-| Assumptio | Official Behaviour | Duration increased from 100 secs ➜ 300 secs. Increased SP cost from 60 ➜ 170 |
+| Aspersio | Official Behaviour | Duration increased from 180 secs ➜ 300 secs. <br>Increased SP cost from 30 ➜ 65 |
+| Magnificat | Official Behaviour | Duration increased from 90 secs ➜ 300 secs. <br>Increased SP cost from 40 ➜ 100 |
+| Gloria | Official Behaviour | Duration increased from 30 secs ➜ 90 secs. <br>Increased SP cost from 20 ➜ 55 |
+| Assumptio | Official Behaviour | Duration increased from 100 secs ➜ 300 secs. <br>Increased SP cost from 60 ➜ 170 |
 
 <h2> Monk & Champion </h2>
 
 | Skill | Previous Behaviour | Current Behaviour |
 |---|---|---|
 | Body Relocation | Official Behaviour | Range reduced from 18 cells ➜ 15 cells |
-| Body Relocation | Official Behaviour | Added 0.5 second soft delay. Official hard delay between Snap ➜ Asura Strike remains unchanged |
+| Body Relocation | Official Behaviour | Added 0.5 second soft delay. <br>Official hard delay between Snap ➜ Asura Strike remains unchanged |
 | Finger Offensive | Official Behaviour | Soft delay increased from 0.5 sec ➜ 0.9 sec |
 | Asura Strike | Official Behaviour | Reduced SP regeneration penalty from 5 minutes ➜ 5 seconds |
 
@@ -130,11 +135,67 @@ This page covers the custom class changes made in ValkariaRO. These adjustments 
 
 ---
 
+## Magician
+
+<h2>Sage & Professor</h2>
+
+| Skill | Previous Behaviour | Current Behaviour |
+|---|---|---|
+|Stone Curse |Official Behavior|Removed catalyst requirement. <br>Stay duration decreased from  5secs > 3secs <br>Effect duration decreased from  20secs > 6secs <br>Spell range decreased from  2 cells > 1 cell |
+| Double Casting|Official Behavior|Duration increased from 90 > 300|
+| Spiderweb|Official Behavior|Increased maximum web limit can be shot from 3 > 4 <br>Duration Increased from 8secs > 10secs|
+|Memorize|Official Behavior|Casting time reduce 5secs > 3secs|
+|Dispell|Official Behavior|Added 1secs cooldown in Dispell Increased dispell ranger from 9 > 10|
+
+<h2>High Wizard & Wizard</h2>
+
+| Skill | Previous Behaviour | Current Behaviour |
+|---|---|---|
+|Heaven Drive|Official Behavior|Increased hit count from 5 > 7 at lvl 5 <br>Increased sp cost 44 > 55|
+|Fire Ball|Official Behavior|Increased Splash area from 2 > 4|
+|Fire Wall|Official Behavior|Increased maximum limit that you can create from 3 > 4 <br> Increased Fire wall duration from 14secs > 20secs at lvl 10 <br>Increased sp cost from 40 > 85|
+|Thunder Storm|Official Behavior|Increased size from 5x5 cells > 7x7 cells at lvl 10.|
+|Magic Crasher|Official Behavior|Hit count increased from 1  > 3. <br> Increased sp cost 8 > 40. |
+| Mystical Amplification | Official Behavior | Cast time reduced from 0.7 to 0.3. |
+
 ## Extended Classes
+
+<h2> Ninja </h2>
+
+| Skill | Previous Behaviour | Current Behaviour |
+|---|---|---|
+|Throw Huuma Shuriken|Official Behavior|Increased skill range from 9 > 11 <br>Increased hit count from 5 > 7 at lvl 5. <br>Increase splash area from 1 > 2. <br> Reduce cast time from 3secs to 2secs. <br>After cast act delay reduced from 2secs to 0.7secs.|
+|Wind Blade|Official Behavior|Added 0.55secs cooldown. |
+|Ninja Aura|Official Behavior|Casting time Removed <br>Duration increase from 90 secs to 300 secs at lvl 10 |
+|Final Strike|Official Behavior|Now ignore defense. <br>Considered as range attack.|
+
 
 <h2> Gunslinger </h2>
 
 | Skill | Previous Behaviour | Current Behaviour |
 |---|---|---|
-| Full Buster | Official Behaviour | After-cast delay at Level 10 reduced from 3000ms ➜ 2100ms for smoother skill chaining. SP cost reduced from 65 ➜ 50 |
-| Chain Action | Official Behaviour | Can now proc Critical properly and is fully working. *(Can stack with Snake Head)* |
+|Full Buster|Official Behavior|After cast delay of Full Buster (lvl10) reduced 3000 to 2100ms <br>Smoother skill chaining <br>SP cost decresed 65 to 50SP per use|
+|Chain Action|Official Behavior|CAN PROC CRITICALenabled and properly working ( Can stack with Snake Head )|
+|Triple Action|Official Behavior|Reduced SP cost from 20 > 10|
+|Adjustment|Official Behavior|Duration increased from 30secs to 180secs <br> Coin cost reduced from 2 > 1|
+|Increase Accuracy|Official Behavior|Duration increased from 60secs to 300secs|
+
+<h2> Super Novice </h2>
+
+| Skill | Previous Behaviour | Current Behaviour |
+| --- | --- | --- |
+| | | Benefits from all skill changes from other classes. |
+
+<h2> Soul Linker </h2>
+
+| Skill | Previous Behaviour | Current Behaviour |
+| --- | --- | --- |
+| | | All spirit link duration increased from 350secs to 700secs. |
+
+<h2> Taekwon </h2>
+
+| Skill | Previous Behaviour | Current Behaviour |
+| --- | --- | --- |
+|Warm Wind|Official Behavior|Duration increased from 300secs > 450secs|
+|Running|Official Behavior|Duration increased from 150secs > 450secs|
+||Official Behavior|Slightly Increased SG miracle activation chance from 0.005% (Official) to 0.05% <br> ( This chance is further reduced if AGI is above 46 )|"
