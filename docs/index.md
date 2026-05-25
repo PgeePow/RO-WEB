@@ -130,7 +130,7 @@ We are thrilled to have you join **ValRO**, a  server dedicated to delivering an
     [Cash Shop](cashshop/mainpage.md)
 
 - 🔥 **Quick Links**
-
+    🎥 [Streamer Program](streamer-program.md)<br>
     📥 [Client Download](download.md)<br>
     🔧 [Troubleshooting](troubleshoot.md)<br>
     📖 [Getting Started](getting-started.md)<br>

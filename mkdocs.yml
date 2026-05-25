@@ -65,6 +65,9 @@ nav:
     - 📕 Rules: rules.md 
     - 🛠️ Common Issues: troubleshoot.md
     - 💡 Support Us: supportus.md
+  - Community:
+    - 🌐 Discord: https://discord.gg/valkariaro
+    - 🖼️ Streamer Program: streamer-program.md
   
 markdown_extensions:
   - neoteroi.timeline
