@@ -15,20 +15,20 @@ We are committed to:
 
 ---
 
-## 🧪 Upcoming Updates
+## 🧪 Latest Updates
 
 > *Content listed here is subject to change.*
 
 ### 🔧 Priest & Rogue Rework  
-**Expected Release Date:** 02 April 2026  
+**Expected Release Date:** 30 May 2026  
 **Status:** Live
 
 **Highlights:**
-- Rogue Backstab no longer requires behind positioning  
-- Backstab follows partial Renewal mechanics (no double hit)  
-- Priest Magnus Exorcismus now hits all monsters  
+- New Abyss Lake Dungeon  
+- Items description update 
+- Autoloot behaviour
 
-👉 [View Full Dev Blog](./apr26-change-log.md)
+👉 [View Full Dev Blog](./30May26-change-log.md)
 
 ---
 
