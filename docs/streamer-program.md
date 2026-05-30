@@ -219,9 +219,10 @@ This program is designed to:
 
 ## 🔥 Ready to Start?
 
-1. Start streaming ValkariaRO
+1. Fill up this form : https://forms.gle/8r8sRWJU52Bghyzx6
 2. Open a Discord ticket
-3. Submit your stream link
-4. Earn rewards
+3. Start streaming ValkariaRO
+4. Submit your stream link
+5. Earn rewards
 
 Let’s grow ValkariaRO together.
