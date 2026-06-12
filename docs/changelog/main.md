@@ -28,7 +28,7 @@ We are committed to:
 - Items description update 
 - Autoloot behaviour
 
-👉 [View Full Dev Blog](./30May26-change-log.md)
+👉 [View Full Dev Blog](./12june26-change-log.md)
 
 ---
 
@@ -36,6 +36,7 @@ We are committed to:
 
 ### 2026
 
+#### [12-June-26 Change Logs](./12june26-change-log.md)
 ####  🔧[30-May-26 Change Logs](./30May26-change-log.md)
 #### 🔧 [2-Apr-26 Change Logs](./apr26-change-log.md) 
 #### 🔧 [19-Feb-26 Change Logs](./19feb26-change-log.md) 
