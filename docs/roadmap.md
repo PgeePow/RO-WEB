@@ -22,7 +22,7 @@ We hope this roadmap helps you plan your journey, form your goals, and grow alon
 
 ## 🗓️ Timeline
 
-[timeline center alternate class="nt-timeline"(./docs/timeline/roadmap copy.yaml)]
+[timeline center alternate class="nt-timeline"(./docs/timeline/roadmap.yaml)]
 
 Stay tuned to our [Discord server](https://discord.gg/5sdvj8sPYg) and [RateMyServer page](https://ratemyserver.net/index.php?page=detailedlistserver&serid=22935&itv=6&url_sname=ValkariaRO) for live news, sneak peeks, and community discussions!
 
