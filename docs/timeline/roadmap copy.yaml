@@ -1,0 +1,134 @@
+- title: Dawn of ValkariaRO
+  icon: ./assets/item/20765.png  # Apple
+  sub_title: April 2025
+  content: |
+    - Closed Beta Test (CBT): Join the first wave of players and help us test the core gameplay.  
+    - Server Launch: The gates of ValkariaRO are open , begin your legacy!  
+    - Level Rush: Compete to hit max level fastest and win rewards.  
+    - CBT Rewards: Special gifts await those who test and provide feedback.  
+    - April Scroll Egg: A fresh cosmetic scroll filled with spring-themed goodies!
+
+- title: First Expansion
+  icon: ./assets/item/12016.png  # Old Blue Box
+  sub_title: May 2025
+  content: |
+    - Gacha by Zeny: No real cash needed , use in-game Zeny for cosmetic spins!  
+    - May Scroll Egg: Packed with limited-time outfits and visual effects.  
+    - Moscovia Released: Discover new lands, quests, and the scenic dungeon.  
+    - PvP Quest Relic Items: Earn relic gear from new PvP quests , fight with flair!
+
+- title: Rise of the Warriors
+  icon: ./assets/item/5826.png  # Yggdrasil Berry
+  sub_title: June 2025
+  content: |
+    - PvP Ranking System: Prove your dominance and climb the ladder.  
+    - June Scroll Egg: Get your hands on this month's mystical cosmetics.  
+    - MVP Slayer Reward (May): The top hunter from May gets spotlighted and rewarded!
+
+- title: Dimensional Rift Awakens
+  icon: ./assets/item/5124.png  # Firecracker
+  sub_title: July 2025
+  content: |
+    - Ash Vacuum Released: Traverse a dimensional gap and uncover new secrets.  
+    - Hari Raya Haji Event: Celebrate with exclusive festival quests and rewards!  
+    - July Scroll Egg: Summer-themed cosmetics await lucky rollers.  
+    - MVP Slayer Reward (June): The finest MVP hunter earns glory and loot.
+
+- title: Prelude to War
+  icon: ./assets/item/714.png  # Emperium
+  sub_title: August 2025
+  content: |
+    - WoE Preparation: Sharpen your blades, strategize with your guild.  
+    - Hari Malaysia & Merdeka Event: Celebrate unity with patriotic events and prizes!  
+    - August Scroll Egg: Merdeka-themed scroll filled with national pride.  
+    - MVP Slayer Reward (July): Final champion before war erupts.  
+    - **Late August: VALKARIA WAR OF EMPERIUM!** The ultimate guild clash begins, conquer or be conquered!
+
+- title: Realms Awaken  
+  icon: ./assets/item/1201.png  # World Map  
+  sub_title: September 2025  
+  content: |
+    - **Release of the New World:** Brave adventurers, a mysterious land opens its gates,new monsters, treasures, and stories await!  
+    - Chile National Day & Paraguay Boquerón Victory: Celebrate valor and independence with themed in-game festivities.  
+    - MVP Ranker Reward Changes: Fresh prizes for the mightiest hunters,strive for the top!  
+    - Malaysia Day: A patriotic celebration with unity-themed rewards.  
+    - Admin Cha’s Birthday Month: Special surprises and birthday treats spread across the realm.  
+
+- title: Shadows of October  
+  icon: ./assets/item/537.png  # Pumpkin  
+  sub_title: October 2025  
+  content: |
+    - **Halloween Month:** Spooky spirits and chilling quests haunt Valkaria all month long!  
+    - Global Heritage Celebrations: Join the festivities of Tag der Deutschen Einheit, Fiesta Nacional de España, Día de la Raza, and Mahatma Gandhi Jayanti with cultural events.  
+    - Admin PGEE’s Birthday Month: Special birthday blessings and giveaways for the community.  
+
+- title: Battle Calls  
+  icon: ./assets/item/671.png  # Battlefield Flag  
+  sub_title: November 2025  
+  content: |
+    - **Battlegrounds Released:** Epic PvP battles arrive at the end of October,assemble your squad and prove your might!  
+    - Global Commemorations: Honor Panama’s Shout in Villa de los Santos, Remembrance Day, Argentina’s National Sovereignty Day, All Souls Day, and Sheikh Karim’ul Makhdum Day through meaningful events.  
+    - War drums echo,be ready for glory or defeat!  
+
+- title: Wrath of Winter  
+  icon: ./assets/item/531.png  # Snowflake  
+  sub_title: December 2025  
+  content: |
+    - **World Boss Invasion (New Year’s Eve):** 1 to 10 colossal bosses will raid the cities of Valkaria,band together or watch kingdoms burn!  
+    - Christmas Eve: Joyful surprises and festive hunts await under the holiday lights.  
+    - Thanatos’ Birthday Month
+    - Anniversary of the Statute of Westminster & Battle of Ayacucho Day: Marking history with rewards and remembrance.  
+    - The year closes with chaos, unity, and celebration,prepare for what’s next!
+
+- title: New Dawn of Valkaria
+  icon: ./assets/item/531.png  # Snowflake / New Year theme
+  sub_title: January 2026
+  content: |
+    - **New Year Event:** Welcome 2026 with special celebrations and rewards.
+    - **Brasilis Released:** Explore the vibrant city and its surrounding content.
+    - **Stat Discipline Quest Released:** Begin your journey of disciplined progression.
+    - **Pet Evolution System:** Pet Evolution officially goes live.
+    - **World Boss II:** A new global threat emerges — rally together to survive.
+
+- title: Flames of Renewal
+  icon: ./assets/item/671.png  # Battlefield Flag
+  sub_title: February 2026
+  content: |
+    - **Ramadhan Month Event:** A meaningful seasonal event with special activities.
+    - **ValkariaRO 2nd WoE Event (The Revival):** War of Emperium returns stronger than ever.
+    - **Guild Dungeon Revamp:** Reworked challenges and improved guild content.
+    - **Chinese New Year Mini Event:** Celebrate prosperity with festive surprises.
+
+- title: Clash of Champions
+  icon: ./assets/item/1131.png  # PvP themed item (example)
+  sub_title: March 2026
+  content: |
+    - **New Map Released:** Discover a brand-new area filled with danger and opportunity.
+    - **Eid Mubarak Event:** Celebrate together with special rewards and events.
+    - **PvP Event – Champion vs Champion:** Only the strongest will prevail.
+    - **World Boss III:** Face an even greater global menace.
+
+- title: Year of Triumph
+  icon: ./assets/item/7444.png  # Anniversary themed item (example)
+  sub_title: April 2026
+  content: |
+    - **ValkariaRO 1-Year Anniversary:** Celebrate one full year of adventure and community.
+    - **SQI – Stage 1 Release:** Unlocked if the server achieves its targeted number of unique players.
+
+- title: Shadows and Serenity
+  icon: ./assets/item/7227.png  # Assassin / PvP themed item (example)
+  sub_title: May 2026
+  content: |
+    - **Wesak Day Event:** A peaceful seasonal celebration with unique rewards.
+    - **PvP Event – SinX vs SinX:** Assassins clash in deadly combat.
+    - **New Map Released:** Another new region opens for exploration.
+    - **World Boss I:** A returning world-level threat challenges all players.
+
+- title: Echoes of War
+  icon: ./assets/item/671.png  # Battlefield Flag
+  sub_title: June 2026
+  content: |
+    - **ValkariaRO 3rd WoE Event (TBC):** Large-scale warfare returns once more.
+    - **Hari Gawai Event:** Celebrate harvest and culture with themed activities.
+    - **New ValkariaRO Quest Released:** A fresh storyline unfolds.
+    - **World Boss II:** The world trembles as a powerful foe returns.
