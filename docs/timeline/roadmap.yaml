@@ -2,55 +2,55 @@
   icon: ./assets/item/20765.png  # Apple
   sub_title: "Events & Community"
   content: |
-    - **King Poring Event** — Released
-    - **NvN Event** — Released
-    - **FIFA World Cup Event** — Released
+    - King Poring Event — Released
+    - NvN Event — Released
+    - FIFA World Cup Event — Released
 
 - title: "August 2026"
   icon: ./assets/item/12016.png  # Apple
   sub_title: "Major Updates & Events"
   content: |
-    - **Enhanced War of Emperium** — Released
-    - **ValkariaRO Fishing AFK System** — Released
-    - **Merdeka Sales Event** — Released
-    - **World Boss Event** — Released
-    - **Dragon Ball: Shenron Blessing Event** — Released
+    - Enhanced War of Emperium — Released
+    - ValkariaRO Fishing AFK System — Released
+    - Merdeka Sales Event — Released
+    - World Boss Event — Released
+    - Dragon Ball: Shenron Blessing Event — Released
 
 - title: "September 2026"
   icon: ./assets/item/5826.png  # Yggdrasil Berry
   sub_title: "World & Costume Updates"
   content: |
-    - **Prontera Reorganization** — Released
-    - **Exclusive Costume Set: Demon Binding Ritual Set** — Released
+    - Prontera Reorganization — Released
+    - Exclusive Costume Set: Demon Binding Ritual Set — Released
 
 - title: "October 2026"
   icon: ./assets/item/5124.png  # Firecracker
   sub_title: "Halloween Special"
   content: |
-    - **Spooktacular Halloween Event** — Released
-    - **Halloween Special World Boss** — Released
+    - Spooktacular Halloween Event — Released
+    - Halloween Special World Boss — Released
 
 - title: "November 2026"
   icon: ./assets/item/714.png  # Emperium
   sub_title: "PvP & New Content"
   content: |
-    - **Monk vs Monk** — Planned
-    - **New Headgear Release** — Planned
-    - **New Map Release** — Planned
-    - **7v7 RWC Concept** — Planned
+    - Monk vs Monk — Planned
+    - New Headgear Release — Planned
+    - New Map Release — Planned
+    - 7v7 RWC Concept — Planned
 
 - title: "December 2026"
   icon: ./assets/item/1201.png  # World Map  
   sub_title: "Christmas & Guild Content"
   content: |
-    - **Christmas-Themed Event** — Planned
-    - **World Boss Invasion: New Year's Eve** — Planned
-    - **New Guild Dungeon Release** — Planned
+    - Christmas-Themed Event — Planned
+    - World Boss Invasion: New Year's Eve — Planned
+    - New Guild Dungeon Release — Planned
 
 - title: "January 2027"
   icon: ./assets/item/537.png  # Pumpkin  
   sub_title: "Progression & New Adventures"
   content: |
-    - **Weapon Crafting Upgrade** — Planned
-    - **New Dungeon Release** — Planned
-    - **7v7 RWC Concept** — Tentative (TBC)
+    - Weapon Crafting Upgrade — Planned
+    - New Dungeon Release — Planned
+    - 7v7 RWC Concept — Tentative (TBC)
