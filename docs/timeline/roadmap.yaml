@@ -1,56 +1,56 @@
-- title: "July 2026"
+- title: King of Events
   icon: ./assets/item/20765.png  # Apple
-  sub_title: "Events & Community"
+  sub_title: July 2026
   content: |
-    - King Poring Event — Released
-    - NvN Event — Released
-    - FIFA World Cup Event — Released
+    - **King Poring Event Released:** A royal Poring celebration awaits adventurers!
+    - **NvN Event Released:** Join the battle and prove your team's strength.
+    - **FIFA World Cup Event:** Celebrate the world of football with a special in-game event!
 
-- title: "August 2026"
-  icon: ./assets/item/12016.png  # Apple
-  sub_title: "Major Updates & Events"
+- title: Revolution of Valkaria
+  icon: ./assets/item/671.png  # Battlefield Flag
+  sub_title: August 2026
   content: |
-    - Enhanced War of Emperium — Released
-    - ValkariaRO Fishing AFK System — Released
-    - Merdeka Sales Event — Released
-    - World Boss Event — Released
-    - Dragon Ball: Shenron Blessing Event — Released
+    - **Enhanced War of Emperium:** Experience an improved guild warfare system.
+    - **ValkariaRO Fishing AFK System Released:** Relax, fish, and earn rewards while AFK.
+    - **Merdeka Sales Event:** Celebrate Malaysia's independence with special sales.
+    - **World Boss Event:** Unite with fellow adventurers to challenge a powerful enemy.
+    - **Dragon Ball: Shenron Blessing Event:** Summon Shenron and discover special event rewards!
 
-- title: "September 2026"
-  icon: ./assets/item/5826.png  # Yggdrasil Berry
-  sub_title: "World & Costume Updates"
+- title: Reforging the Capital
+  icon: ./assets/item/1201.png  # World Map
+  sub_title: September 2026
   content: |
-    - Prontera Reorganization — Released
-    - Exclusive Costume Set: Demon Binding Ritual Set — Released
+    - **Prontera Reorganization:** Experience a refreshed layout for the capital of Rune-Midgarts.
+    - **Exclusive Costume Set Released: Demon Binding Ritual Set:** Unleash a dark aesthetic with this exclusive costume collection.
 
-- title: "October 2026"
-  icon: ./assets/item/5124.png  # Firecracker
-  sub_title: "Halloween Special"
+- title: Spooktacular Halloween
+  icon: ./assets/item/537.png  # Pumpkin
+  sub_title: October 2026
   content: |
-    - Spooktacular Halloween Event — Released
-    - Halloween Special World Boss — Released
+    - **Spooktacular Halloween Event:** Enter a season of spooky adventures, special activities, and Halloween rewards!
+    - **Halloween Special World Boss:** Face a terrifying world boss with a special Halloween theme.
 
-- title: "November 2026"
+- title: Clash of Masters
+  icon: ./assets/item/671.png  # Battlefield Flag
+  sub_title: November 2026
+  content: |
+    - **Monk vs Monk:** Enter an intense martial arts showdown where only one Monk can claim victory.
+    - **New Headgear Release:** Discover fresh headgear to expand your collection.
+    - **New Map Release:** Explore another new area in the world of ValkariaRO.
+    - **7v7 RWC Concept:** A new competitive team-based PvP concept is in development.
+
+- title: Winter of Legends
+  icon: ./assets/item/531.png  # Snowflake
+  sub_title: December 2026
+  content: |
+    - **Christmas-Themed Event:** Celebrate the festive season with special activities and rewards.
+    - **World Boss Invasion (New Year's Eve):** Prepare for a massive invasion as powerful bosses descend upon ValkariaRO to close out the year!
+    - **New Guild Dungeon Release:** Discover a new guild dungeon filled with challenges and opportunities for teamwork.
+
+- title: Awakening of Heroes
   icon: ./assets/item/714.png  # Emperium
-  sub_title: "PvP & New Content"
+  sub_title: January 2027
   content: |
-    - Monk vs Monk — Planned
-    - New Headgear Release — Planned
-    - New Map Release — Planned
-    - 7v7 RWC Concept — Planned
-
-- title: "December 2026"
-  icon: ./assets/item/1201.png  # World Map  
-  sub_title: "Christmas & Guild Content"
-  content: |
-    - Christmas-Themed Event — Planned
-    - World Boss Invasion: New Year's Eve — Planned
-    - New Guild Dungeon Release — Planned
-
-- title: "January 2027"
-  icon: ./assets/item/537.png  # Pumpkin  
-  sub_title: "Progression & New Adventures"
-  content: |
-    - Weapon Crafting Upgrade — Planned
-    - New Dungeon Release — Planned
-    - 7v7 RWC Concept — Tentative (TBC)
+    - **Weapon Crafting Upgrade:** Enhance the weapon crafting system and expand your equipment progression.
+    - **New Dungeon Release:** Venture into a new dungeon and face fresh challenges.
+    - **7v7 RWC Concept (TBC):** The competitive team-based PvP concept remains under consideration.
