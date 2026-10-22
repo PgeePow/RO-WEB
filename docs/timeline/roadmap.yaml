@@ -1,50 +1,48 @@
 - title: King of Events
-  icon: ./assets/item/20765.png  # Apple
+  icon: ./assets/item/20765.png
   sub_title: July 2026
   content: |
-    "King Poring Event Released: A royal Poring celebration awaits adventurers!<br><br>NvN Event Released: Join the battle and prove your team's strength.<br><br>FIFA World Cup Event: Celebrate the world of football with a special in-game event!"
+    - King Poring Event Released: A royal Poring celebration awaits adventurers!<br>
+    - NvN Event Released: Join the battle and prove your team's strength.<br>
+    - FIFA World Cup Event: Celebrate the world of football with a special in-game event!
 
 - title: Revolution of Valkaria
-  icon: ./assets/item/671.png  # Battlefield Flag
+  icon: ./assets/item/671.png
   sub_title: August 2026
   content: |
-    "Enhanced War of Emperium: Experience improved guild warfare.<br><br>ValkariaRO Fishing AFK System Released: Fish and earn rewards while AFK.<br><br>Merdeka Sales Event: Celebrate Malaysia's independence with special sales.<br><br>World Boss Event: Unite to challenge a powerful enemy.<br><br>Dragon Ball — Shenron Blessing Event: Discover special event rewards!"
+    - Enhanced War of Emperium: Experience improved guild warfare.<br>
+    - ValkariaRO Fishing AFK System Released: Fish and earn rewards while AFK.<br>
+    - Merdeka Sales Event: Celebrate Malaysia's independence with special sales.<br>
+    - World Boss Event: Unite to challenge a powerful enemy.<br>
+    - Dragon Ball — Shenron Blessing Event: Discover special event rewards!
 
 - title: Reforging the Capital
-  icon: ./assets/item/1201.png  # World Map
+  icon: ./assets/item/1201.png
   sub_title: September 2026
   content: |
-    - **Prontera Reorganization:** Experience a refreshed layout for the capital of Rune-Midgarts.
-    - **Exclusive Costume Set Released: Demon Binding Ritual Set:** Unleash a dark aesthetic with this exclusive costume collection.
+    - Prontera Reorganization: Experience a refreshed layout for the capital of Rune-Midgarts.<br>
+    - Exclusive Costume Set Released — Demon Binding Ritual Set: Discover an exclusive dark-themed costume collection.
 
 - title: Spooktacular Halloween
-  icon: ./assets/item/537.png  # Pumpkin
+  icon: ./assets/item/537.png
   sub_title: October 2026
   content: |
-      - **Spooktacular Halloween Event:** Enter a season of spooky adventures, special activities, and Halloween rewards!
-      - **Halloween Special World Boss:** Face a terrifying world boss with a special Halloween theme.
+    - Spooktacular Halloween Event: Enter a season of spooky adventures, special activities, and Halloween rewards!<br>
+    - Halloween Special World Boss: Face a terrifying boss with a special Halloween theme.
 
 - title: Clash of Masters
-  icon: ./assets/item/671.png  # Battlefield Flag
+  icon: ./assets/item/671.png
   sub_title: November 2026
   content: |
-    - **Monk vs Monk:** Enter an intense martial arts showdown where only one Monk can claim victory.
-    - **New Headgear Release:** Discover fresh headgear to expand your collection.
-    - **New Map Release:** Explore another new area in the world of ValkariaRO.
-    - **7v7 RWC Concept:** A new competitive team-based PvP concept is in development.
+    - Monk vs Monk: Enter an intense martial arts showdown where only one Monk can claim victory.<br>
+    - New Headgear Release: Discover fresh headgear for your collection.<br>
+    - New Map Release: Explore another area in ValkariaRO.<br>
+    - 7v7 RWC Concept: A new competitive team-based PvP concept is planned.
 
 - title: Winter of Legends
-  icon: ./assets/item/531.png  # Snowflake
+  icon: ./assets/item/531.png
   sub_title: December 2026
   content: |
-    - **Christmas-Themed Event:** Celebrate the festive season with special activities and rewards.
-    - **World Boss Invasion (New Year's Eve):** Prepare for a massive invasion as powerful bosses descend upon ValkariaRO to close out the year!
-    - **New Guild Dungeon Release:** Discover a new guild dungeon filled with challenges and opportunities for teamwork.
-
-- title: Awakening of Heroes
-  icon: ./assets/item/714.png  # Emperium
-  sub_title: January 2027
-  content: |
-    - **Weapon Crafting Upgrade:** Enhance the weapon crafting system and expand your equipment progression.
-    - **New Dungeon Release:** Venture into a new dungeon and face fresh challenges.
-    - **7v7 RWC Concept (TBC):** The competitive team-based PvP concept remains under consideration.
+    - Christmas-Themed Event: Celebrate the festive season with special activities and rewards.<br>
+    - World Boss Invasion — New Year's Eve: Prepare for a massive invasion as powerful bosses descend upon ValkariaRO!<br>
+    - New Guild Dungeon Release: Discover a new guild dungeon built around teamwork and challenging encounters.
