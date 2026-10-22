@@ -2,15 +2,13 @@
   icon: ./assets/item/20765.png  # Apple
   sub_title: July 2026
   content: |
-    - **King Poring Event Released: ** A royal Poring celebration awaits adventurers!
-    - **NvN Event Released: ** Join the battle and prove your team's strength.
-    - **FIFA World Cup Event:** Celebrate the world of football with a special in-game event!
+    "King Poring Event Released: A royal Poring celebration awaits adventurers!<br><br>NvN Event Released: Join the battle and prove your team's strength.<br><br>FIFA World Cup Event: Celebrate the world of football with a special in-game event!"
 
 - title: Revolution of Valkaria
   icon: ./assets/item/671.png  # Battlefield Flag
   sub_title: August 2026
   content: |
-      "King Poring Event Released: A royal Poring celebration awaits adventurers!<br><br>NvN Event Released: Join the battle and prove your team's strength.<br><br>FIFA World Cup Event: Celebrate the world of football with a special in-game event!"
+    "Enhanced War of Emperium: Experience improved guild warfare.<br><br>ValkariaRO Fishing AFK System Released: Fish and earn rewards while AFK.<br><br>Merdeka Sales Event: Celebrate Malaysia's independence with special sales.<br><br>World Boss Event: Unite to challenge a powerful enemy.<br><br>Dragon Ball — Shenron Blessing Event: Discover special event rewards!"
 
 - title: Reforging the Capital
   icon: ./assets/item/1201.png  # World Map
